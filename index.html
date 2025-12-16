@@ -1,0 +1,294 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DrugChug Qbank</title>
+  <style>
+    body { font-family: system-ui, Arial, sans-serif; line-height: 1.45; margin: 0; padding: 16px; }
+    .container { max-width: 900px; margin: 0 auto; }
+    .controls { display: flex; gap: 12px; flex-wrap: wrap; align-items: flex-end; }
+    label { display: block; font-size: 0.9rem; }
+    select, input { padding: 8px; font-size: 1rem; }
+    button { padding: 10px 14px; font-size: 1rem; cursor: pointer; }
+    .small { font-size: 0.9rem; opacity: 0.85; }
+    .hidden { display: none; }
+    .card { margin-top: 16px; padding: 16px; border: 1px solid #ddd; border-radius: 12px; }
+    .choice { display: block; padding: 8px 10px; border: 1px solid #ddd; border-radius: 10px; margin-top: 8px; }
+    .choice.correct { border-color: #2e7d32; background: #e8f5e9; }
+    .choice.incorrect { border-color: #c62828; background: #ffebee; }
+    .explanation { margin-top: 12px; padding: 12px; border-left: 4px solid #999; background: #f7f7f7; border-radius: 8px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>DrugChug Practice Questions</h1>
+
+    <div class="controls">
+      <div>
+        <label for="category">Drug class</label>
+        <select id="category"></select>
+      </div>
+      <div>
+        <label for="num"># Questions</label>
+        <input id="num" type="number" min="1" value="10" style="width:110px;" />
+      </div>
+      <div>
+        <button id="startBtn" disabled>Start random quiz</button>
+      </div>
+      <div>
+        <button id="newBtn" class="hidden">New random set</button>
+      </div>
+    </div>
+
+    <div id="status" class="small" style="margin-top:8px;">Loading question bank…</div>
+
+    <div id="quiz" class="card hidden">
+      <div id="progress" class="small"></div>
+      <h2 id="stem" style="margin-top:10px;"></h2>
+      <div id="choices"></div>
+
+      <div style="margin-top:12px; display:flex; gap:10px; flex-wrap:wrap;">
+        <button id="submitBtn">Check answer</button>
+        <button id="nextBtn" class="hidden">Next</button>
+      </div>
+
+      <div id="feedback" class="explanation hidden"></div>
+    </div>
+
+    <div id="results" class="card hidden">
+      <h2>Results</h2>
+      <p id="scoreLine"></p>
+      <button id="restartBtn">Take another random quiz</button>
+    </div>
+
+    <p class="small" style="margin-top:18px;">Educational content only. Not medical advice.</p>
+  </div>
+
+<script>
+(() => {
+  let BANK = [];
+  let QUIZ = [];
+  let current = 0;
+  let score = 0;
+  let locked = false;
+
+  const els = {
+    category: document.getElementById('category'),
+    num: document.getElementById('num'),
+    startBtn: document.getElementById('startBtn'),
+    newBtn: document.getElementById('newBtn'),
+    status: document.getElementById('status'),
+    quiz: document.getElementById('quiz'),
+    progress: document.getElementById('progress'),
+    stem: document.getElementById('stem'),
+    choices: document.getElementById('choices'),
+    submitBtn: document.getElementById('submitBtn'),
+    nextBtn: document.getElementById('nextBtn'),
+    feedback: document.getElementById('feedback'),
+    results: document.getElementById('results'),
+    scoreLine: document.getElementById('scoreLine'),
+    restartBtn: document.getElementById('restartBtn'),
+  };
+
+  function escapeHtml(s) {
+    return String(s ?? '')
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;')
+      .replaceAll("'", '&#039;');
+  }
+
+  function uniq(arr) { return Array.from(new Set(arr)).sort((a,b) => a.localeCompare(b)); }
+
+  function shuffleInPlace(arr) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
+  function sampleWithoutReplacement(arr, n) {
+    const copy = arr.slice();
+    shuffleInPlace(copy);
+    return copy.slice(0, Math.max(0, Math.min(n, copy.length)));
+  }
+
+  function params() {
+    const p = new URLSearchParams(location.search);
+    return { cat: p.get('cat') || 'All', n: p.get('n') ? parseInt(p.get('n'), 10) : null };
+  }
+
+  function show(el, on) { el.classList.toggle('hidden', !on); }
+  function setStatus(msg) { els.status.textContent = msg; }
+
+  function resetUIForQuestion() {
+    locked = false;
+    els.submitBtn.disabled = false;
+    show(els.nextBtn, false);
+    show(els.feedback, false);
+    els.feedback.innerHTML = '';
+  }
+
+  function renderQuestion() {
+    const q = QUIZ[current];
+    if (!q) return;
+
+    show(els.results, false);
+    show(els.quiz, true);
+    show(els.newBtn, true);
+
+    els.progress.textContent = `Question ${current + 1} of ${QUIZ.length}`;
+    els.stem.textContent = q.stem;
+
+    els.choices.innerHTML = '';
+    q.choices.forEach((text, idx) => {
+      const id = `c_${current}_${idx}`;
+      const label = document.createElement('label');
+      label.className = 'choice';
+      label.htmlFor = id;
+
+      const input = document.createElement('input');
+      input.type = 'radio';
+      input.name = 'choice';
+      input.id = id;
+      input.value = String(idx);
+      input.style.marginRight = '10px';
+
+      label.appendChild(input);
+      label.appendChild(document.createTextNode(text));
+      els.choices.appendChild(label);
+    });
+
+    resetUIForQuestion();
+  }
+
+  function selectedIndex() {
+    const selected = document.querySelector('input[name="choice"]:checked');
+    return selected ? parseInt(selected.value, 10) : null;
+  }
+
+  function lockAndReveal(selIdx) {
+    const q = QUIZ[current];
+    const labels = els.choices.querySelectorAll('.choice');
+
+    labels.forEach((label, idx) => {
+      if (idx === q.answerIndex) label.classList.add('correct');
+      if (selIdx !== null && idx === selIdx && selIdx !== q.answerIndex) label.classList.add('incorrect');
+
+      const input = label.querySelector('input');
+      if (input) input.disabled = true;
+    });
+
+    els.submitBtn.disabled = true;
+    show(els.nextBtn, true);
+    locked = true;
+
+    const correctText = q.choices[q.answerIndex];
+    const isCorrect = selIdx === q.answerIndex;
+    if (isCorrect) score += 1;
+
+    const ref = q.reference ? `<div class="small" style="margin-top:8px;"><strong>Reference:</strong> ${escapeHtml(q.reference)}</div>` : '';
+    els.feedback.innerHTML =
+      `<div><strong>${isCorrect ? 'Correct ✅' : 'Incorrect ❌'}</strong></div>` +
+      `<div class="small" style="margin-top:6px;"><strong>Correct answer:</strong> ${escapeHtml(correctText)}</div>` +
+      `<div style="margin-top:10px;">${escapeHtml(q.explanation)}</div>` +
+      ref;
+
+    show(els.feedback, true);
+  }
+
+  function startQuiz() {
+    const cat = els.category.value;
+    const n = Math.max(1, parseInt(els.num.value, 10) || 10);
+
+    const filtered = (cat === 'All') ? BANK : BANK.filter(q => q.category === cat);
+    if (filtered.length === 0) {
+      setStatus(`No questions found for "${cat}".`);
+      show(els.quiz, false);
+      show(els.results, false);
+      return;
+    }
+
+    QUIZ = sampleWithoutReplacement(filtered, n);
+    current = 0;
+    score = 0;
+    renderQuestion();
+    setStatus(`Loaded ${BANK.length} questions.`);
+  }
+
+  function nextQuestion() {
+    if (!locked) return;
+    current += 1;
+    if (current >= QUIZ.length) {
+      show(els.quiz, false);
+      show(els.results, true);
+      els.scoreLine.textContent = `You scored ${score} / ${QUIZ.length}.`;
+    } else {
+      renderQuestion();
+    }
+  }
+
+  async function init() {
+    try {
+      const res = await fetch('./questions.json', { cache: 'no-store' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const raw = await res.json();
+      if (!Array.isArray(raw)) throw new Error('questions.json must be a JSON array.');
+
+      BANK = raw.map(q => ({
+        id: String(q.id ?? ''),
+        category: String(q.category ?? 'Uncategorized') || 'Uncategorized',
+        stem: String(q.stem ?? ''),
+        choices: Array.isArray(q.choices) ? q.choices.map(String) : [],
+        answerIndex: Number(q.answerIndex),
+        explanation: String(q.explanation ?? ''),
+        reference: q.reference ? String(q.reference) : ''
+      })).filter(q => q.stem && q.choices.length >= 2 && Number.isFinite(q.answerIndex));
+
+      const cats = uniq(BANK.map(q => q.category));
+
+      els.category.innerHTML = '';
+      const allOpt = document.createElement('option');
+      allOpt.value = 'All';
+      allOpt.textContent = 'All categories';
+      els.category.appendChild(allOpt);
+
+      cats.forEach(c => {
+        const opt = document.createElement('option');
+        opt.value = c;
+        opt.textContent = c;
+        els.category.appendChild(opt);
+      });
+
+      const p = params();
+      if (p.n) els.num.value = String(p.n);
+      if (p.cat && cats.includes(p.cat)) els.category.value = p.cat;
+
+      els.startBtn.disabled = false;
+      setStatus(`Loaded ${BANK.length} questions. Choose a category and start.`);
+    } catch (e) {
+      console.error(e);
+      setStatus('Could not load questions.json. Make sure it exists and is valid JSON.');
+    }
+  }
+
+  els.startBtn.addEventListener('click', startQuiz);
+  els.newBtn.addEventListener('click', startQuiz);
+
+  els.submitBtn.addEventListener('click', () => {
+    const idx = selectedIndex();
+    if (idx === null) return setStatus('Pick an answer first.');
+    lockAndReveal(idx);
+  });
+
+  els.nextBtn.addEventListener('click', nextQuestion);
+  els.restartBtn.addEventListener('click', () => { show(els.results, false); startQuiz(); });
+
+  init();
+})();
+</script>
+</body>
+</html>
