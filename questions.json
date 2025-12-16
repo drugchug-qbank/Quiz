@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CARD-001",
+    "category": "Cardiac",
+    "stem": "A 64-year-old with HFrEF is started on a medication that reduces mortality by blocking beta-1 receptors. Which drug is most appropriate?",
+    "choices": ["Amlodipine", "Carvedilol", "Hydralazine", "Verapamil"],
+    "answerIndex": 1,
+    "explanation": "Carvedilol (and other evidence-based beta blockers) improves survival in HFrEF. The other options do not provide the same mortality benefit in this context.",
+    "reference": "Add your reference here (optional)"
+  },
+  {
+    "id": "ABX-001",
+    "category": "Antibiotics",
+    "stem": "A patient develops tendon pain after starting an antibiotic for pyelonephritis. Which class is most associated with this adverse effect?",
+    "choices": ["Macrolides", "Fluoroquinolones", "Tetracyclines", "Sulfonamides"],
+    "answerIndex": 1,
+    "explanation": "Fluoroquinolones are associated with tendinopathy and tendon rupture risk.",
+    "reference": "Optional"
+  }
+]
