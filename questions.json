@@ -1019,4 +1019,381 @@
     "explanation": "Allopurinol inhibits xanthine oxidase, which metabolizes 6-mercaptopurine (the active metabolite of azathioprine). Co-administration can increase 6-MP levels and cause severe myelosuppression unless the azathioprine dose is reduced.",
     "reference": ""
   }
+[
+  {
+    "id": "DCB25-0001",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A 60-year-old with HFrEF is switching from lisinopril to sacubitril/valsartan due to persistent symptoms. What is the most important step to reduce the risk of angioedema during this transition?",
+    "choices": [
+      "Start sacubitril/valsartan the next day after the last lisinopril dose",
+      "Wait at least 36 hours after stopping lisinopril before starting sacubitril/valsartan",
+      "Continue lisinopril at a low dose while titrating sacubitril/valsartan upward",
+      "Add spironolactone for one week before starting sacubitril/valsartan"
+    ],
+    "answerIndex": 1,
+    "explanation": "ARNI therapy (sacubitril/valsartan) increases bradykinin via neprilysin inhibition. Combining with an ACE inhibitor raises angioedema risk, so a washout period (commonly 36 hours) is required when switching from an ACE inhibitor.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0002",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient started on hydralazine for resistant hypertension returns with arthralgias, fever, and a new malar-type rash. Which adverse effect is most consistent with hydralazine?",
+    "choices": [
+      "Drug-induced lupus-like syndrome",
+      "Pulmonary fibrosis",
+      "Hyperkalemia from ENaC blockade",
+      "Optic neuritis with red-green color blindness"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hydralazine can cause a drug-induced lupus-like syndrome (e.g., arthralgias, fever, rash) and is more common in slow acetylators. It may also cause reflex tachycardia and fluid retention.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0003",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with hypertension stops clonidine abruptly and develops severe headache, tachycardia, and markedly elevated blood pressure. What best explains this reaction?",
+    "choices": [
+      "Rebound sympathetic outflow after sudden withdrawal of an alpha-2 agonist",
+      "Unopposed alpha stimulation due to beta blocker overdose",
+      "Excess acetylcholine due to acetylcholinesterase inhibition",
+      "Direct renin inhibition causing acute catecholamine release"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clonidine is a central alpha-2 agonist that decreases sympathetic outflow. Abrupt discontinuation can cause rebound hypertension due to sudden sympathetic activation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0004",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A 68-year-old started on prazosin for hypertension reports dizziness and fainting after the first dose. Which adverse effect is most characteristic of this medication?",
+    "choices": [
+      "First-dose orthostatic hypotension/syncope",
+      "Hyperkalemia",
+      "Cough from bradykinin accumulation",
+      "Pulmonary fibrosis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alpha-1 blockers (e.g., prazosin) can cause marked first-dose orthostatic hypotension and syncope. They can also cause dizziness and reflex tachycardia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0005",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with atrial arrhythmia is started on procainamide and later develops arthralgias and a positive ANA. Which adverse effect is most associated with procainamide?",
+    "choices": [
+      "Drug-induced lupus-like syndrome",
+      "Severe constipation and bradycardia",
+      "Pulmonary toxicity with fibrosis",
+      "Bone marrow suppression with neutropenia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Procainamide (Class IA antiarrhythmic) is associated with drug-induced lupus-like syndrome. Other class IA effects include QT prolongation and torsades risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0006",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient is started on sotalol for atrial fibrillation and later develops syncope. ECG shows a prolonged QT interval with polymorphic ventricular tachycardia. Which mechanism best explains this adverse effect?",
+    "choices": [
+      "Blockade of fast sodium channels causing QRS widening",
+      "Blockade of potassium channels prolonging repolarization (torsades risk)",
+      "Excess vagal stimulation causing AV nodal blockade",
+      "Inhibition of adenosine breakdown causing bronchospasm"
+    ],
+    "answerIndex": 1,
+    "explanation": "Sotalol has Class III activity (potassium channel blockade) that prolongs the QT interval and increases the risk of torsades de pointes. It also has beta-blocking activity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0007",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A 29-year-old with paroxysmal supraventricular tachycardia (PSVT) receives adenosine in the ED and briefly feels chest tightness and flushing. Which additional adverse effect is most concerning in a patient with asthma?",
+    "choices": [
+      "Bronchospasm",
+      "Hyperkalemia",
+      "Thrombocytopenia",
+      "Nephrolithiasis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Adenosine can cause flushing, chest discomfort, and bronchospasm. It should be used cautiously in patients with reactive airway disease.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0008",
+    "category": "Lipids",
+    "difficulty": "Medium",
+    "stem": "A patient with familial hypercholesterolemia is started on a PCSK9 inhibitor. How do PCSK9 inhibitors lower LDL cholesterol?",
+    "choices": [
+      "Increase LDL receptor recycling and increase hepatic LDL clearance",
+      "Block intestinal cholesterol absorption via NPC1L1",
+      "Inhibit HMG-CoA reductase to reduce cholesterol synthesis",
+      "Activate PPAR-alpha to reduce triglycerides"
+    ],
+    "answerIndex": 0,
+    "explanation": "PCSK9 promotes LDL receptor degradation. Inhibiting PCSK9 increases LDL receptor recycling and hepatic clearance of LDL, lowering LDL cholesterol.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0009",
+    "category": "Lipids",
+    "difficulty": "Easy",
+    "stem": "A lipid-lowering medication blocks intestinal cholesterol absorption by inhibiting the NPC1L1 transporter at the brush border. Which drug is this?",
+    "choices": [
+      "Ezetimibe",
+      "Atorvastatin",
+      "Gemfibrozil",
+      "Niacin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ezetimibe inhibits NPC1L1, decreasing intestinal cholesterol absorption and lowering LDL.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0010",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "An antibiotic binds the 30S ribosomal subunit and causes misreading of mRNA. It is bactericidal and shows synergistic killing with beta-lactams. Which class fits best?",
+    "choices": [
+      "Aminoglycosides",
+      "Macrolides",
+      "Tetracyclines",
+      "Sulfonamides"
+    ],
+    "answerIndex": 0,
+    "explanation": "Aminoglycosides bind the 30S subunit, cause misreading of mRNA, are bactericidal, and can be synergistic with beta-lactams. Key toxicities include nephrotoxicity and ototoxicity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0011",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient treated with gentamicin develops rising creatinine and hearing loss. Which adverse effect profile is most characteristic of aminoglycosides?",
+    "choices": [
+      "Ototoxicity and nephrotoxicity",
+      "Optic neuritis and red-green color blindness",
+      "Pulmonary fibrosis and skin hyperpigmentation",
+      "Hemorrhagic cystitis and SIADH"
+    ],
+    "answerIndex": 0,
+    "explanation": "Aminoglycosides commonly cause nephrotoxicity and ototoxicity (vestibular or auditory). Risk increases with higher doses and prolonged therapy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0012",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A neonate treated with an antibiotic develops vomiting, abdominal distension, cyanosis, and a 'gray' appearance. The neonate has poor hepatic glucuronidation. Which antibiotic is most likely responsible?",
+    "choices": [
+      "Chloramphenicol",
+      "Ceftriaxone",
+      "Acyclovir",
+      "Vancomycin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chloramphenicol can cause 'gray baby syndrome' in neonates due to inadequate UDP-glucuronyl transferase activity, leading to drug accumulation and toxicity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0013",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "A patient being treated for tuberculosis develops decreased visual acuity and difficulty distinguishing red from green. Which medication is most likely responsible?",
+    "choices": [
+      "Ethambutol",
+      "Isoniazid",
+      "Rifampin",
+      "Pyrazinamide"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ethambutol can cause optic neuritis with decreased visual acuity and red-green color blindness. Vision monitoring is important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0014",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "A patient on therapy for tuberculosis develops hyperuricemia and painful swelling of the big toe. Which medication is most associated with this adverse effect?",
+    "choices": [
+      "Pyrazinamide",
+      "Ethambutol",
+      "Rifampin",
+      "Isoniazid"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pyrazinamide can cause hyperuricemia (gout flares) and hepatotoxicity. Monitoring is recommended during therapy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0015",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "A patient with a history of severe IgE-mediated penicillin allergy needs coverage for gram-negative rods including Pseudomonas. Which beta-lactam is least likely to cross-react and is appropriate from the list?",
+    "choices": [
+      "Aztreonam",
+      "Amoxicillin",
+      "Piperacillin",
+      "Nafcillin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Aztreonam is a monobactam with minimal cross-reactivity to penicillins and covers many gram-negative organisms including Pseudomonas.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0016",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A hospitalized patient with severe polymicrobial infection receives imipenem and later has a seizure. Which statement best explains this risk?",
+    "choices": [
+      "Carbapenems can lower the seizure threshold, particularly imipenem",
+      "Carbapenems cause severe QT prolongation via potassium channel blockade",
+      "Carbapenems are inactivated by pulmonary surfactant",
+      "Carbapenems cause hemolysis in G6PD deficiency"
+    ],
+    "answerIndex": 0,
+    "explanation": "Imipenem (a carbapenem) is associated with seizure risk, especially in patients with renal impairment or CNS disease. Carbapenems are broad-spectrum beta-lactams.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0017",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "A medication for acne chelates divalent cations and can cause photosensitivity. It is contraindicated in pregnancy and in young children due to effects on teeth and bone. Which drug fits best?",
+    "choices": [
+      "Doxycycline",
+      "Azithromycin",
+      "Cefazolin",
+      "Linezolid"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tetracyclines (e.g., doxycycline) chelate calcium/iron, can cause photosensitivity, and can discolor teeth and affect bone growth—so they are avoided in pregnancy and in young children.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0018",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient on antibiotics develops easy bruising and bleeding. Labs show prolonged PT with normal aPTT. Which cephalosporin side effect best explains this finding?",
+    "choices": [
+      "Hypoprothrombinemia from impaired vitamin K–dependent factor activation",
+      "Platelet GPIIb/IIIa inhibition",
+      "Direct thrombin inhibition",
+      "Factor Xa activation"
+    ],
+    "answerIndex": 0,
+    "explanation": "Some cephalosporins (especially those with an N-methylthiotetrazole side chain) can cause hypoprothrombinemia and bleeding by interfering with vitamin K–dependent clotting factors.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0019",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "A patient treated for invasive aspergillosis with voriconazole reports seeing flashes of light and vivid visual disturbances shortly after dosing. Which adverse effect is most characteristic of voriconazole?",
+    "choices": [
+      "Transient visual disturbances",
+      "Severe ototoxicity",
+      "Hemorrhagic cystitis",
+      "Optic neuritis with red-green color blindness"
+    ],
+    "answerIndex": 0,
+    "explanation": "Voriconazole (an azole) can cause transient visual disturbances (photopsias) and can inhibit CYP enzymes, increasing drug interaction risk. Hepatotoxicity is also possible.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0020",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "A patient receiving amphotericin B develops fever, chills, and rigors during the infusion. Which description best explains this reaction?",
+    "choices": [
+      "Infusion-related cytokine reaction that can be managed with premedication/supportive care",
+      "IgE-mediated anaphylaxis requiring permanent avoidance",
+      "Serotonin syndrome due to MAOI activity",
+      "Acute dystonia due to dopamine blockade"
+    ],
+    "answerIndex": 0,
+    "explanation": "Amphotericin B can cause infusion-related reactions (fever, chills, rigors) and nephrotoxicity. Infusion reactions are often managed with premedication (e.g., acetaminophen) and supportive care.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0021",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "A patient with tinea corporis is prescribed griseofulvin. Which counseling point is most accurate?",
+    "choices": [
+      "It induces hepatic CYP enzymes and can reduce oral contraceptive efficacy",
+      "It is inactivated by pulmonary surfactant and should not be used for pneumonia",
+      "It is a PCSK9 inhibitor that lowers LDL",
+      "It irreversibly blocks the H+/K+ ATPase in parietal cells"
+    ],
+    "answerIndex": 0,
+    "explanation": "Griseofulvin is used for dermatophyte infections, induces CYP enzymes (reducing efficacy of drugs like oral contraceptives), and can cause photosensitivity. It is generally avoided in pregnancy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0022",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "A patient is started on abacavir as part of HIV therapy and develops fever, rash, malaise, and GI symptoms within days. Which genetic test is recommended before starting abacavir to reduce risk of this reaction?",
+    "choices": [
+      "HLA-B*57:01 screening",
+      "Factor V Leiden testing",
+      "TPMT activity testing",
+      "BRCA1/2 testing"
+    ],
+    "answerIndex": 0,
+    "explanation": "Abacavir can cause a potentially life-threatening hypersensitivity reaction associated with HLA-B*57:01. Screening before initiation reduces risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0023",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "A patient on tenofovir develops proximal tubular dysfunction with phosphate wasting and decreased bone mineral density. Which adverse effect best describes this complication?",
+    "choices": [
+      "Fanconi-like syndrome with renal tubular toxicity",
+      "Pulmonary fibrosis",
+      "Optic neuritis",
+      "Hemorrhagic cystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tenofovir can cause renal tubular toxicity (Fanconi-like syndrome) and reduced bone mineral density. Monitoring renal function is important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0024",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with thyroid storm is treated with a thionamide followed by iodine solution. Why is iodine given after the thionamide rather than before?",
+    "choices": [
+      "To prevent iodine from being used as substrate for new thyroid hormone synthesis",
+      "To increase thyroid hormone release immediately",
+      "To increase peripheral conversion of T4 to T3",
+      "To prevent hyperkalemia by blocking ENaC"
+    ],
+    "answerIndex": 0,
+    "explanation": "Iodine acutely inhibits thyroid hormone release (Wolff-Chaikoff effect), but if given before thionamides it can also provide substrate for new hormone synthesis. Giving a thionamide first blocks synthesis, then iodine blocks release.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0025",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on long-term high-dose prednisone develops proximal muscle weakness, easy bruising, and osteoporosis. Which complication is most directly related to glucocorticoids and requires preventive management?",
+    "choices": [
+      "Osteoporosis and fracture risk",
+      "Optic neuritis",
+      "Hemorrhagic cystitis",
+      "Gray baby syndrome"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic glucocorticoid therapy increases osteoporosis risk (bone loss and fractures). Preventive measures often include calcium/vitamin D and, in higher-risk patients, bisphosphonates based on clinical assessment.",
+    "reference": ""
+  }
+]
 ]
