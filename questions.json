@@ -1018,8 +1018,7 @@
     "answerIndex": 0,
     "explanation": "Allopurinol inhibits xanthine oxidase, which metabolizes 6-mercaptopurine (the active metabolite of azathioprine). Co-administration can increase 6-MP levels and cause severe myelosuppression unless the azathioprine dose is reduced.",
     "reference": ""
-  }
-[
+ },
   {
     "id": "DCB25-0001",
     "category": "Cardiac",
