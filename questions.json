@@ -1394,5 +1394,256 @@
     "explanation": "Chronic glucocorticoid therapy increases osteoporosis risk (bone loss and fractures). Preventive measures often include calcium/vitamin D and, in higher-risk patients, bisphosphonates based on clinical assessment.",
     "reference": ""
   }
+,
+  {
+    "id": "DCB25-0026",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with type 2 diabetes is found unresponsive with severe hypoglycemia after accidentally taking a double dose of glyburide. Despite dextrose, hypoglycemia recurs. Which medication can reduce recurrent hypoglycemia from sulfonylurea overdose?",
+    "choices": ["Octreotide", "Naloxone", "Flumazenil", "Fomepizole"],
+    "answerIndex": 0,
+    "explanation": "Octreotide suppresses insulin release and is used to prevent recurrent hypoglycemia in sulfonylurea overdose (in addition to dextrose and supportive care).",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0027",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient treated with insulin for diabetic ketoacidosis develops muscle weakness and ECG changes consistent with hypokalemia. Why can insulin therapy worsen hypokalemia?",
+    "choices": ["Insulin drives potassium into cells, lowering serum potassium", "Insulin blocks aldosterone receptors, increasing potassium loss", "Insulin inhibits carbonic anhydrase, causing bicarbonate loss", "Insulin prevents sodium reabsorption in the thick ascending limb"],
+    "answerIndex": 0,
+    "explanation": "Insulin stimulates cellular uptake of potassium (via Na+/K+ ATPase activity), lowering serum potassium. Potassium must be monitored and repleted during DKA treatment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0028",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient with new-onset seizures is started on phenytoin. Which adverse effect is most characteristic of chronic phenytoin therapy?",
+    "choices": ["Gingival hyperplasia and hirsutism", "Pulmonary fibrosis", "Severe hypoglycemia", "Hyperkalemia from ENaC blockade"],
+    "answerIndex": 0,
+    "explanation": "Phenytoin can cause gingival hyperplasia, hirsutism, neuropathy, and osteopenia/osteomalacia. It can also follow zero-order kinetics at higher concentrations and is teratogenic.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0029",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient with bipolar disorder is started on lamotrigine and returns with fever and a painful spreading rash with mucosal involvement. Which serious adverse effect is most concerning?",
+    "choices": ["Stevens-Johnson syndrome/toxic epidermal necrolysis", "Drug-induced lupus-like syndrome", "Pulmonary fibrosis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Lamotrigine can cause serious rash including Stevens-Johnson syndrome, especially with rapid dose escalation. Stop the drug and evaluate urgently if suspected.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0030",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient with trigeminal neuralgia starts a medication and later develops hyponatremia and leukopenia. Which antiseizure medication is most likely responsible?",
+    "choices": ["Carbamazepine", "Levetiracetam", "Gabapentin", "Ethosuximide"],
+    "answerIndex": 0,
+    "explanation": "Carbamazepine is used for trigeminal neuralgia and can cause SIADH (hyponatremia) and bone marrow suppression (including leukopenia).",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0031",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient with Parkinson disease is started on selegiline. Which statement about this medication is most accurate?",
+    "choices": ["It is a selective MAO-B inhibitor that increases dopamine levels", "It is a dopamine D2 receptor antagonist used for psychosis", "It blocks acetylcholinesterase to improve memory", "It is a GABA-A antagonist used to reverse sedation"],
+    "answerIndex": 0,
+    "explanation": "Selegiline selectively inhibits MAO-B in the CNS, decreasing dopamine breakdown and improving Parkinson symptoms.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0032",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient on haloperidol develops high fever, severe 'lead-pipe' rigidity, confusion, and autonomic instability. Which medication is appropriate for treatment?",
+    "choices": ["Dantrolene", "Flumazenil", "Protamine sulfate", "Idarucizumab"],
+    "answerIndex": 0,
+    "explanation": "This presentation is consistent with neuroleptic malignant syndrome. Treatment includes stopping the antipsychotic, supportive care, and agents such as dantrolene and/or dopamine agonists depending on severity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0033",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "A patient with opioid use disorder is treated with a medication that is a partial mu-opioid receptor agonist and has a ceiling effect on respiratory depression. Which medication fits this description?",
+    "choices": ["Buprenorphine", "Morphine", "Naloxone", "Fentanyl"],
+    "answerIndex": 0,
+    "explanation": "Buprenorphine is a partial mu-opioid agonist used for opioid use disorder and pain. Partial agonism provides a ceiling effect on respiratory depression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0034",
+    "category": "Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient with extensive burn injuries 3 weeks ago requires intubation for surgery. Which neuromuscular blocker should generally be avoided due to risk of dangerous hyperkalemia?",
+    "choices": ["Succinylcholine", "Rocuronium", "Vecuronium", "Cisatracurium"],
+    "answerIndex": 0,
+    "explanation": "After burns, trauma, or denervation, upregulated extrajunctional acetylcholine receptors increase potassium release with succinylcholine, risking severe hyperkalemia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0035",
+    "category": "Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient receives a large dose of bupivacaine during a procedure and develops seizures and cardiac arrhythmias consistent with local anesthetic systemic toxicity (LAST). Which treatment is most appropriate?",
+    "choices": ["IV lipid emulsion therapy", "N-acetylcysteine", "Vitamin K", "Digoxin immune Fab"],
+    "answerIndex": 0,
+    "explanation": "Local anesthetic systemic toxicity can be treated with IV lipid emulsion therapy plus supportive care and resuscitation measures as needed.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0036",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient with moderate-to-severe allergic asthma has frequent exacerbations despite inhaled corticosteroids. They are started on omalizumab. What is the target of this therapy?",
+    "choices": ["IgE", "IL-5 receptor", "TNF-alpha", "CD20"],
+    "answerIndex": 0,
+    "explanation": "Omalizumab binds IgE and reduces allergic inflammation in selected patients with allergic asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0037",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient with asthma is started on zileuton. Which adverse effect requires monitoring with this medication?",
+    "choices": ["Hepatotoxicity (elevated liver enzymes)", "Nephrotoxicity with electrolyte wasting", "Optic neuritis", "Pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Zileuton inhibits 5-lipoxygenase and can cause hepatotoxicity, so liver enzymes should be monitored.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0038",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A patient with COPD is started on tiotropium and later reports dry mouth and urinary retention. What best describes this medication’s mechanism?",
+    "choices": ["Long-acting muscarinic antagonism causing bronchodilation", "Beta-2 agonism increasing cAMP in airway smooth muscle", "Leukotriene receptor antagonism", "Inhibition of phosphodiesterase-5"],
+    "answerIndex": 0,
+    "explanation": "Tiotropium is a long-acting muscarinic antagonist (LAMA). Anticholinergic adverse effects include dry mouth and urinary retention.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0039",
+    "category": "GI",
+    "difficulty": "Easy",
+    "stem": "A patient with chemotherapy-induced nausea is given ondansetron. Which receptor does ondansetron primarily block?",
+    "choices": ["5-HT3 serotonin receptors", "D2 dopamine receptors", "H1 histamine receptors", "Muscarinic receptors"],
+    "answerIndex": 0,
+    "explanation": "Ondansetron is a 5-HT3 receptor antagonist used for nausea/vomiting (especially chemotherapy-related). It can prolong QT.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0040",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient with GERD is started on cimetidine. Which additional effect is most characteristic of cimetidine compared with other H2 blockers?",
+    "choices": ["CYP450 inhibition and antiandrogen effects", "Severe ototoxicity", "Direct irreversible inhibition of the proton pump", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Cimetidine inhibits CYP450 and can cause antiandrogen effects (gynecomastia, impotence).",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0041",
+    "category": "Renal",
+    "difficulty": "Easy",
+    "stem": "A hiker takes acetazolamide for altitude sickness prevention. Which acid-base change is most expected from acetazolamide therapy?",
+    "choices": ["Metabolic acidosis", "Metabolic alkalosis", "Respiratory acidosis", "Respiratory alkalosis"],
+    "answerIndex": 0,
+    "explanation": "Acetazolamide inhibits carbonic anhydrase in the proximal tubule, causing bicarbonate loss and metabolic acidosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0042",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Hard",
+    "stem": "A hospitalized patient on heparin develops a >50% drop in platelet count and a new thrombosis. What is the most appropriate next step?",
+    "choices": ["Stop all heparin and start a non-heparin anticoagulant (e.g., argatroban)", "Continue heparin and add aspirin", "Give vitamin K immediately", "Switch from heparin to warfarin immediately without overlap"],
+    "answerIndex": 0,
+    "explanation": "This is consistent with heparin-induced thrombocytopenia (HIT), a prothrombotic immune reaction. Stop heparin and start a non-heparin anticoagulant. Do not start warfarin immediately.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0043",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Hard",
+    "stem": "A patient started on warfarin for DVT develops painful purple discoloration and skin necrosis within the first week. Why is bridging with a fast-acting anticoagulant often used when initiating warfarin for acute thrombosis?",
+    "choices": ["Warfarin initially lowers protein C, causing a transient hypercoagulable state", "Warfarin causes immediate platelet activation that must be blocked", "Warfarin directly inhibits thrombin, causing immediate bleeding risk", "Warfarin increases fibrinogen synthesis, requiring heparin reversal"],
+    "answerIndex": 0,
+    "explanation": "Protein C levels fall early in warfarin therapy, producing a transient hypercoagulable state. Bridging with a fast-acting anticoagulant is commonly used for acute thrombosis initiation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0044",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient receiving paclitaxel for breast cancer develops numbness and tingling in the hands and feet. Which toxicity is most characteristic of paclitaxel?",
+    "choices": ["Peripheral neuropathy", "Hemorrhagic cystitis", "Pulmonary fibrosis", "Hyperprolactinemia"],
+    "answerIndex": 0,
+    "explanation": "Paclitaxel stabilizes microtubules and can cause peripheral neuropathy and myelosuppression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0045",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient receiving high-dose methotrexate develops mucositis and myelosuppression. Which medication can be used as rescue therapy to reduce toxicity?",
+    "choices": ["Leucovorin (folinic acid)", "Mesna", "Dexrazoxane", "Amifostine"],
+    "answerIndex": 0,
+    "explanation": "Leucovorin provides reduced folate to bypass DHFR inhibition and is used as rescue after high-dose methotrexate.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0046",
+    "category": "Immunology",
+    "difficulty": "Hard",
+    "stem": "A patient with rheumatoid arthritis is prescribed abatacept. Which mechanism best describes abatacept?",
+    "choices": ["CTLA-4 Ig that blocks CD28-mediated costimulation of T cells", "Anti-IgE monoclonal antibody", "Anti-CD20 monoclonal antibody causing B-cell depletion", "TNF-alpha receptor decoy"],
+    "answerIndex": 0,
+    "explanation": "Abatacept is a CTLA-4 Ig fusion protein that blocks CD28 costimulation (binding CD80/86 on APCs), decreasing T-cell activation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0047",
+    "category": "Immunology",
+    "difficulty": "Easy",
+    "stem": "A patient with non-Hodgkin lymphoma is treated with rituximab. What is the primary target of rituximab?",
+    "choices": ["CD20 on B cells", "TNF-alpha", "IL-5 receptor", "HER2/neu"],
+    "answerIndex": 0,
+    "explanation": "Rituximab targets CD20 on B cells, leading to B-cell depletion.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0048",
+    "category": "Toxicology",
+    "difficulty": "Medium",
+    "stem": "A patient presents after ingesting antifreeze and has an anion gap metabolic acidosis with calcium oxalate crystals in the urine. Which antidote inhibits alcohol dehydrogenase and prevents formation of toxic metabolites?",
+    "choices": ["Fomepizole", "N-acetylcysteine", "Deferoxamine", "Atropine"],
+    "answerIndex": 0,
+    "explanation": "Ethylene glycol poisoning is treated with fomepizole (or ethanol) to inhibit alcohol dehydrogenase, preventing toxic metabolite formation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0049",
+    "category": "OB/Gyn",
+    "difficulty": "Medium",
+    "stem": "A patient has postpartum hemorrhage due to uterine atony. Carboprost is considered but avoided due to the patient’s history of asthma. Which uterotonic is a safer alternative from the list?",
+    "choices": ["Oxytocin", "Carboprost", "Methylergonovine in uncontrolled hypertension", "No uterotonic is safe in asthma"],
+    "answerIndex": 0,
+    "explanation": "Carboprost can cause bronchospasm and is avoided in asthma. Oxytocin is first-line for uterine atony. Methylergonovine is avoided in uncontrolled hypertension.",
+    "reference": ""
+  },
+  {
+    "id": "DCB25-0050",
+    "category": "Hematology/Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient undergoing chemotherapy is at high risk for neutropenic fever. Which medication class is used to stimulate neutrophil production and shorten the duration of neutropenia?",
+    "choices": ["G-CSF (e.g., filgrastim)", "PCSK9 inhibitors", "5-HT3 antagonists", "Thionamides"],
+    "answerIndex": 0,
+    "explanation": "G-CSF agents (e.g., filgrastim/pegfilgrastim) stimulate neutrophil production and can reduce duration of chemotherapy-related neutropenia. Bone pain is a common adverse effect.",
+    "reference": ""
+  }
 ]
 
