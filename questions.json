@@ -17,4 +17,505 @@
     "explanation": "Fluoroquinolones are associated with tendinopathy and tendon rupture risk.",
     "reference": "Optional"
   }
+,
+  {
+    "id": "DCB1-0001",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A 52-year-old develops a persistent dry cough a few weeks after starting lisinopril for hypertension. Which medication would provide similar blood pressure benefit with a much lower risk of cough?",
+    "choices": ["Losartan", "Hydrochlorothiazide", "Amlodipine", "Propranolol"],
+    "answerIndex": 0,
+    "explanation": "ACE inhibitors can cause cough due to increased bradykinin. ARBs (e.g., losartan) provide similar RAAS blockade with a much lower incidence of cough.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0002",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient takes sildenafil for erectile dysfunction and is prescribed a medication for angina. Which combination is most likely to cause dangerous hypotension?",
+    "choices": ["Nitroglycerin and sildenafil", "Metoprolol and sildenafil", "Atorvastatin and sildenafil", "Aspirin and sildenafil"],
+    "answerIndex": 0,
+    "explanation": "Nitrates increase nitric oxide/cGMP and PDE-5 inhibitors prevent cGMP breakdown. Together they can cause profound vasodilation and severe hypotension.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0003",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on an antiarrhythmic develops progressive dyspnea, pulmonary fibrosis on imaging, and blue-gray skin discoloration. Which drug is the most likely cause?",
+    "choices": ["Amiodarone", "Lidocaine", "Flecainide", "Adenosine"],
+    "answerIndex": 0,
+    "explanation": "Amiodarone can cause pulmonary toxicity (including fibrosis), thyroid dysfunction, corneal deposits, photosensitivity/blue-gray skin changes, and hepatotoxicity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0004",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with known Wolff-Parkinson-White (WPW) presents with an irregular wide-complex tachycardia consistent with atrial fibrillation with pre-excitation. The patient is hemodynamically stable. Which medication is appropriate for acute pharmacologic management?",
+    "choices": ["Procainamide", "Verapamil", "Digoxin", "Adenosine"],
+    "answerIndex": 0,
+    "explanation": "In AF with WPW, avoid AV nodal blockers (adenosine, beta blockers, verapamil/diltiazem, digoxin) because they can increase conduction through the accessory pathway and precipitate VF. Procainamide is an appropriate option in stable patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0005",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A pregnant patient is found to have chronic hypertension. Which medication should be avoided because it can cause fetal renal abnormalities and oligohydramnios?",
+    "choices": ["Lisinopril", "Labetalol", "Methyldopa", "Nifedipine"],
+    "answerIndex": 0,
+    "explanation": "ACE inhibitors (and ARBs) are contraindicated in pregnancy due to fetal toxicity, including impaired renal development and oligohydramnios.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0006",
+    "category": "Lipids",
+    "difficulty": "Easy",
+    "stem": "Which mechanism best describes how statins lower LDL cholesterol?",
+    "choices": ["Inhibit HMG-CoA reductase leading to increased LDL receptor expression", "Block intestinal cholesterol absorption at the brush border", "Bind circulating PCSK9 to prevent LDL receptor degradation", "Activate PPAR-alpha to reduce triglycerides"],
+    "answerIndex": 0,
+    "explanation": "Statins inhibit HMG-CoA reductase, decreasing hepatic cholesterol synthesis and upregulating LDL receptors, which increases LDL clearance from the blood.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0007",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with hypertension starts a new medication and later develops a gout flare. Which antihypertensive is most associated with hyperuricemia and gout?",
+    "choices": ["Hydrochlorothiazide", "Losartan", "Amlodipine", "Lisinopril"],
+    "answerIndex": 0,
+    "explanation": "Thiazide diuretics can increase uric acid levels and precipitate gout flares. (Losartan is notable for tending to lower uric acid.)",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0008",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient taking digoxin presents with nausea, confusion, and yellow-green visual halos. ECG shows ventricular ectopy. Which treatment is most appropriate for life-threatening digoxin toxicity?",
+    "choices": ["Digoxin immune Fab", "N-acetylcysteine", "Protamine sulfate", "Flumazenil"],
+    "answerIndex": 0,
+    "explanation": "Digoxin immune Fab (digoxin-specific antibody fragments) is used for severe digoxin toxicity (e.g., life-threatening arrhythmias, significant symptoms, or marked hyperkalemia).",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0009",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "A patient develops watery diarrhea and abdominal pain after taking an antibiotic. Colonoscopy shows pseudomembranes. Which antibiotic is classically associated with this complication?",
+    "choices": ["Clindamycin", "Azithromycin", "Cefazolin", "Doxycycline"],
+    "answerIndex": 0,
+    "explanation": "Clindamycin is a classic trigger for C. difficile–associated pseudomembranous colitis (though many antibiotics can contribute).",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0010",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Which antibiotic is typically ineffective against anaerobes because its uptake into bacteria requires oxygen-dependent transport?",
+    "choices": ["Gentamicin", "Metronidazole", "Clindamycin", "Piperacillin-tazobactam"],
+    "answerIndex": 0,
+    "explanation": "Aminoglycosides (e.g., gentamicin) require oxygen-dependent transport into bacteria, so they have poor activity against anaerobes.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0011",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient taking metronidazole is counseled to avoid alcohol. What is the main reason for this counseling?",
+    "choices": ["Disulfiram-like reaction (flushing, nausea, vomiting)", "Severe QT prolongation and torsades de pointes", "Hypertensive crisis due to tyramine interaction", "Life-threatening hyperkalemia"],
+    "answerIndex": 0,
+    "explanation": "Metronidazole can cause a disulfiram-like reaction with alcohol, leading to flushing, nausea, vomiting, and headache.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0012",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "A patient on sertraline develops agitation, diaphoresis, tremor, hyperreflexia, and diarrhea shortly after starting an antibiotic for pneumonia. Which antibiotic is most likely responsible due to MAO-inhibiting properties?",
+    "choices": ["Linezolid", "Ceftriaxone", "Azithromycin", "Doxycycline"],
+    "answerIndex": 0,
+    "explanation": "Linezolid has MAOI activity and can precipitate serotonin syndrome when combined with serotonergic agents (e.g., SSRIs).",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0013",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient receiving vancomycin develops flushing and pruritus during the infusion. What is the best next step?",
+    "choices": ["Slow the infusion rate and consider an antihistamine", "Stop permanently due to IgE-mediated allergy", "Add probenecid to prevent the reaction", "Switch immediately to an aminoglycoside"],
+    "answerIndex": 0,
+    "explanation": "Red man syndrome is an infusion-related histamine release reaction. Management is slowing the infusion and using antihistamines; it is not typically an IgE allergy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0014",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "A patient with MRSA bacteremia is switched to a different antibiotic but fails to improve when pneumonia is also present. Which MRSA-active antibiotic is inactivated by pulmonary surfactant and is therefore not used for pneumonia?",
+    "choices": ["Daptomycin", "Vancomycin", "Linezolid", "Ceftaroline"],
+    "answerIndex": 0,
+    "explanation": "Daptomycin is inactivated by pulmonary surfactant, so it is not effective for pneumonia. It can also cause myopathy (monitor CPK).",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0015",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient stabilized on warfarin starts an antibiotic and returns with a markedly increased INR. Which antibiotic is well known for potentiating warfarin and increasing bleeding risk?",
+    "choices": ["Trimethoprim-sulfamethoxazole", "Amoxicillin", "Nitrofurantoin", "Daptomycin"],
+    "answerIndex": 0,
+    "explanation": "Trimethoprim-sulfamethoxazole can significantly increase INR in patients on warfarin (via metabolic interactions and effects on vitamin K–producing gut flora).",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0016",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Which mechanism best describes how beta-lactam antibiotics kill susceptible bacteria?",
+    "choices": ["Inhibit transpeptidase-mediated cross-linking of peptidoglycan", "Bind the 30S ribosomal subunit to block tRNA entry", "Inhibit DNA gyrase and topoisomerase IV", "Inhibit dihydrofolate reductase"],
+    "answerIndex": 0,
+    "explanation": "Beta-lactams inhibit cell wall synthesis by binding penicillin-binding proteins (transpeptidases), preventing cross-linking of peptidoglycan and leading to cell lysis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0017",
+    "category": "Antifungals",
+    "difficulty": "Easy",
+    "stem": "A patient treated with amphotericin B develops rising creatinine and low potassium and magnesium. What is the primary mechanism of amphotericin B?",
+    "choices": ["Binds ergosterol and forms membrane pores", "Inhibits 14-alpha-demethylase to block ergosterol synthesis", "Inhibits beta-1,3-D-glucan synthesis in the fungal cell wall", "Inhibits squalene epoxidase"],
+    "answerIndex": 0,
+    "explanation": "Amphotericin B binds ergosterol in fungal membranes and forms pores, leading to cell death. Nephrotoxicity and electrolyte wasting (low K/Mg) are key adverse effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0018",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "A patient taking fluconazole develops elevated liver enzymes, and medication levels of a different drug rise due to CYP inhibition. What is the mechanism of azole antifungals?",
+    "choices": ["Inhibit 14-alpha-demethylase to block ergosterol synthesis", "Bind ergosterol and form pores", "Inhibit beta-1,3-D-glucan synthesis", "Bind microtubules to inhibit mitosis"],
+    "answerIndex": 0,
+    "explanation": "Azoles inhibit fungal 14-alpha-demethylase, decreasing ergosterol synthesis. Many azoles inhibit CYP enzymes, increasing levels of other medications, and can cause hepatotoxicity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0019",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "A patient with invasive candidiasis is treated with caspofungin. Which target does this medication inhibit?",
+    "choices": ["Beta-1,3-D-glucan synthesis in the fungal cell wall", "Ergosterol binding to form pores", "DNA-dependent RNA polymerase", "Squalene epoxidase in ergosterol synthesis"],
+    "answerIndex": 0,
+    "explanation": "Echinocandins (e.g., caspofungin) inhibit beta-1,3-D-glucan synthesis, weakening the fungal cell wall. They are useful for Candida and Aspergillus.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0020",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "A patient with onychomycosis is treated with a medication that inhibits squalene epoxidase. Which drug fits this mechanism?",
+    "choices": ["Terbinafine", "Fluconazole", "Amphotericin B", "Caspofungin"],
+    "answerIndex": 0,
+    "explanation": "Terbinafine inhibits squalene epoxidase, decreasing ergosterol and causing toxic squalene accumulation. It is commonly used for dermatophyte infections such as onychomycosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0021",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "A patient treated for HSV develops flank pain and rising creatinine due to crystal-induced kidney injury. Which antiviral is most associated with this adverse effect?",
+    "choices": ["Acyclovir", "Oseltamivir", "Zidovudine", "Ritonavir"],
+    "answerIndex": 0,
+    "explanation": "Acyclovir can precipitate in renal tubules causing crystal nephropathy, especially with dehydration or high doses. Adequate hydration helps reduce risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0022",
+    "category": "Antivirals",
+    "difficulty": "Easy",
+    "stem": "Which antiviral is a neuraminidase inhibitor used for influenza A and B?",
+    "choices": ["Oseltamivir", "Acyclovir", "Ganciclovir", "Ribavirin"],
+    "answerIndex": 0,
+    "explanation": "Oseltamivir inhibits neuraminidase, reducing release of new influenza virions. It is used for influenza A and B.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0023",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "A patient on HIV therapy develops anemia and neutropenia due to bone marrow suppression. Which medication is the most likely cause?",
+    "choices": ["Zidovudine", "Efavirenz", "Enfuvirtide", "Raltegravir"],
+    "answerIndex": 0,
+    "explanation": "Zidovudine (AZT), an NRTI, is associated with bone marrow suppression leading to anemia and neutropenia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0024",
+    "category": "Antivirals",
+    "difficulty": "Hard",
+    "stem": "A clinician uses a medication primarily to 'boost' levels of other antiretrovirals by strongly inhibiting CYP3A4. Which drug is used for this purpose?",
+    "choices": ["Ritonavir", "Zidovudine", "Nevirapine", "Enfuvirtide"],
+    "answerIndex": 0,
+    "explanation": "Ritonavir is a protease inhibitor and potent CYP3A4 inhibitor commonly used as a pharmacokinetic booster, increasing levels of other antiretrovirals and raising interaction risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0025",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "A medication increases insulin release by closing ATP-sensitive potassium channels in pancreatic beta cells. Which drug fits this mechanism?",
+    "choices": ["Glyburide", "Metformin", "Acarbose", "Sitagliptin"],
+    "answerIndex": 0,
+    "explanation": "Sulfonylureas (e.g., glyburide) close KATP channels, depolarizing beta cells and increasing insulin secretion. A major risk is hypoglycemia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0026",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes and advanced chronic kidney disease is taking metformin. Which serious adverse effect is of greatest concern in this setting?",
+    "choices": ["Lactic acidosis", "Tendon rupture", "Pulmonary fibrosis", "Hyperprolactinemia"],
+    "answerIndex": 0,
+    "explanation": "Metformin can rarely cause lactic acidosis, with higher risk in significant renal impairment due to reduced drug clearance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0027",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient starts semaglutide for type 2 diabetes and experiences nausea and early satiety with weight loss. Which mechanism best explains this medication’s effects?",
+    "choices": ["GLP-1 receptor agonism increasing insulin, decreasing glucagon, and slowing gastric emptying", "Closing KATP channels to trigger insulin release", "Inhibiting DPP-4 to increase incretin breakdown", "Blocking SGLT2 to increase glucose reabsorption"],
+    "answerIndex": 0,
+    "explanation": "GLP-1 receptor agonists increase glucose-dependent insulin secretion, decrease glucagon, slow gastric emptying, and often promote weight loss. They can cause GI upset and have been associated with pancreatitis risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0028",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient taking empagliflozin develops recurrent genital yeast infections. What is the primary mechanism of this drug class?",
+    "choices": ["Block SGLT2 in the proximal tubule to increase urinary glucose excretion", "Increase insulin secretion by closing KATP channels", "Activate PPAR-gamma to increase insulin sensitivity", "Inhibit alpha-glucosidase in the intestine"],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors block glucose reabsorption in the proximal tubule, causing glycosuria. Adverse effects include genital mycotic infections, volume depletion, and (rarely) euglycemic DKA.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0029",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient in the first trimester of pregnancy is diagnosed with hyperthyroidism requiring medication. Which drug is generally preferred early in pregnancy due to lower teratogenic risk and its additional effect on peripheral T4 to T3 conversion?",
+    "choices": ["Propylthiouracil (PTU)", "Methimazole", "Levothyroxine", "Iodine-131"],
+    "answerIndex": 0,
+    "explanation": "PTU and methimazole inhibit thyroid peroxidase; PTU also inhibits peripheral conversion of T4 to T3. PTU is generally preferred in the first trimester (methimazole has greater teratogenic concern early), while PTU carries hepatotoxicity risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0030",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes is started on pioglitazone and later develops weight gain and peripheral edema. What is the primary mechanism of this medication?",
+    "choices": ["Activate PPAR-gamma to increase insulin sensitivity", "Inhibit hepatic gluconeogenesis", "Block DPP-4 to increase incretin levels", "Close KATP channels to increase insulin release"],
+    "answerIndex": 0,
+    "explanation": "Thiazolidinediones (e.g., pioglitazone) activate PPAR-gamma, increasing insulin sensitivity in adipose and muscle. Adverse effects include weight gain, edema, and heart failure exacerbation risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0031",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "A patient starts sertraline for depression and later reports decreased libido and difficulty achieving orgasm. This adverse effect is most characteristic of which medication class?",
+    "choices": ["SSRIs", "Benzodiazepines", "Atypical antipsychotics", "Tricyclic antidepressants"],
+    "answerIndex": 0,
+    "explanation": "SSRIs commonly cause sexual dysfunction (decreased libido, delayed orgasm), along with GI upset and possible insomnia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0032",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Which medication combination carries the highest risk of serotonin syndrome?",
+    "choices": ["Sertraline and phenelzine", "Bupropion and gabapentin", "Olanzapine and lithium", "Lorazepam and zolpidem"],
+    "answerIndex": 0,
+    "explanation": "Combining an SSRI with an MAOI markedly increases serotonin and can cause serotonin syndrome (e.g., agitation, hyperreflexia/clonus, autonomic instability, diarrhea).",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0033",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient develops acute neck stiffness and oculogyric crisis shortly after starting a high-potency antipsychotic. Which medication is used to treat this adverse effect?",
+    "choices": ["Benztropine", "Naloxone", "Idarucizumab", "N-acetylcysteine"],
+    "answerIndex": 0,
+    "explanation": "Acute dystonia is an extrapyramidal side effect of dopamine blockade. Treatment is an anticholinergic (benztropine) or an antihistamine with anticholinergic properties (diphenhydramine).",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0034",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient on an antipsychotic develops galactorrhea and amenorrhea. Which medication is most associated with hyperprolactinemia?",
+    "choices": ["Risperidone", "Clozapine", "Quetiapine", "Aripiprazole"],
+    "answerIndex": 0,
+    "explanation": "Risperidone commonly increases prolactin due to dopamine D2 antagonism. Aripiprazole is a partial agonist and tends to have less prolactin elevation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0035",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient taking lithium develops polyuria and polydipsia consistent with nephrogenic diabetes insipidus. Which medication can help treat lithium-induced nephrogenic DI by blocking lithium entry into collecting duct cells?",
+    "choices": ["Amiloride", "Furosemide", "Desmopressin", "Acetazolamide"],
+    "answerIndex": 0,
+    "explanation": "Lithium can cause nephrogenic DI. Amiloride blocks ENaC in the collecting duct, reducing lithium uptake into principal cells and helping mitigate DI.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0036",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient with epilepsy becomes pregnant and is concerned about fetal risk from medications. Which antiseizure medication is strongly associated with neural tube defects and is generally avoided in pregnancy when possible?",
+    "choices": ["Valproate", "Levetiracetam", "Lamotrigine", "Gabapentin"],
+    "answerIndex": 0,
+    "explanation": "Valproate is associated with neural tube defects and other teratogenic risks, along with hepatotoxicity and pancreatitis risk. Pregnancy planning often involves selecting safer alternatives when appropriate.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0037",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A patient uses an albuterol inhaler and develops tremor and palpitations. Which electrolyte abnormality can also occur due to this medication?",
+    "choices": ["Hypokalemia", "Hyperkalemia", "Hypercalcemia", "Hyponatremia"],
+    "answerIndex": 0,
+    "explanation": "Beta-2 agonists drive potassium into cells, which can lead to hypokalemia, along with tremor and tachycardia/palpitations.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0038",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A patient using an inhaled corticosteroid develops white plaques in the mouth consistent with candidiasis. Which counseling helps prevent this adverse effect?",
+    "choices": ["Rinse the mouth after inhalation (and consider a spacer)", "Take the medication with milk to reduce irritation", "Avoid sunlight due to photosensitivity", "Take with alcohol to improve absorption"],
+    "answerIndex": 0,
+    "explanation": "Inhaled corticosteroids can cause oral candidiasis and dysphonia. Rinsing the mouth and using a spacer can reduce local steroid deposition and risk of thrush.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0039",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient with COPD is started on ipratropium for symptom control. What is the primary mechanism of ipratropium?",
+    "choices": ["Muscarinic receptor antagonism causing bronchodilation", "Beta-2 receptor agonism increasing cAMP", "Leukotriene receptor antagonism reducing inflammation", "Direct inhibition of histamine release from mast cells"],
+    "answerIndex": 0,
+    "explanation": "Ipratropium is an inhaled antimuscarinic (primarily M3 blockade), leading to bronchodilation. Common adverse effects include dry mouth and urinary retention in susceptible patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0040",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient taking theophylline for asthma develops nausea, tremor, and an arrhythmia after starting a new medication that raises theophylline levels. Which medication is most likely responsible?",
+    "choices": ["Cimetidine", "Montelukast", "Albuterol", "Ipratropium"],
+    "answerIndex": 0,
+    "explanation": "Theophylline has a narrow therapeutic index and is metabolized by CYP enzymes. CYP inhibitors (e.g., cimetidine, some macrolides) can increase levels and cause toxicity (arrhythmias, seizures, GI symptoms).",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0041",
+    "category": "GI",
+    "difficulty": "Easy",
+    "stem": "Proton pump inhibitors (PPIs) reduce gastric acid secretion by which mechanism?",
+    "choices": ["Irreversibly inhibit the H+/K+ ATPase in parietal cells", "Reversibly block H2 receptors on parietal cells", "Neutralize acid directly as weak bases", "Increase prostaglandin synthesis in the gastric mucosa"],
+    "answerIndex": 0,
+    "explanation": "PPIs irreversibly inhibit the gastric proton pump (H+/K+ ATPase), producing potent acid suppression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0042",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient with a history of NSAID-induced ulcers is given misoprostol. Which adverse effect or caution is most important to counsel about?",
+    "choices": ["Diarrhea and contraindication in pregnancy due to uterine contractions", "Severe photosensitivity and tooth discoloration", "Tendon rupture risk", "Pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Misoprostol is a prostaglandin E1 analog that protects gastric mucosa but can cause diarrhea and uterine contractions; it is contraindicated in pregnancy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0043",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient with diabetic gastroparesis is treated with metoclopramide and later develops involuntary muscle contractions and restlessness. What explains this adverse effect?",
+    "choices": ["D2 receptor antagonism causing extrapyramidal symptoms", "Irreversible inhibition of the proton pump", "Direct smooth muscle relaxation via nitric oxide release", "Inhibition of intestinal brush border enzymes"],
+    "answerIndex": 0,
+    "explanation": "Metoclopramide is a D2 antagonist (and prokinetic). Dopamine blockade can cause extrapyramidal symptoms and tardive dyskinesia risk, especially with prolonged use.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0044",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient is started on warfarin for atrial fibrillation. Which statement best describes warfarin’s mechanism and monitoring?",
+    "choices": ["Inhibits vitamin K epoxide reductase and is monitored with INR", "Directly inhibits thrombin and is monitored with aPTT", "Activates antithrombin and is monitored with aPTT", "Inhibits platelet ADP receptors and is monitored with bleeding time"],
+    "answerIndex": 0,
+    "explanation": "Warfarin inhibits vitamin K epoxide reductase, decreasing activation of vitamin K–dependent clotting factors (II, VII, IX, X) and proteins C and S. Anticoagulant effect is monitored using PT/INR. Warfarin is teratogenic.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0045",
+    "category": "Rheum/Immunology",
+    "difficulty": "Medium",
+    "stem": "A patient with rheumatoid arthritis is treated with methotrexate and develops oral ulcers and low blood counts. Which supplement can reduce some toxicity, and what is the primary mechanism of methotrexate?",
+    "choices": ["Folinic acid (leucovorin) rescue; inhibits dihydrofolate reductase", "Vitamin B12; inhibits HMG-CoA reductase", "Vitamin C; blocks beta-1,3-D-glucan synthesis", "Niacin; inhibits DNA gyrase"],
+    "answerIndex": 0,
+    "explanation": "Methotrexate inhibits dihydrofolate reductase, impairing DNA synthesis. Toxicities include mucositis and myelosuppression; folic acid supplementation is commonly used, and folinic acid (leucovorin) can be used as rescue in significant toxicity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0046",
+    "category": "Rheum/Immunology",
+    "difficulty": "Medium",
+    "stem": "A patient is about to start a TNF-alpha inhibitor for inflammatory arthritis. Which screening is most important prior to therapy due to risk of reactivation?",
+    "choices": ["Latent tuberculosis screening", "Serum sodium screening", "Pulmonary function testing for restrictive disease", "Urine toxicology screening"],
+    "answerIndex": 0,
+    "explanation": "TNF-alpha inhibitors (e.g., infliximab, adalimumab, etanercept) increase the risk of serious infections and can reactivate latent TB, so screening is required before initiation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0047",
+    "category": "Rheum/Immunology",
+    "difficulty": "Hard",
+    "stem": "A transplant patient is taking cyclosporine. Which mechanism and adverse effect profile best matches this medication?",
+    "choices": ["Calcineurin inhibition leading to decreased IL-2 transcription; nephrotoxicity and gingival hyperplasia", "JAK inhibition; severe tendon rupture", "TNF-alpha blockade; irreversible ototoxicity", "Inhibition of DNA gyrase; pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Cyclosporine inhibits calcineurin, decreasing IL-2 transcription and T-cell activation. Notable adverse effects include nephrotoxicity, hypertension, tremor, hirsutism, and gingival hyperplasia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0048",
+    "category": "Oncology",
+    "difficulty": "Hard",
+    "stem": "A patient receiving chemotherapy develops a dose-dependent dilated cardiomyopathy. Which drug is most likely responsible, and which agent can be used to reduce this toxicity?",
+    "choices": ["Doxorubicin; dexrazoxane", "Cisplatin; leucovorin", "Bleomycin; mesna", "Vincristine; flumazenil"],
+    "answerIndex": 0,
+    "explanation": "Doxorubicin (an anthracycline) can cause cardiomyopathy via free radical injury. Dexrazoxane can reduce anthracycline cardiotoxicity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0049",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient receiving bleomycin develops progressive dyspnea and a dry cough. Which toxicity is most characteristic of this drug?",
+    "choices": ["Pulmonary fibrosis", "Hemorrhagic cystitis", "Peripheral neuropathy", "Severe hypoglycemia"],
+    "answerIndex": 0,
+    "explanation": "Bleomycin is associated with pulmonary toxicity (pneumonitis/fibrosis) and mucocutaneous effects, with relatively less myelosuppression compared with many other chemotherapies.",
+    "reference": ""
+  },
+  {
+    "id": "DCB1-0050",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient on chemotherapy develops constipation, ileus, and peripheral neuropathy. Which chemotherapy agent is most associated with this pattern of toxicity?",
+    "choices": ["Vincristine", "Methotrexate", "Doxorubicin", "Bleomycin"],
+    "answerIndex": 0,
+    "explanation": "Vincristine (a microtubule inhibitor) commonly causes peripheral neuropathy and constipation/ileus. It has less myelosuppression than many other agents.",
+    "reference": ""
+  }
 ]
