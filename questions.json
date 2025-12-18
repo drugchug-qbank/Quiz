@@ -4148,5 +4148,1006 @@
     "explanation": "Flumazenil can precipitate seizures in benzodiazepine-dependent patients and in mixed overdoses (notably with TCAs), so it must be used cautiously.",
     "reference": ""
   }
+,
+  {
+    "id": "DCB6-0001",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with symptomatic HFrEF remains in sinus rhythm with a resting heart rate of 78 bpm despite maximally tolerated guideline-directed therapy. Which medication lowers heart rate by selectively inhibiting the SA node 'funny' current (If) without being a beta blocker?",
+    "choices": ["Ivabradine", "Vericiguat", "Milrinone", "Midodrine"],
+    "answerIndex": 0,
+    "explanation": "Ivabradine inhibits the SA node If current, lowering heart rate without direct negative inotropy. Notable adverse effects include bradycardia and visual phenomena (phosphenes).",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0002",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with chronic HFrEF recently had a worsening heart failure hospitalization and is started on a medication that stimulates soluble guanylate cyclase to increase cGMP. Which drug matches this mechanism?",
+    "choices": ["Vericiguat", "Clevidipine", "Dofetilide", "Mexiletine"],
+    "answerIndex": 0,
+    "explanation": "Vericiguat is a soluble guanylate cyclase (sGC) stimulator that increases cGMP signaling in heart failure. Important adverse effects include hypotension and anemia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0003",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with severe refractory hypertension is started on an oral arteriolar vasodilator that opens potassium channels. Which adverse effect is most characteristic and often used as a clue to the drug?",
+    "choices": ["Hypertrichosis (excess hair growth)", "Persistent dry cough", "Pulmonary fibrosis", "Red-green color blindness"],
+    "answerIndex": 0,
+    "explanation": "Minoxidil opens K+ channels in vascular smooth muscle, causing arteriolar vasodilation. It can cause hypertrichosis and fluid retention/reflex tachycardia (often paired with a diuretic and beta blocker clinically).",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0004",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "Which IV antihypertensive is a selective dopamine-1 (D1) agonist that vasodilates and can increase renal blood flow?",
+    "choices": ["Fenoldopam", "Esmolol", "Nicardipine", "Midodrine"],
+    "answerIndex": 0,
+    "explanation": "Fenoldopam is a D1 agonist used in hypertensive emergencies. It causes vasodilation and can increase renal perfusion; adverse effects include headache and reflex tachycardia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0005",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient in hypertensive emergency is placed on an IV medication that is an ultra–short-acting dihydropyridine calcium channel blocker formulated in a lipid emulsion and metabolized by esterases. Which drug fits best?",
+    "choices": ["Clevidipine", "Dronedarone", "Ticagrelor", "Aliskiren"],
+    "answerIndex": 0,
+    "explanation": "Clevidipine is a very short-acting IV dihydropyridine CCB used in hypertensive emergencies. It is in a lipid emulsion and is rapidly hydrolyzed by esterases; hypotension and reflex tachycardia can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0006",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with suspected aortic dissection needs rapid heart rate control. Which IV beta-1 selective blocker has a very short half-life due to metabolism by esterases?",
+    "choices": ["Esmolol", "Midodrine", "Bicalutamide", "Cabergoline"],
+    "answerIndex": 0,
+    "explanation": "Esmolol is an ultra–short-acting beta-1 blocker used for rapid rate control (e.g., aortic dissection). It is metabolized by esterases, allowing quick titration.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0007",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient asks about a direct renin inhibitor for hypertension. Which key counseling point is most important?",
+    "choices": ["Avoid in pregnancy due to fetal toxicity risk", "Must be combined with an MAOI", "Causes irreversible platelet inhibition", "Always causes severe hypoglycemia"],
+    "answerIndex": 0,
+    "explanation": "Aliskiren is a direct renin inhibitor and, like other RAAS blockers, is contraindicated in pregnancy due to fetal toxicity risk. Hyperkalemia and angioedema can also occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0008",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with atrial fibrillation is started on a class III antiarrhythmic that can be used in HFrEF but requires inpatient initiation due to torsades risk and renal dosing considerations. Which drug is this?",
+    "choices": ["Dofetilide", "Ibutilide", "Disopyramide", "Cilostazol"],
+    "answerIndex": 0,
+    "explanation": "Dofetilide is a class III agent that can be used in HFrEF but has significant torsades risk, requiring inpatient initiation and QT/renal monitoring.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0009",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with atrial flutter is treated with an IV medication for chemical cardioversion that can prolong the QT interval and cause torsades de pointes. Which medication fits best?",
+    "choices": ["Ibutilide", "Mexiletine", "Midodrine", "Patiromer"],
+    "answerIndex": 0,
+    "explanation": "Ibutilide is used for pharmacologic cardioversion of atrial flutter/AF and can prolong QT, increasing torsades risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0010",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient taking an antiarrhythmic develops tinnitus, headache, and nausea consistent with cinchonism. Which drug is most likely responsible?",
+    "choices": ["Quinidine", "Dronedarone", "Eptifibatide", "Sevelamer"],
+    "answerIndex": 0,
+    "explanation": "Quinidine (class IA) can cause cinchonism (tinnitus, headache, dizziness) and may also cause diarrhea and torsades due to QT prolongation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0011",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with hypertrophic obstructive cardiomyopathy is placed on a class IA antiarrhythmic partly for its negative inotropic effect, but develops urinary retention and dry mouth. Which drug matches this profile?",
+    "choices": ["Disopyramide", "Vericiguat", "Tranexamic acid", "Ivacaftor"],
+    "answerIndex": 0,
+    "explanation": "Disopyramide is class IA with strong anticholinergic effects (urinary retention, dry mouth) and negative inotropy; it is sometimes used in HOCM.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0012",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with recurrent ventricular ectopy is started on an oral class IB antiarrhythmic analogous to lidocaine. Which medication is this?",
+    "choices": ["Mexiletine", "Dofetilide", "Ticagrelor", "Degarelix"],
+    "answerIndex": 0,
+    "explanation": "Mexiletine is an oral class IB antiarrhythmic (similar to lidocaine) used for ventricular arrhythmias; neurologic and GI side effects can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0013",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with atrial fibrillation asks about an antiarrhythmic related to amiodarone but with fewer thyroid side effects. Which drug is contraindicated in symptomatic or recently decompensated HFrEF due to increased mortality risk?",
+    "choices": ["Dronedarone", "Ibutilide", "Esmolol", "Fenoldopam"],
+    "answerIndex": 0,
+    "explanation": "Dronedarone can increase mortality in patients with severe or recently decompensated heart failure and is contraindicated in that setting.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0014",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with acute decompensated heart failure receives an IV medication that increases cardiac contractility and causes vasodilation by inhibiting phosphodiesterase-3 (PDE-3), raising cAMP. Which drug is this?",
+    "choices": ["Milrinone", "Midodrine", "Rifaximin", "Cabergoline"],
+    "answerIndex": 0,
+    "explanation": "Milrinone is a PDE-3 inhibitor that increases cAMP, leading to increased inotropy and vasodilation. It can cause hypotension and arrhythmias.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0015",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with autonomic dysfunction has symptomatic orthostatic hypotension. Which medication is an oral alpha-1 agonist that can improve standing blood pressure but may cause supine hypertension?",
+    "choices": ["Midodrine", "Cilostazol", "Letrozole", "Erenumab"],
+    "answerIndex": 0,
+    "explanation": "Midodrine is an alpha-1 agonist used for orthostatic hypotension. Supine hypertension is an important adverse effect and counseling point.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0016",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient is started on a selective alpha-1A antagonist for BPH to improve urinary flow. Which notable adverse effect relevant to cataract surgery should be mentioned in the chart?",
+    "choices": ["Intraoperative floppy iris syndrome", "Tendon rupture", "Pulmonary fibrosis", "Agranulocytosis"],
+    "answerIndex": 0,
+    "explanation": "Tamsulosin (alpha-1A selective) can cause intraoperative floppy iris syndrome during cataract surgery. It can also cause dizziness and ejaculatory dysfunction.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0017",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "Finasteride improves BPH and androgenic alopecia by inhibiting which enzyme?",
+    "choices": ["5-alpha reductase", "Aromatase", "Cyclooxygenase-2", "Soluble guanylate cyclase"],
+    "answerIndex": 0,
+    "explanation": "Finasteride inhibits 5-alpha reductase, decreasing conversion of testosterone to DHT. Adverse effects include decreased libido/erectile dysfunction and it is teratogenic to a male fetus.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0018",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "Which P2Y12 inhibitor is contraindicated in patients with a history of stroke or TIA due to increased bleeding risk?",
+    "choices": ["Prasugrel", "Ticagrelor", "Dipyridamole", "Tranexamic acid"],
+    "answerIndex": 0,
+    "explanation": "Prasugrel is a potent P2Y12 inhibitor and is contraindicated in patients with prior stroke/TIA due to increased bleeding risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0019",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient started on a P2Y12 inhibitor reports shortness of breath shortly after initiation. Which agent is most associated with dyspnea and is a reversible P2Y12 inhibitor (not a prodrug)?",
+    "choices": ["Ticagrelor", "Prasugrel", "Eptifibatide", "Bivalirudin"],
+    "answerIndex": 0,
+    "explanation": "Ticagrelor is a reversible P2Y12 inhibitor and can cause dyspnea and bradyarrhythmias in some patients. It is not a prodrug.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0020",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "During PCI, a patient receives a medication that blocks the platelet GPIIb/IIIa receptor to prevent fibrinogen cross-linking. Which drug matches this mechanism?",
+    "choices": ["Eptifibatide", "Dipyridamole", "Pramlintide", "Cinacalcet"],
+    "answerIndex": 0,
+    "explanation": "Eptifibatide is a GPIIb/IIIa inhibitor used in ACS/PCI to prevent platelet aggregation; major risks include bleeding and thrombocytopenia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0021",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient with a prior ischemic stroke is placed on aspirin plus a medication that inhibits platelet phosphodiesterase and increases adenosine, used for secondary stroke prevention. Which medication is this?",
+    "choices": ["Dipyridamole", "Cilostazol", "Bicalutamide", "Pegvisomant"],
+    "answerIndex": 0,
+    "explanation": "Dipyridamole inhibits platelet phosphodiesterase and increases adenosine levels; it is used with aspirin for secondary stroke prevention. Headache and flushing are common.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0022",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Hard",
+    "stem": "A patient with intermittent claudication is prescribed a medication that inhibits PDE-3 to improve walking distance but is contraindicated in heart failure. Which drug is this?",
+    "choices": ["Cilostazol", "Dipyridamole", "Eptifibatide", "Tranexamic acid"],
+    "answerIndex": 0,
+    "explanation": "Cilostazol is a PDE-3 inhibitor used for intermittent claudication. It is contraindicated in heart failure due to increased mortality risk with PDE-3 inhibition in HF populations.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0023",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient with heparin-induced thrombocytopenia (HIT) requires anticoagulation for PCI. Which medication is a direct thrombin inhibitor often used in this setting?",
+    "choices": ["Bivalirudin", "Sevelamer", "Epoetin alfa", "Orlistat"],
+    "answerIndex": 0,
+    "explanation": "Bivalirudin is a direct thrombin inhibitor used in PCI and is an option in patients with HIT where heparin is avoided.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0024",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient with severe postpartum hemorrhage receives a medication that reduces bleeding by inhibiting fibrinolysis through blocking plasminogen activation/binding. Which drug is this?",
+    "choices": ["Tranexamic acid", "Ticagrelor", "Eptifibatide", "Cinacalcet"],
+    "answerIndex": 0,
+    "explanation": "Tranexamic acid is an antifibrinolytic that inhibits plasminogen activation/binding, reducing clot breakdown. Thrombotic risk is an important consideration.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0025",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "A patient with chronic kidney disease has symptomatic anemia and is started on a medication that stimulates erythroid progenitors in bone marrow. Which adverse effect is important to monitor?",
+    "choices": ["Hypertension", "Severe hypocalcemia", "Optic neuritis", "Tendon rupture"],
+    "answerIndex": 0,
+    "explanation": "Epoetin alfa (EPO analog) treats anemia of CKD but can increase blood pressure and thrombosis risk if hemoglobin is pushed too high.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0026",
+    "category": "Renal",
+    "difficulty": "Easy",
+    "stem": "A phosphate binder is prescribed for hyperphosphatemia in ESRD that does NOT increase serum calcium. Which medication is this?",
+    "choices": ["Sevelamer", "Calcitonin", "Teriparatide", "Cabergoline"],
+    "answerIndex": 0,
+    "explanation": "Sevelamer is a non-calcium phosphate binder used in CKD/ESRD to lower phosphate without causing hypercalcemia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0027",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "A dialysis patient with secondary hyperparathyroidism is treated with a calcimimetic that increases sensitivity of the calcium-sensing receptor, lowering PTH. Which drug is this?",
+    "choices": ["Cinacalcet", "Sevelamer", "Epoetin alfa", "Patiromer"],
+    "answerIndex": 0,
+    "explanation": "Cinacalcet is a calcimimetic that lowers PTH by activating the calcium-sensing receptor. Hypocalcemia is a key adverse effect to monitor.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0028",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "A patient with chronic hyperkalemia is started on a potassium-binding resin that can cause hypomagnesemia and should be separated from other oral medications. Which agent fits best?",
+    "choices": ["Patiromer", "Sodium zirconium cyclosilicate", "Cinacalcet", "Sevelamer"],
+    "answerIndex": 0,
+    "explanation": "Patiromer binds potassium in the GI tract and can cause hypomagnesemia; it can bind other oral drugs, so separation is recommended.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0029",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "A potassium binder is started for hyperkalemia and the patient develops mild edema. Which medication is most associated with edema due to sodium load?",
+    "choices": ["Sodium zirconium cyclosilicate", "Patiromer", "Sevelamer", "Cinacalcet"],
+    "answerIndex": 0,
+    "explanation": "Sodium zirconium cyclosilicate exchanges potassium for sodium/hydrogen in the gut and can contribute to edema in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0030",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes needs a short-acting insulin secretagogue taken before meals. Which drug class and example fits best?",
+    "choices": ["Meglitinide (repaglinide)", "SERM (raloxifene)", "Calcimimetic (cinacalcet)", "Antifibrinolytic (tranexamic acid)"],
+    "answerIndex": 0,
+    "explanation": "Meglitinides (e.g., repaglinide) close KATP channels in beta cells to increase insulin secretion. They are short acting and taken with meals; hypoglycemia is a risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0031",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with type 1 diabetes is prescribed an injectable amylin analog as an adjunct to mealtime insulin. Which expected effect explains why insulin doses may need reduction?",
+    "choices": ["It slows gastric emptying and suppresses glucagon, increasing hypoglycemia risk if insulin is not adjusted", "It directly stimulates hepatic gluconeogenesis", "It blocks renal glucose excretion", "It irreversibly inhibits beta-cell KATP channels"],
+    "answerIndex": 0,
+    "explanation": "Pramlintide is an amylin analog that slows gastric emptying and suppresses glucagon. If insulin is not reduced, hypoglycemia can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0032",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with recurrent hypoglycemia from an insulinoma is treated with a medication that opens KATP channels in pancreatic beta cells to reduce insulin release. Which drug is this?",
+    "choices": ["Diazoxide", "Repaglinide", "Cabergoline", "Denosumab"],
+    "answerIndex": 0,
+    "explanation": "Diazoxide opens KATP channels, hyperpolarizing beta cells and decreasing insulin secretion. Adverse effects can include fluid retention and hypertrichosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0033",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "A patient with a prolactinoma is treated with a dopamine agonist to reduce prolactin secretion and shrink the tumor. Which medication fits best?",
+    "choices": ["Cabergoline", "Clomiphene", "Leuprolide", "Orlistat"],
+    "answerIndex": 0,
+    "explanation": "Cabergoline is a dopamine (D2) agonist that suppresses prolactin release and is commonly used for prolactinomas. Nausea and orthostasis can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0034",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A child with growth hormone deficiency begins therapy. Which adverse effect warrants counseling to seek evaluation for persistent headache or visual changes?",
+    "choices": ["Intracranial hypertension (pseudotumor cerebri)", "Pulmonary fibrosis", "Tendon rupture", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Somatropin (growth hormone) can rarely cause intracranial hypertension, presenting with headache and visual symptoms. Monitoring growth response and adverse effects is important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0035",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with acromegaly is treated with a medication that blocks growth hormone receptors and lowers IGF-1 levels. Which drug is this?",
+    "choices": ["Pegvisomant", "Somatropin", "Cinacalcet", "Mifepristone"],
+    "answerIndex": 0,
+    "explanation": "Pegvisomant is a growth hormone receptor antagonist used in acromegaly. Liver enzyme monitoring is important due to hepatotoxicity risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0036",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with severe osteoporosis is started on a medication that is a recombinant PTH analog given intermittently to stimulate bone formation. What key safety limitation is typical?",
+    "choices": ["Therapy duration is limited (commonly max ~2 years) due to osteosarcoma risk concerns", "Must always be combined with a P2Y12 inhibitor", "It is contraindicated because it causes agranulocytosis", "It permanently blocks osteoclasts for life"],
+    "answerIndex": 0,
+    "explanation": "Teriparatide is a PTH analog that stimulates bone formation when given intermittently. Use is typically limited in duration due to osteosarcoma risk signals from animal data and clinical safety guidance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0037",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient is prescribed a monoclonal antibody that binds RANKL to reduce osteoclast formation and bone resorption. Which drug matches this mechanism?",
+    "choices": ["Denosumab", "Teriparatide", "Calcitonin", "Letrozole"],
+    "answerIndex": 0,
+    "explanation": "Denosumab binds RANKL, preventing osteoclast activation. Important adverse effects include hypocalcemia and (rare) osteonecrosis of the jaw.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0038",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "A medication is used as a short-term option for hypercalcemia and works by directly inhibiting osteoclast activity. Which drug is this?",
+    "choices": ["Calcitonin", "Denosumab", "Teriparatide", "Sevelamer"],
+    "answerIndex": 0,
+    "explanation": "Calcitonin lowers serum calcium by inhibiting osteoclasts and increasing renal calcium excretion. Flushing and nausea can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0039",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A postmenopausal woman with ER-positive breast cancer is started on an aromatase inhibitor. Which adverse effect is most expected with this therapy?",
+    "choices": ["Bone loss/osteoporosis and arthralgias", "Endometrial hyperplasia and cancer", "Severe nephrotoxicity and tinnitus", "Pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Aromatase inhibitors (e.g., letrozole) reduce estrogen production and can cause arthralgias and increased bone loss/osteoporosis risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0040",
+    "category": "Oncology",
+    "difficulty": "Hard",
+    "stem": "A patient with ER-positive breast cancer is treated with a SERM that acts as an estrogen antagonist in breast tissue but an agonist in endometrium. Which serious adverse effect risk is increased?",
+    "choices": ["Endometrial cancer and venous thromboembolism", "Optic neuritis and red-green blindness", "Hemorrhagic cystitis", "Ototoxicity and nephrotoxicity"],
+    "answerIndex": 0,
+    "explanation": "Tamoxifen is a SERM that antagonizes estrogen in breast but can stimulate endometrium, increasing endometrial cancer risk. It also increases VTE risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0041",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient needs osteoporosis therapy that improves bone density and reduces breast cancer risk without stimulating the endometrium. Which SERM fits best?",
+    "choices": ["Raloxifene", "Tamoxifen", "Letrozole", "Clomiphene"],
+    "answerIndex": 0,
+    "explanation": "Raloxifene is a SERM that is estrogen agonist in bone and antagonist in breast and uterus, so it does not increase endometrial cancer risk (but still increases VTE risk).",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0042",
+    "category": "OB/Gyn",
+    "difficulty": "Medium",
+    "stem": "A patient with anovulatory infertility is prescribed a medication that blocks estrogen receptors in the hypothalamus, increasing GnRH and leading to higher FSH/LH. Which drug is this?",
+    "choices": ["Clomiphene", "Cabergoline", "Degarelix", "Orlistat"],
+    "answerIndex": 0,
+    "explanation": "Clomiphene is a SERM that blocks estrogen feedback at the hypothalamus, increasing GnRH and raising FSH/LH to induce ovulation. Multiple gestation risk exists.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0043",
+    "category": "Oncology",
+    "difficulty": "Hard",
+    "stem": "A patient with metastatic prostate cancer is started on continuous GnRH agonist therapy. What phenomenon can occur early in treatment and may require additional medication?",
+    "choices": ["Initial testosterone flare that can worsen symptoms", "Immediate severe hypocalcemia", "Permanent vision loss", "C. difficile colitis"],
+    "answerIndex": 0,
+    "explanation": "Continuous GnRH agonists (e.g., leuprolide) cause an initial rise in LH/FSH and testosterone (flare) before downregulation. Antiandrogens may be used to blunt flare effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0044",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "Which medication suppresses LH/FSH by directly blocking GnRH receptors and therefore avoids the initial testosterone flare seen with GnRH agonists?",
+    "choices": ["Degarelix", "Leuprolide", "Bicalutamide", "Cabergoline"],
+    "answerIndex": 0,
+    "explanation": "Degarelix is a GnRH antagonist that reduces LH/FSH without causing an initial hormone flare.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0045",
+    "category": "Oncology",
+    "difficulty": "Hard",
+    "stem": "A patient with castration-resistant prostate cancer is started on a drug that inhibits CYP17 to reduce androgen synthesis, but develops hypertension and hypokalemia. Why is prednisone often co-prescribed?",
+    "choices": ["To reduce mineralocorticoid excess from increased upstream steroids", "To prevent serotonin syndrome", "To reverse direct thrombin inhibition", "To prevent red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Abiraterone inhibits CYP17, decreasing androgens but increasing mineralocorticoid precursors, causing hypertension/hypokalemia. Prednisone helps mitigate this endocrine imbalance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0046",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient taking an androgen receptor blocker develops gynecomastia and hot flashes. Which medication matches this description?",
+    "choices": ["Bicalutamide", "Degarelix", "Letrozole", "Tranexamic acid"],
+    "answerIndex": 0,
+    "explanation": "Bicalutamide is an androgen receptor antagonist used in prostate cancer therapy. Gynecomastia and hot flashes are common adverse effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0047",
+    "category": "OB/Gyn",
+    "difficulty": "Medium",
+    "stem": "A patient with uterine atony postpartum receives a medication that increases uterine contractions via oxytocin receptors. Which adverse effect is most associated with high-dose or prolonged infusion?",
+    "choices": ["Water intoxication/hyponatremia", "Pulmonary fibrosis", "Optic neuritis", "Tendon rupture"],
+    "answerIndex": 0,
+    "explanation": "Oxytocin can cause water retention and hyponatremia (water intoxication), especially with prolonged high-dose infusion.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0048",
+    "category": "OB/Gyn",
+    "difficulty": "Hard",
+    "stem": "A patient with postpartum hemorrhage is given an ergot alkaloid uterotonic. In which patient is this medication contraindicated?",
+    "choices": ["Patient with severe hypertension or preeclampsia", "Patient with iron deficiency anemia", "Patient with mild asthma", "Patient with seasonal allergies"],
+    "answerIndex": 0,
+    "explanation": "Methylergonovine causes vasoconstriction and is contraindicated in hypertension/preeclampsia due to risk of severe hypertensive events.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0049",
+    "category": "OB/Gyn",
+    "difficulty": "Hard",
+    "stem": "A prostaglandin used for postpartum hemorrhage causes uterine contraction but is avoided in asthma due to bronchospasm risk. Which medication is this?",
+    "choices": ["Carboprost", "Oxytocin", "Mifepristone", "Ulipristal"],
+    "answerIndex": 0,
+    "explanation": "Carboprost (PGF2-alpha analog) can cause bronchospasm and is avoided in asthma. Diarrhea and fever can also occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0050",
+    "category": "OB/Gyn",
+    "difficulty": "Medium",
+    "stem": "A patient in preterm labor receives a beta-2 agonist to relax uterine smooth muscle. Which maternal adverse effect is most expected?",
+    "choices": ["Tachycardia and tremor", "Severe bradycardia and constipation", "Pulmonary fibrosis", "Red-green color blindness"],
+    "answerIndex": 0,
+    "explanation": "Terbutaline (beta-2 agonist) can be used as a tocolytic and commonly causes tachycardia, tremor, and metabolic effects such as hyperglycemia and hypokalemia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0051",
+    "category": "OB/Gyn",
+    "difficulty": "Medium",
+    "stem": "A patient seeks medication abortion. Which drug is a progesterone receptor antagonist that is commonly paired with a prostaglandin afterward?",
+    "choices": ["Mifepristone", "Oxytocin", "Cabergoline", "Cinacalcet"],
+    "answerIndex": 0,
+    "explanation": "Mifepristone is a progesterone receptor antagonist used for medication abortion (typically followed by a prostaglandin). It can also antagonize glucocorticoid receptors at higher doses.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0052",
+    "category": "OB/Gyn",
+    "difficulty": "Medium",
+    "stem": "A patient needs emergency contraception up to 5 days after unprotected intercourse. Which medication is a selective progesterone receptor modulator that delays ovulation and is effective in this timeframe?",
+    "choices": ["Ulipristal", "Teriparatide", "Sevelamer", "Eptifibatide"],
+    "answerIndex": 0,
+    "explanation": "Ulipristal is a selective progesterone receptor modulator used for emergency contraception and can be effective up to 5 days after unprotected intercourse.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0053",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient started on an SNRI for major depression develops dose-related increases in blood pressure. Which medication is most consistent with this effect?",
+    "choices": ["Venlafaxine", "Buspirone", "Mirtazapine", "Valbenazine"],
+    "answerIndex": 0,
+    "explanation": "Venlafaxine is an SNRI that can increase blood pressure, especially at higher doses due to norepinephrine effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0054",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient with diabetic neuropathic pain and depression is started on an SNRI that can also help chronic pain syndromes. Which medication fits best?",
+    "choices": ["Duloxetine", "Trazodone", "Cabergoline", "Epoetin alfa"],
+    "answerIndex": 0,
+    "explanation": "Duloxetine is an SNRI used for depression and neuropathic pain. It can affect blood pressure and should be used cautiously in significant liver disease.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0055",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "A patient with depression has insomnia and poor appetite with weight loss. Which antidepressant is most likely to cause sedation and weight gain and is sometimes chosen for these symptoms?",
+    "choices": ["Mirtazapine", "Venlafaxine", "Atomoxetine", "Erenumab"],
+    "answerIndex": 0,
+    "explanation": "Mirtazapine is associated with sedation and increased appetite/weight gain (notably via H1 antagonism), which can be useful in patients with insomnia and low appetite.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0056",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient takes a sedating antidepressant for sleep and later develops a prolonged painful erection. Which medication is most associated with priapism?",
+    "choices": ["Trazodone", "Buspirone", "Venlafaxine", "Duloxetine"],
+    "answerIndex": 0,
+    "explanation": "Trazodone is associated with priapism and sedation. It is often used off-label for insomnia at low doses.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0057",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "A patient with generalized anxiety wants a non-sedating medication without dependence risk. Which drug is a 5-HT1A partial agonist with delayed onset of action?",
+    "choices": ["Buspirone", "Trazodone", "Mirtazapine", "Topiramate"],
+    "answerIndex": 0,
+    "explanation": "Buspirone is a 5-HT1A partial agonist used for GAD; it has a delayed onset and does not cause significant sedation or dependence like benzodiazepines.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0058",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient trying to stop smoking uses a medication that is a partial agonist at nicotinic acetylcholine receptors and reports vivid dreams. Which drug is this?",
+    "choices": ["Varenicline", "Atomoxetine", "Valbenazine", "Erenumab"],
+    "answerIndex": 0,
+    "explanation": "Varenicline is a partial nicotinic receptor agonist used for smoking cessation. Nausea and vivid dreams are common adverse effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0059",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A stimulant used for ADHD works primarily by increasing synaptic norepinephrine and dopamine release. Which medication fits best?",
+    "choices": ["Amphetamine/dextroamphetamine", "Atomoxetine", "Buspirone", "Mirtazapine"],
+    "answerIndex": 0,
+    "explanation": "Amphetamines increase release of norepinephrine and dopamine (and also inhibit reuptake). Adverse effects include appetite suppression, insomnia, and elevated blood pressure/heart rate.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0060",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A non-stimulant ADHD medication is a selective norepinephrine reuptake inhibitor. What serious but rare adverse effect should be considered if a patient develops jaundice or marked fatigue?",
+    "choices": ["Severe liver injury", "Pulmonary fibrosis", "Ototoxicity", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Atomoxetine is a selective norepinephrine reuptake inhibitor used for ADHD. Rare severe liver injury has been reported; concerning symptoms warrant evaluation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0061",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Methylphenidate treats ADHD primarily by:",
+    "choices": ["Blocking norepinephrine and dopamine reuptake transporters", "Irreversibly blocking MAO-B", "Activating GABA-B receptors", "Blocking CGRP receptors"],
+    "answerIndex": 0,
+    "explanation": "Methylphenidate increases synaptic norepinephrine and dopamine by inhibiting their reuptake. Adverse effects include appetite suppression, insomnia, and cardiovascular stimulation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0062",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient develops tardive dyskinesia after long-term dopamine receptor blocker use. Which medication class can reduce symptoms by inhibiting VMAT2?",
+    "choices": ["VMAT2 inhibitors (e.g., valbenazine)", "SSRIs (e.g., sertraline)", "MAO inhibitors (e.g., phenelzine)", "Benzodiazepines (e.g., diazepam)"],
+    "answerIndex": 0,
+    "explanation": "Valbenazine (VMAT2 inhibitor) reduces dopamine packaging/release and can improve tardive dyskinesia. Somnolence and QT effects can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0063",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient on migraine prophylaxis develops cognitive slowing and kidney stones. Which medication is most consistent with this profile?",
+    "choices": ["Topiramate", "Erenumab", "Varenicline", "Buspirone"],
+    "answerIndex": 0,
+    "explanation": "Topiramate can cause cognitive slowing, weight loss, paresthesias, and kidney stones (partly via carbonic anhydrase inhibition).",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0064",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "A child with absence seizures is treated with a drug classically associated with 'EFGHIJ' (fatigue, GI distress, headache, itching, Stevens-Johnson syndrome). Which medication is this?",
+    "choices": ["Ethosuximide", "Vigabatrin", "Baclofen", "Memantine"],
+    "answerIndex": 0,
+    "explanation": "Ethosuximide is first-line for absence seizures and is associated with EFGHIJ adverse effects. Its mechanism is blockade of thalamic T-type calcium channels.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0065",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A medication for refractory infantile spasms works by inhibiting GABA transaminase but carries a major boxed warning. What is the key toxicity?",
+    "choices": ["Permanent vision loss", "Pulmonary fibrosis", "Hemorrhagic cystitis", "Severe nephrotoxicity with hypocalcemia"],
+    "answerIndex": 0,
+    "explanation": "Vigabatrin inhibits GABA transaminase but can cause irreversible visual field defects, requiring careful monitoring and risk-benefit assessment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0066",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient begins a CGRP-pathway monoclonal antibody for migraine prevention and later develops constipation and elevated blood pressure. Which medication fits best?",
+    "choices": ["Erenumab", "Topiramate", "Ethosuximide", "Valbenazine"],
+    "answerIndex": 0,
+    "explanation": "Erenumab targets the CGRP receptor for migraine prevention. Constipation and hypertension can occur in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0067",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A Parkinson disease patient on a dopamine agonist develops impulse control behaviors (compulsive gambling/shopping). Which medication is most likely responsible?",
+    "choices": ["Pramipexole", "Amantadine", "Selegiline", "Riluzole"],
+    "answerIndex": 0,
+    "explanation": "Dopamine agonists such as pramipexole can cause impulse control disorders, hallucinations, and sudden sleep attacks.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0068",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A Parkinson medication selectively inhibits MAO-B to reduce dopamine breakdown. Which dangerous interaction is classically warned against?",
+    "choices": ["Serious reaction with meperidine and other serotonergic drugs", "Immediate reversal by vitamin K", "Ototoxicity when combined with loop diuretics", "Inactivation by pulmonary surfactant"],
+    "answerIndex": 0,
+    "explanation": "Selegiline is an MAO-B inhibitor. Combining MAO inhibitors with certain opioids (notably meperidine) or serotonergic agents can provoke severe toxicity (e.g., serotonin syndrome).",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0069",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A Parkinson patient is prescribed a medication that can cause livedo reticularis and ankle edema. Which drug fits this profile?",
+    "choices": ["Amantadine", "Pramipexole", "Selegiline", "Erenumab"],
+    "answerIndex": 0,
+    "explanation": "Amantadine can help Parkinson symptoms and may cause livedo reticularis and peripheral edema.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0070",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient with spasticity on an intrathecal pump medication develops hallucinations and seizures after abrupt discontinuation. Which medication withdrawal can cause this?",
+    "choices": ["Baclofen", "Buspirone", "Mirtazapine", "Topiramate"],
+    "answerIndex": 0,
+    "explanation": "Baclofen (a GABA-B agonist) withdrawal, especially intrathecal, can cause severe rebound spasticity, hallucinations, and seizures.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0071",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "A patient with moderate Alzheimer disease is started on an NMDA receptor antagonist to reduce excitotoxicity. Which medication is this?",
+    "choices": ["Memantine", "Vigabatrin", "Valbenazine", "Erenumab"],
+    "answerIndex": 0,
+    "explanation": "Memantine is an NMDA receptor antagonist used in moderate-to-severe Alzheimer disease; dizziness and confusion can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0072",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient with multiple sclerosis is treated with an alpha-4 integrin inhibitor. Which life-threatening infection risk requires monitoring and patient counseling?",
+    "choices": ["Progressive multifocal leukoencephalopathy (PML)", "Pseudomembranous colitis", "Gray baby syndrome", "Red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Natalizumab increases risk of PML due to JC virus reactivation. Monitoring and risk stratification are important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0073",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient with MS starts a medication that traps lymphocytes in lymph nodes by modulating the sphingosine-1-phosphate (S1P) receptor. What is a notable first-dose monitoring concern?",
+    "choices": ["Bradycardia", "Severe hyperkalemia", "Permanent hearing loss", "Pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Fingolimod (S1P modulator) can cause bradycardia, especially after the first dose. It can also increase infection risk and cause macular edema.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0074",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient on interferon-beta therapy for multiple sclerosis reports fever, chills, and myalgias after injections. What best explains this effect?",
+    "choices": ["Flu-like symptoms are common with interferon therapy", "This is always serotonin syndrome", "This indicates cyanide toxicity", "This indicates severe hypocalcemia from chelation"],
+    "answerIndex": 0,
+    "explanation": "Interferon-beta commonly causes flu-like symptoms; dosing at night and symptomatic treatment may help. Depression can also worsen in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0075",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient with ALS is prescribed a medication that modestly prolongs survival by reducing glutamate-mediated excitotoxicity. Which drug is this?",
+    "choices": ["Riluzole", "Memantine", "Baclofen", "Ethosuximide"],
+    "answerIndex": 0,
+    "explanation": "Riluzole inhibits glutamate release and can modestly prolong survival in ALS. Liver enzyme monitoring is important due to hepatotoxicity risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0076",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient develops seizures and ventricular arrhythmias shortly after receiving a large dose of a long-acting local anesthetic. Which rescue therapy is used for severe systemic local anesthetic toxicity?",
+    "choices": ["IV lipid emulsion", "Vitamin K", "Protamine sulfate", "Idarucizumab"],
+    "answerIndex": 0,
+    "explanation": "Severe local anesthetic systemic toxicity (especially with bupivacaine) is treated with IV lipid emulsion therapy plus supportive care.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0077",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient receives rocuronium for paralysis. Which medication reverses steroidal nondepolarizing neuromuscular blockade by encapsulating the drug?",
+    "choices": ["Sugammadex", "Neostigmine", "Naloxone", "Flumazenil"],
+    "answerIndex": 0,
+    "explanation": "Sugammadex binds rocuronium (and similar agents) to reverse blockade. It can reduce effectiveness of hormonal contraception, so counseling may be needed.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0078",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient is reversed from nondepolarizing neuromuscular blockade with an acetylcholinesterase inhibitor but develops bradycardia and bronchospasm. Which co-administered medication class prevents these muscarinic effects?",
+    "choices": ["Antimuscarinic (e.g., glycopyrrolate)", "Beta-2 agonist", "P2Y12 inhibitor", "Calcimimetic"],
+    "answerIndex": 0,
+    "explanation": "Neostigmine increases acetylcholine at nicotinic and muscarinic sites, so an antimuscarinic (like glycopyrrolate) is co-administered to prevent bradycardia/bronchospasm.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0079",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A critically ill patient on prolonged high-dose propofol infusion develops metabolic acidosis, rhabdomyolysis, and cardiovascular collapse. What is this complication called?",
+    "choices": ["Propofol infusion syndrome", "Neuroleptic malignant syndrome", "Serotonin syndrome", "Cinchonism"],
+    "answerIndex": 0,
+    "explanation": "Propofol infusion syndrome is a rare but life-threatening complication associated with prolonged high-dose infusion, causing metabolic acidosis, rhabdomyolysis, renal failure, and cardiac dysfunction.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0080",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient undergoes a painful procedure and receives a dissociative anesthetic that increases heart rate and blood pressure and can cause emergence reactions. Which drug is this?",
+    "choices": ["Ketamine", "Propofol", "Dexmedetomidine", "Sugammadex"],
+    "answerIndex": 0,
+    "explanation": "Ketamine is a dissociative anesthetic (NMDA antagonist) that can increase BP/HR and cause vivid dreams/hallucinations during emergence.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0081",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient in the ICU needs sedation with minimal respiratory depression. Which alpha-2 agonist provides sedation and analgesia but can cause bradycardia and hypotension?",
+    "choices": ["Dexmedetomidine", "Ketamine", "Propofol", "Bupivacaine"],
+    "answerIndex": 0,
+    "explanation": "Dexmedetomidine is an alpha-2 agonist used for sedation with relatively preserved respiratory drive; bradycardia and hypotension are notable adverse effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0082",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A clinician wants a local anesthetic that is an ester (one 'i' in the name) and is rapidly metabolized by plasma pseudocholinesterases. Which drug fits best?",
+    "choices": ["Chloroprocaine", "Bupivacaine", "Ropivacaine", "Mepivacaine"],
+    "answerIndex": 0,
+    "explanation": "Chloroprocaine is an ester local anesthetic (typically one 'i' in the name) metabolized by plasma pseudocholinesterases. Esters are more associated with allergic reactions due to PABA metabolites.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0083",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A premature infant has a patent ductus arteriosus (PDA). Which NSAID is used to close the PDA by decreasing prostaglandin synthesis?",
+    "choices": ["Indomethacin", "Celecoxib", "Tranexamic acid", "Ticagrelor"],
+    "answerIndex": 0,
+    "explanation": "Indomethacin inhibits prostaglandin synthesis, promoting PDA closure (ibuprofen can also be used in some protocols).",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0084",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient with prior peptic ulcer disease needs an NSAID and is offered a COX-2 selective inhibitor. What key risk remains important to counsel about?",
+    "choices": ["Increased cardiovascular thrombotic risk", "Irreversible platelet inhibition for 10 days", "Optic neuritis", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "COX-2 inhibitors like celecoxib reduce GI ulcer risk compared with nonselective NSAIDs but can increase cardiovascular thrombotic risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0085",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient receives rapid IV dosing of a potent opioid and develops severe truncal/chest wall rigidity with ventilation difficulty. Which opioid is most associated with this effect?",
+    "choices": ["Fentanyl", "Codeine", "Tramadol", "Buprenorphine"],
+    "answerIndex": 0,
+    "explanation": "Rapid IV fentanyl can cause chest wall rigidity, making ventilation difficult. Management includes ventilatory support and sometimes neuromuscular blockade.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0086",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient with pulmonary arterial hypertension is treated with an endothelin receptor antagonist that requires liver function monitoring and is teratogenic. Which medication fits best?",
+    "choices": ["Bosentan", "Epoprostenol", "Riociguat", "Dornase alfa"],
+    "answerIndex": 0,
+    "explanation": "Bosentan is an endothelin receptor antagonist used for PAH. Hepatotoxicity monitoring is required and it is teratogenic.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0087",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient with pulmonary arterial hypertension is started on a soluble guanylate cyclase stimulator. Which dangerous combination should be avoided due to profound hypotension risk?",
+    "choices": ["Riociguat with PDE-5 inhibitors", "Riociguat with inhaled corticosteroids", "Riociguat with inhaled antimuscarinics", "Riociguat with leukotriene blockers"],
+    "answerIndex": 0,
+    "explanation": "Riociguat increases cGMP via sGC stimulation; combining with PDE-5 inhibitors can cause excessive cGMP and severe hypotension.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0088",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient with severe pulmonary arterial hypertension is started on a prostacyclin analog that improves symptoms and can improve survival but requires continuous infusion. Which drug is this?",
+    "choices": ["Epoprostenol", "Bosentan", "Rifaximin", "Ursodeoxycholic acid"],
+    "answerIndex": 0,
+    "explanation": "Epoprostenol is a prostacyclin (PGI2) analog used for PAH. Adverse effects include flushing, headache, and jaw pain; infusion interruption can be dangerous.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0089",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A patient with cystic fibrosis uses an inhaled medication that cleaves extracellular DNA in sputum to reduce viscosity. Which therapy is this?",
+    "choices": ["Dornase alfa", "Erenumab", "Patiromer", "Pegvisomant"],
+    "answerIndex": 0,
+    "explanation": "Dornase alfa (DNase) breaks down DNA in mucus, reducing sputum viscosity and improving airway clearance in cystic fibrosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0090",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A cystic fibrosis patient with a gating mutation (e.g., G551D) starts a medication that improves CFTR channel opening. Which drug fits best?",
+    "choices": ["Ivacaftor", "Bosentan", "Rifaximin", "Tranexamic acid"],
+    "answerIndex": 0,
+    "explanation": "Ivacaftor is a CFTR potentiator that improves channel gating in certain CF mutations. Liver enzyme monitoring is often recommended based on clinical guidance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0091",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient uses a non-opioid antitussive that anesthetizes stretch receptors in the respiratory tract. The patient accidentally chews the capsule and later has seizures and arrhythmias. Which medication is most likely responsible?",
+    "choices": ["Benzonatate", "Orlistat", "Sevelamer", "Valbenazine"],
+    "answerIndex": 0,
+    "explanation": "Benzonatate can cause serious toxicity (including seizures and arrhythmias), especially if capsules are chewed or overdosed. It should be swallowed whole and kept away from children.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0092",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient with recurrent hepatic encephalopathy is given an oral antibiotic that is minimally absorbed and decreases ammonia-producing gut bacteria, often used with lactulose. Which medication is this?",
+    "choices": ["Rifaximin", "Ulipristal", "Dofetilide", "Denosumab"],
+    "answerIndex": 0,
+    "explanation": "Rifaximin is a minimally absorbed rifamycin derivative used to reduce recurrence of hepatic encephalopathy by decreasing ammonia-producing intestinal bacteria.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0093",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient with primary biliary cholangitis is treated with a medication that can improve cholestasis and is also used to dissolve cholesterol gallstones. Which drug fits best?",
+    "choices": ["Ursodeoxycholic acid (ursodiol)", "Orlistat", "Tranexamic acid", "Eptifibatide"],
+    "answerIndex": 0,
+    "explanation": "Ursodiol reduces cholesterol saturation in bile and is used for primary biliary cholangitis and some cholesterol gallstones.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0094",
+    "category": "GI",
+    "difficulty": "Easy",
+    "stem": "A traveler uses an OTC medication for diarrhea and later notices black stools and a black tongue. Which medication most likely caused this benign effect?",
+    "choices": ["Bismuth subsalicylate", "Orlistat", "Sevelamer", "Rifaximin"],
+    "answerIndex": 0,
+    "explanation": "Bismuth subsalicylate can cause black discoloration of the tongue and stool. It contains a salicylate, so caution is needed in salicylate allergy and in children/teens with viral illness.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0095",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient starts a weight-loss drug that inhibits pancreatic lipases and develops oily stools and fecal urgency. What additional counseling is most appropriate?",
+    "choices": ["Supplement fat-soluble vitamins (A, D, E, K) due to reduced absorption", "Avoid tyramine-containing foods", "Monitor QT interval daily", "Avoid all dairy to prevent chelation"],
+    "answerIndex": 0,
+    "explanation": "Orlistat decreases fat absorption, causing steatorrhea and reducing absorption of fat-soluble vitamins; supplementation is commonly recommended.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0096",
+    "category": "GI",
+    "difficulty": "Hard",
+    "stem": "A patient with ulcerative colitis is started on a medication that is a prodrug cleaved by colonic bacteria into 5-ASA. The patient later develops anemia and is known to have G6PD deficiency. Which drug is most likely responsible?",
+    "choices": ["Sulfasalazine", "Rifaximin", "Ursodiol", "Bismuth subsalicylate"],
+    "answerIndex": 0,
+    "explanation": "Sulfasalazine is converted to 5-ASA in the colon and can cause adverse effects including GI upset, headache, and hemolysis in G6PD deficiency; it can also impair folate absorption.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0097",
+    "category": "Antiparasitics",
+    "difficulty": "Medium",
+    "stem": "A patient treated for onchocerciasis develops fever, pruritus, and lymph node swelling due to an inflammatory response to dying microfilariae (Mazzotti reaction). Which medication most likely triggered this?",
+    "choices": ["Ivermectin", "Praziquantel", "Albendazole", "Primaquine"],
+    "answerIndex": 0,
+    "explanation": "Ivermectin is used for onchocerciasis. The Mazzotti reaction can occur due to immune response to dying microfilariae.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0098",
+    "category": "Antiparasitics",
+    "difficulty": "Easy",
+    "stem": "A patient with schistosomiasis is treated with a drug that increases parasite cell membrane permeability to calcium, causing paralysis and dislodgement. Which drug is this?",
+    "choices": ["Praziquantel", "Ivermectin", "Albendazole", "Ulipristal"],
+    "answerIndex": 0,
+    "explanation": "Praziquantel increases calcium permeability in helminths, causing paralysis. It is used for schistosomiasis and many other trematode/cestode infections.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0099",
+    "category": "Antiparasitics",
+    "difficulty": "Medium",
+    "stem": "A patient with neurocysticercosis is prescribed an antiparasitic that inhibits microtubule polymerization. Which drug is this?",
+    "choices": ["Albendazole", "Praziquantel", "Ivermectin", "Benzonatate"],
+    "answerIndex": 0,
+    "explanation": "Albendazole inhibits microtubule polymerization and is used for various helminth infections including neurocysticercosis and hydatid disease. Hepatotoxicity and leukopenia are potential adverse effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB6-0100",
+    "category": "Antiparasitics",
+    "difficulty": "Hard",
+    "stem": "A patient with Plasmodium vivax malaria needs eradication of dormant liver hypnozoites. Which medication is used for this purpose and is contraindicated in G6PD deficiency due to hemolysis risk?",
+    "choices": ["Primaquine", "Albendazole", "Ivermectin", "Praziquantel"],
+    "answerIndex": 0,
+    "explanation": "Primaquine is used to eradicate liver hypnozoites in P. vivax/ovale. It can cause hemolytic anemia in G6PD deficiency, so screening is required before use.",
+    "reference": ""
+  }
 ]
 
