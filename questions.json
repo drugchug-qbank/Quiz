@@ -6650,5 +6650,1006 @@
     "explanation": "Both act on the incretin pathway (GLP-1 activity); combining typically offers minimal additional glycemic benefit while increasing complexity and cost.",
     "reference": ""
   }
+,
+  {
+    "id": "DCB8-0001",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Which factor increases the risk of acetaminophen (APAP) hepatotoxicity at lower doses?",
+    "choices": ["Chronic alcohol use", "High-fiber diet", "Taking APAP with food", "Concurrent calcium supplements"],
+    "answerIndex": 0,
+    "explanation": "Chronic alcohol use can induce CYP2E1 and reduce glutathione stores, increasing toxic NAPQI formation and risk of liver injury.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0002",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "A small fraction of acetaminophen is converted to the toxic metabolite NAPQI primarily by which pathway?",
+    "choices": ["Glucuronidation", "Sulfation", "CYP450 oxidation (e.g., CYP2E1)", "Direct renal excretion unchanged"],
+    "answerIndex": 2,
+    "explanation": "NAPQI is produced via CYP450 oxidation (classically CYP2E1) and is detoxified by glutathione.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0003",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Why does acetaminophen provide analgesia and antipyresis but relatively weak peripheral anti-inflammatory effects?",
+    "choices": ["It has minimal peripheral COX inhibition in inflamed tissues", "It irreversibly blocks platelet COX-1", "It strongly inhibits leukotriene synthesis", "It activates opioid receptors"],
+    "answerIndex": 0,
+    "explanation": "APAP acts largely centrally and has limited peripheral anti-inflammatory activity compared with NSAIDs.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0004",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient with salicylate toxicity classically develops which acid-base pattern over time?",
+    "choices": ["Metabolic alkalosis only", "Respiratory alkalosis then anion gap metabolic acidosis", "Non-anion gap metabolic acidosis only", "Respiratory acidosis then metabolic alkalosis"],
+    "answerIndex": 1,
+    "explanation": "Salicylates stimulate respiration causing early respiratory alkalosis, then cause anion gap metabolic acidosis due to organic acid accumulation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0005",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient has severe salicylate overdose with tinnitus, hyperventilation, and worsening acidosis. Which intervention helps enhance salicylate elimination and reduce CNS penetration?",
+    "choices": ["Urinary alkalinization with IV sodium bicarbonate", "IV vitamin K", "Protamine sulfate", "Flumazenil"],
+    "answerIndex": 0,
+    "explanation": "Alkalinizing serum/urine traps salicylate in ionized form, reducing CNS entry and increasing renal elimination; dialysis may be needed in severe cases.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0006",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "A child with influenza is given aspirin and later develops vomiting, encephalopathy, and liver dysfunction. What complication is this?",
+    "choices": ["Reye syndrome", "Serotonin syndrome", "Neuroleptic malignant syndrome", "Stevens-Johnson syndrome"],
+    "answerIndex": 0,
+    "explanation": "Reye syndrome is associated with aspirin use in children with viral illness and causes acute encephalopathy and hepatic dysfunction.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0007",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Aspirin reduces platelet aggregation primarily by which mechanism?",
+    "choices": ["Irreversibly inhibits COX-1 in platelets, decreasing thromboxane A2", "Reversibly blocks P2Y12 receptors", "Directly inhibits factor Xa", "Activates antithrombin"],
+    "answerIndex": 0,
+    "explanation": "Aspirin irreversibly acetylates platelet COX-1, decreasing TXA2; platelets cannot synthesize new COX enzymes.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0008",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient takes daily low-dose aspirin for secondary prevention and wants to use ibuprofen for pain. How should ibuprofen be timed to avoid reducing aspirin’s antiplatelet effect?",
+    "choices": ["Take aspirin first; take ibuprofen later (separated in time)", "Take ibuprofen first; aspirin later the same hour", "Take both at the exact same time daily", "Never take aspirin if ibuprofen is needed"],
+    "answerIndex": 0,
+    "explanation": "Ibuprofen can competitively block aspirin’s access to platelet COX-1 if taken first; taking aspirin first (with separation) helps preserve antiplatelet effect.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0009",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "Which NSAID is commonly used for moderate-to-severe acute pain but is typically limited to short courses due to higher GI/renal risk?",
+    "choices": ["Ketorolac", "Celecoxib", "Acetaminophen", "Aspirin"],
+    "answerIndex": 0,
+    "explanation": "Ketorolac is effective for acute pain but is generally limited to short durations because of GI bleeding and renal toxicity risks.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0010",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient needs chronic NSAID therapy and has a history of peptic ulcer bleeding. Which co-therapy most reduces NSAID-associated upper GI bleed risk?",
+    "choices": ["Proton pump inhibitor", "Calcium carbonate", "Diphenhydramine", "Pseudoephedrine"],
+    "answerIndex": 0,
+    "explanation": "PPIs reduce gastric acid and lower the risk of NSAID-associated ulcers and bleeding in high-risk patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0011",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Why are NSAIDs generally avoided in the third trimester of pregnancy?",
+    "choices": ["Risk of premature ductus arteriosus closure and oligohydramnios", "High risk of agranulocytosis", "Risk of optic neuritis", "They cause fetal tooth discoloration"],
+    "answerIndex": 0,
+    "explanation": "NSAIDs can reduce fetal prostaglandins, risking premature closure of the ductus arteriosus and decreased fetal renal perfusion (oligohydramnios).",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0012",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "NSAIDs can precipitate acute kidney injury primarily by which hemodynamic effect?",
+    "choices": ["Constriction of the afferent arteriole due to reduced prostaglandins", "Dilation of the efferent arteriole due to reduced angiotensin II", "Direct obstruction of renal tubules by crystals", "Activation of aldosterone causing potassium wasting"],
+    "answerIndex": 0,
+    "explanation": "Prostaglandins dilate the afferent arteriole; NSAIDs reduce prostaglandins and can constrict the afferent arteriole, lowering GFR.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0013",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient develops fever, rash, eosinophilia, and rising creatinine after starting naproxen. Urinalysis shows WBCs and WBC casts. What is the most likely diagnosis?",
+    "choices": ["Acute interstitial nephritis", "Acute tubular necrosis", "Nephrotic syndrome", "Postrenal obstruction"],
+    "answerIndex": 0,
+    "explanation": "NSAIDs can cause acute interstitial nephritis, often with fever, rash, eosinophilia/eosinophiluria, and WBC casts.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0014",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient on lithium starts ibuprofen and later has tremor and confusion with elevated lithium levels. What explains this interaction?",
+    "choices": ["NSAIDs can decrease renal lithium clearance", "NSAIDs induce CYP2D6 increasing lithium metabolism", "NSAIDs increase GI lithium absorption by chelation", "NSAIDs reverse lithium at the receptor"],
+    "answerIndex": 0,
+    "explanation": "NSAIDs can reduce renal perfusion and alter tubular handling, decreasing lithium clearance and increasing toxicity risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0015",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient on apixaban takes high-dose ibuprofen daily and develops GI bleeding. Why does this combination increase bleeding risk?",
+    "choices": ["NSAIDs impair platelet function and damage GI mucosa", "NSAIDs reverse factor Xa inhibitors", "NSAIDs directly activate plasmin", "NSAIDs increase vitamin K absorption"],
+    "answerIndex": 0,
+    "explanation": "NSAIDs can cause platelet dysfunction and GI mucosal injury; combined with anticoagulation, bleeding risk increases substantially.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0016",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "Low-dose aspirin can trigger gout flares primarily because it:",
+    "choices": ["Decreases uric acid excretion in the kidney", "Strongly increases uric acid excretion", "Blocks xanthine oxidase", "Chelates uric acid in the gut"],
+    "answerIndex": 0,
+    "explanation": "At low doses, aspirin can reduce renal urate excretion, raising uric acid and potentially triggering gout flares.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0017",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Why do COX-2 selective inhibitors have little effect on platelet aggregation?",
+    "choices": ["Platelets primarily use COX-1 to produce thromboxane A2", "Platelets lack cyclooxygenase entirely", "They block P2Y12 receptors instead", "They directly inhibit factor IIa"],
+    "answerIndex": 0,
+    "explanation": "Platelets generate TXA2 mainly via COX-1; COX-2 selective drugs have minimal platelet inhibition.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0018",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient develops bronchospasm and nasal polyps after taking aspirin. What is the best mechanism explanation?",
+    "choices": ["COX inhibition shunts arachidonic acid toward leukotriene production", "Direct beta-2 receptor blockade in the lungs", "Irreversible inhibition of histamine release", "Inactivation by pulmonary surfactant"],
+    "answerIndex": 0,
+    "explanation": "In aspirin-exacerbated respiratory disease, COX inhibition reduces prostaglandins and shifts toward leukotriene production, promoting bronchoconstriction.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0019",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "Activation of which opioid receptor is most associated with analgesia, respiratory depression, euphoria, miosis, and constipation?",
+    "choices": ["Mu", "Kappa", "Delta", "NMDA"],
+    "answerIndex": 0,
+    "explanation": "Mu-opioid receptor activation drives classic opioid effects including analgesia and respiratory depression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0020",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Stimulation of which opioid receptor is most associated with dysphoria and hallucinations?",
+    "choices": ["Kappa", "Mu", "Delta", "GABA-A"],
+    "answerIndex": 0,
+    "explanation": "Kappa receptor activation is associated with dysphoria, sedation, and psychotomimetic effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0021",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Which opioid is most associated with histamine release causing pruritus and hypotension?",
+    "choices": ["Morphine", "Fentanyl", "Methadone", "Buprenorphine"],
+    "answerIndex": 0,
+    "explanation": "Morphine is more likely to trigger histamine-mediated itching and hypotension than many synthetic opioids.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0022",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient with biliary colic has worsening pain after receiving an opioid. Which opioid effect can contribute to this?",
+    "choices": ["Increased sphincter of Oddi tone", "Direct gallstone dissolution", "Inhibition of leukotriene synthesis", "Bronchodilation via beta-2 activation"],
+    "answerIndex": 0,
+    "explanation": "Opioids can increase sphincter of Oddi tone and worsen biliary colic in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0023",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "Which opioid is most associated with seizures due to a neurotoxic metabolite and is avoided in renal impairment?",
+    "choices": ["Meperidine", "Hydromorphone", "Morphine", "Buprenorphine"],
+    "answerIndex": 0,
+    "explanation": "Meperidine’s metabolite (normeperidine) can accumulate and cause CNS excitation and seizures, especially in renal impairment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0024",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient on methadone for opioid use disorder develops syncope; ECG shows prolonged QT. What is the concern?",
+    "choices": ["Torsades de pointes risk", "Severe hypocalcemia from chelation", "Cyanide toxicity", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Methadone can prolong the QT interval, increasing torsades de pointes risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0025",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient taking tramadol develops confusion, diaphoresis, tremor, and hyperreflexia after starting an SSRI. What is the best explanation?",
+    "choices": ["Serotonin syndrome risk from tramadol’s serotonergic effects", "Cyanide toxicity from tramadol", "IgE-mediated anaphylaxis", "Red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Tramadol has serotonergic activity and can contribute to serotonin syndrome, especially with SSRIs; it also lowers the seizure threshold.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0026",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Why can codeine be unexpectedly dangerous in some patients?",
+    "choices": ["It is converted to morphine by CYP2D6; ultra-rapid metabolizers can get toxic levels", "It irreversibly inhibits COX-1", "It directly blocks factor Xa", "It is inactivated by pulmonary surfactant"],
+    "answerIndex": 0,
+    "explanation": "Codeine is a prodrug activated by CYP2D6; ultra-rapid metabolizers can generate high morphine levels causing respiratory depression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0027",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient on full opioid agonists takes buprenorphine too soon and develops sudden severe withdrawal. Why?",
+    "choices": ["Buprenorphine has high receptor affinity and displaces full agonists while only partially activating mu receptors", "Buprenorphine irreversibly blocks acetylcholinesterase", "Buprenorphine causes rapid insulin release", "Buprenorphine inhibits COX-2 only"],
+    "answerIndex": 0,
+    "explanation": "Buprenorphine is a partial mu agonist with high affinity; it can precipitate withdrawal if given before adequate washout from full agonists.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0028",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient overdoses on an extended-release opioid. After naloxone improves breathing, symptoms recur 45 minutes later. What is the best explanation?",
+    "choices": ["Naloxone has a shorter duration than many opioids, so repeat dosing/infusion may be needed", "Naloxone causes delayed hepatotoxicity", "Naloxone permanently blocks mu receptors", "Naloxone induces CYP enzymes for weeks"],
+    "answerIndex": 0,
+    "explanation": "Naloxone is short-acting; long-acting opioids can outlast it, requiring repeat doses or continuous infusion with monitoring.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0029",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient wants a medication to help maintain abstinence from opioids and also reduce alcohol cravings. Which medication is a long-acting opioid receptor antagonist?",
+    "choices": ["Naltrexone", "Naloxone", "Buprenorphine", "Methadone"],
+    "answerIndex": 0,
+    "explanation": "Naltrexone is a longer-acting opioid antagonist used for opioid and alcohol use disorder; the patient must be opioid-free before starting to avoid precipitated withdrawal.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0030",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient has severe opioid-induced constipation despite laxatives. Which medication can relieve constipation without reversing central analgesia?",
+    "choices": ["Methylnaltrexone or naloxegol", "Naloxone", "Morphine", "Codeine"],
+    "answerIndex": 0,
+    "explanation": "Peripherally acting mu antagonists treat opioid-induced constipation while minimizing central withdrawal/analgesia reversal.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0031",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient on chronic opioids receives pentazocine for pain and develops agitation and withdrawal symptoms. Why?",
+    "choices": ["Mixed agonist-antagonists can displace mu agonists and precipitate withdrawal", "Pentazocine irreversibly inhibits COX-1", "Pentazocine causes cyanide release", "Pentazocine blocks insulin secretion"],
+    "answerIndex": 0,
+    "explanation": "Mixed kappa agonist/mu antagonist opioids (e.g., pentazocine, nalbuphine) can precipitate withdrawal in opioid-dependent patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0032",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Why is combining opioids with benzodiazepines particularly dangerous?",
+    "choices": ["Additive respiratory depression and sedation", "Severe hyperkalemia", "Permanent vision loss", "Inactivation of opioids by surfactant"],
+    "answerIndex": 0,
+    "explanation": "Both depress CNS/respiratory drive; co-use increases risk of fatal respiratory depression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0033",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Which statement about transdermal fentanyl patches is most accurate?",
+    "choices": ["They are intended for opioid-tolerant patients and chronic pain, not acute pain", "They are first-line for opioid-naive acute pain", "They rapidly reverse opioid overdose", "They are safer when cut in half"],
+    "answerIndex": 0,
+    "explanation": "Transdermal fentanyl is for chronic pain in opioid-tolerant patients; misuse in opioid-naive patients can cause fatal respiratory depression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0034",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient on oxycodone develops oversedation after starting clarithromycin. What is the likely mechanism?",
+    "choices": ["CYP3A4 inhibition increases opioid levels", "CYP3A4 induction decreases opioid levels", "Chelation prevents absorption", "Direct opioid receptor antagonism"],
+    "answerIndex": 0,
+    "explanation": "Many opioids are metabolized by CYP3A4; inhibitors (e.g., macrolides like clarithromycin) can increase levels and toxicity risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0035",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "For many adults, what is a common maximum recommended total daily acetaminophen dose from all sources (with lower limits in liver disease/older adults per clinician guidance)?",
+    "choices": ["4,000 mg/day", "10,000 mg/day", "500 mg/day", "12,000 mg/day"],
+    "answerIndex": 0,
+    "explanation": "A commonly taught maximum is 4 g/day in adults, but many clinicians recommend lower limits in higher-risk patients to reduce hepatotoxicity risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0036",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "A patient accidentally overdoses on acetaminophen while taking cold/flu products. What is the best prevention counseling point?",
+    "choices": ["Check labels because many combination products contain acetaminophen", "Always take acetaminophen with alcohol", "Avoid drinking water with acetaminophen", "Double doses when symptoms persist"],
+    "answerIndex": 0,
+    "explanation": "Many OTC combination products contain acetaminophen; accidental “stacking” is a common cause of overdose.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0037",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient taking an MAOI uses dextromethorphan for cough and develops agitation, hyperreflexia, and fever. What is the likely issue?",
+    "choices": ["Serotonin syndrome", "Cyanide toxicity", "Red man syndrome", "Agranulocytosis"],
+    "answerIndex": 0,
+    "explanation": "Dextromethorphan has serotonergic properties; with MAOIs it can precipitate serotonin syndrome.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0038",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Dextromethorphan suppresses cough primarily by acting on which central target(s)?",
+    "choices": ["NMDA receptor antagonism (and sigma activity) in CNS cough pathways", "Direct beta-2 agonism", "Irreversible COX-1 inhibition", "Direct factor Xa inhibition"],
+    "answerIndex": 0,
+    "explanation": "Dextromethorphan acts centrally (classically NMDA antagonist) to suppress the cough reflex.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0039",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Topical capsaicin can help neuropathic pain primarily by:",
+    "choices": ["Depleting substance P from nociceptive nerve terminals", "Blocking P2Y12 receptors", "Activating antithrombin", "Inhibiting CYP2E1"],
+    "answerIndex": 0,
+    "explanation": "Capsaicin activates TRPV1 and depletes substance P, reducing pain transmission over time; burning sensation is common initially.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0040",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A lidocaine patch helps postherpetic neuralgia primarily by which mechanism?",
+    "choices": ["Blocking voltage-gated sodium channels in peripheral nerves", "Blocking leukotriene receptors", "Irreversibly inhibiting COX-1", "Activating opioid receptors"],
+    "answerIndex": 0,
+    "explanation": "Lidocaine blocks sodium channels, reducing ectopic nerve firing in neuropathic pain.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0041",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "After topical benzocaine use, a patient becomes cyanotic with normal PaO2 but low pulse oximetry readings. What is the most likely diagnosis and treatment?",
+    "choices": ["Methemoglobinemia; methylene blue", "Anaphylaxis; epinephrine", "Opioid overdose; naloxone", "Salicylate toxicity; sodium bicarbonate"],
+    "answerIndex": 0,
+    "explanation": "Benzocaine can cause methemoglobinemia; methylene blue is first-line treatment in appropriate patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0042",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Hard",
+    "stem": "Why is methylene blue used cautiously or avoided in patients with G6PD deficiency?",
+    "choices": ["It may be ineffective and can trigger hemolysis", "It causes irreversible platelet inhibition", "It directly causes cyanide toxicity", "It blocks insulin secretion"],
+    "answerIndex": 0,
+    "explanation": "Methylene blue requires NADPH; in G6PD deficiency it may not work well and can worsen oxidative hemolysis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0043",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Early signs of systemic lidocaine toxicity often include which symptoms?",
+    "choices": ["Perioral numbness, metallic taste, tinnitus", "Severe diarrhea and flushing only", "Red-green color blindness", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Local anesthetic systemic toxicity often begins with CNS symptoms (perioral numbness, metallic taste, tinnitus) and can progress to seizures and arrhythmias.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0044",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "NSAIDs can relieve primary dysmenorrhea mainly by reducing uterine prostaglandin production. Which class effect accomplishes this?",
+    "choices": ["Cyclooxygenase inhibition", "Opioid receptor antagonism", "NMDA receptor activation", "Beta-2 receptor blockade"],
+    "answerIndex": 0,
+    "explanation": "NSAIDs inhibit COX enzymes, lowering prostaglandins that drive uterine cramping and pain.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0045",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Which opioid effect typically shows little tolerance and often persists with chronic use?",
+    "choices": ["Constipation", "Analgesia", "Euphoria", "Respiratory depression"],
+    "answerIndex": 0,
+    "explanation": "Tolerance develops to many opioid effects, but constipation (and miosis) tend to persist with minimal tolerance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0046",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient in opioid withdrawal has lacrimation, diarrhea, piloerection, and tachycardia. Which medication can help reduce autonomic symptoms?",
+    "choices": ["Clonidine (or lofexidine)", "Naloxone", "Warfarin", "Omeprazole"],
+    "answerIndex": 0,
+    "explanation": "Alpha-2 agonists (clonidine/lofexidine) reduce sympathetic outflow and can ease withdrawal symptoms (adjunctive therapy).",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0047",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Why is naloxone included with buprenorphine in some sublingual combination products?",
+    "choices": ["It discourages injection misuse because naloxone precipitates withdrawal if injected", "It increases buprenorphine absorption", "It prevents acetaminophen toxicity", "It treats opioid constipation"],
+    "answerIndex": 0,
+    "explanation": "Naloxone has poor sublingual bioavailability but can block opioids if injected, deterring misuse.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0048",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Which symptom is a common early clue to aspirin (salicylate) toxicity?",
+    "choices": ["Tinnitus", "Red-green color blindness", "Severe neutropenia", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Tinnitus is a classic early symptom of salicylate toxicity, along with nausea and hyperventilation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0049",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "A patient with knee osteoarthritis wants less systemic exposure than oral NSAIDs. Which option fits best?",
+    "choices": ["Topical diclofenac", "High-dose oral ketorolac", "Daily aspirin 325 mg", "Chronic oral prednisone"],
+    "answerIndex": 0,
+    "explanation": "Topical NSAIDs (e.g., diclofenac) can reduce systemic exposure compared with oral NSAIDs while providing local relief, though systemic absorption is not zero.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0050",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "A patient with thrombocytopenia needs an analgesic that does not significantly impair platelet function. Which is most appropriate?",
+    "choices": ["Acetaminophen", "Aspirin", "Ibuprofen", "Naproxen"],
+    "answerIndex": 0,
+    "explanation": "Acetaminophen has minimal antiplatelet effect compared with NSAIDs/aspirin and is often preferred when platelet function is a concern (dose limits still apply).",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0051",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "Which medication is the classic short-acting rescue inhaler for acute bronchospasm in asthma?",
+    "choices": ["Albuterol", "Fluticasone", "Salmeterol", "Tiotropium"],
+    "answerIndex": 0,
+    "explanation": "Albuterol is a short-acting beta-2 agonist (SABA) used for rapid relief of acute bronchospasm.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0052",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Why should long-acting beta-2 agonists (LABAs) generally not be used as monotherapy for asthma?",
+    "choices": ["Increased risk of severe asthma exacerbations when used without inhaled corticosteroids", "They cause irreversible lung fibrosis", "They rapidly cause agranulocytosis", "They are inactivated by surfactant"],
+    "answerIndex": 0,
+    "explanation": "LABAs should be paired with inhaled corticosteroids in asthma to reduce exacerbation risk; LABA monotherapy is not recommended.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0053",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Which LABA has a relatively rapid onset and is used in some ICS-formoterol regimens as both maintenance and reliever?",
+    "choices": ["Formoterol", "Salmeterol", "Tiotropium", "Ipratropium"],
+    "answerIndex": 0,
+    "explanation": "Formoterol has a faster onset than salmeterol, enabling certain ICS-formoterol strategies for maintenance and reliever therapy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0054",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "For persistent asthma, what is a common first-line controller medication class?",
+    "choices": ["Inhaled corticosteroids", "Short-acting beta blockers", "Loop diuretics", "Anticoagulants"],
+    "answerIndex": 0,
+    "explanation": "Inhaled corticosteroids reduce airway inflammation and are the cornerstone controller therapy for persistent asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0055",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Which systemic adverse effect becomes more likely with higher-dose or prolonged inhaled corticosteroid use?",
+    "choices": ["Adrenal suppression and reduced bone density", "Cyanide toxicity", "Hemorrhagic cystitis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Although mostly local, higher-dose/prolonged ICS can contribute to systemic effects such as adrenal suppression and bone loss.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0056",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient has a moderate asthma exacerbation requiring ED care. Which therapy reduces relapse risk but does not provide immediate bronchodilation?",
+    "choices": ["Systemic corticosteroids", "Albuterol", "Ipratropium", "Epinephrine IM"],
+    "answerIndex": 0,
+    "explanation": "Systemic steroids reduce airway inflammation and relapse risk but have delayed onset compared with bronchodilators.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0057",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "In severe status asthmaticus not responding to initial therapy, which IV medication can provide bronchodilation and reduce hospitalization risk in select cases?",
+    "choices": ["Magnesium sulfate", "Vitamin K", "Protamine sulfate", "Idarucizumab"],
+    "answerIndex": 0,
+    "explanation": "IV magnesium can relax smooth muscle and is used as an adjunct in severe asthma exacerbations.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0058",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Which inhaled medication is commonly added to albuterol in acute severe asthma to improve bronchodilation?",
+    "choices": ["Ipratropium", "Tiotropium", "Fluticasone", "Montelukast"],
+    "answerIndex": 0,
+    "explanation": "Ipratropium (short-acting antimuscarinic) is often added to SABA in acute severe exacerbations.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0059",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A long-acting muscarinic antagonist (LAMA) commonly used for COPD maintenance therapy is:",
+    "choices": ["Tiotropium", "Albuterol", "Fluticasone", "Montelukast"],
+    "answerIndex": 0,
+    "explanation": "Tiotropium is a LAMA that provides bronchodilation for COPD maintenance and sometimes as add-on in severe asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0060",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient accidentally sprays an antimuscarinic inhaler into their eyes and develops eye pain and halos. What is the concern?",
+    "choices": ["Acute angle-closure glaucoma precipitation", "Optic neuritis from ethambutol", "Cyanide toxicity", "Pulmonary surfactant inactivation"],
+    "answerIndex": 0,
+    "explanation": "Antimuscarinics can precipitate acute angle-closure glaucoma if aerosol contacts the eyes, especially in susceptible patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0061",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient with severe COPD with chronic bronchitis and frequent exacerbations is started on a PDE-4 inhibitor. Which medication fits best?",
+    "choices": ["Roflumilast", "Albuterol", "Montelukast", "Omalizumab"],
+    "answerIndex": 0,
+    "explanation": "Roflumilast (PDE-4 inhibitor) reduces COPD exacerbations in select patients; adverse effects include weight loss and psychiatric symptoms.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0062",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Long-term oxygen therapy improves survival in COPD patients with which finding?",
+    "choices": ["Chronic severe resting hypoxemia", "Mild intermittent wheeze only", "Normal oxygen saturation at rest", "Isolated cough without hypoxemia"],
+    "answerIndex": 0,
+    "explanation": "In COPD, long-term oxygen improves survival in chronic severe resting hypoxemia (specific thresholds depend on guidelines/clinical context).",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0063",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Antibiotics are often considered in COPD exacerbations when which features are present?",
+    "choices": ["Increased sputum purulence with increased dyspnea and/or sputum volume", "Only mild fatigue", "Stable chronic cough without change", "Isolated nasal congestion"],
+    "answerIndex": 0,
+    "explanation": "Antibiotics are commonly used when bacterial infection is suspected, classically with increased sputum purulence plus increased dyspnea/volume.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0064",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Which biologic for asthma targets IgE and is used for allergic asthma with elevated IgE and positive allergen sensitization?",
+    "choices": ["Omalizumab", "Mepolizumab", "Benralizumab", "Dupilumab"],
+    "answerIndex": 0,
+    "explanation": "Omalizumab is an anti-IgE monoclonal antibody used for allergic asthma; anaphylaxis is a rare risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0065",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Which asthma biologic directly targets IL-5 and is used for eosinophilic asthma?",
+    "choices": ["Mepolizumab", "Omalizumab", "Dupilumab", "Tezepelumab"],
+    "answerIndex": 0,
+    "explanation": "Mepolizumab targets IL-5, reducing eosinophilic inflammation in select severe asthma patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0066",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "Benralizumab treats eosinophilic asthma primarily by:",
+    "choices": ["Targeting the IL-5 receptor and promoting eosinophil depletion", "Blocking IgE binding to mast cells", "Inhibiting leukotriene synthesis via 5-lipoxygenase", "Stimulating beta-2 receptors"],
+    "answerIndex": 0,
+    "explanation": "Benralizumab targets IL-5 receptor alpha, leading to marked eosinophil reduction.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0067",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Dupilumab benefits some severe asthma patients by blocking which pathway?",
+    "choices": ["IL-4 receptor alpha (affecting IL-4/IL-13 signaling)", "IgE binding only", "5-lipoxygenase enzyme", "COX-1 irreversibly"],
+    "answerIndex": 0,
+    "explanation": "Dupilumab blocks IL-4Ralpha, inhibiting IL-4/IL-13 signaling and reducing type 2 inflammation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0068",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "Tezepelumab is a biologic for severe asthma that targets:",
+    "choices": ["TSLP (thymic stromal lymphopoietin)", "IgE", "IL-5 only", "P2Y12 receptor"],
+    "answerIndex": 0,
+    "explanation": "Tezepelumab targets TSLP, an upstream epithelial cytokine involved in airway inflammation in severe asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0069",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient on zileuton develops elevated liver enzymes. Zileuton works by inhibiting:",
+    "choices": ["5-lipoxygenase", "Leukotriene receptors", "COX-2 selectively", "Muscarinic receptors"],
+    "answerIndex": 0,
+    "explanation": "Zileuton inhibits 5-lipoxygenase, decreasing leukotriene synthesis; hepatotoxicity and drug interactions are key concerns.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0070",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Montelukast carries an important warning related to which potential adverse effect?",
+    "choices": ["Neuropsychiatric symptoms (e.g., mood changes, suicidality)", "Severe nephrotoxicity", "Optic neuritis", "Cyanide toxicity"],
+    "answerIndex": 0,
+    "explanation": "Montelukast (leukotriene receptor antagonist) has reported neuropsychiatric adverse effects; counseling is important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0071",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Cromolyn is best described as:",
+    "choices": ["A mast cell stabilizer used for prophylaxis, not acute relief", "A rapid bronchodilator for acute attacks", "A COX-2 inhibitor", "An opioid antagonist"],
+    "answerIndex": 0,
+    "explanation": "Cromolyn stabilizes mast cells and is used for prevention; it is not effective for acute bronchospasm relief.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0072",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "Why can an inhaled corticosteroid–formoterol inhaler be used as both maintenance and reliever therapy in some regimens?",
+    "choices": ["Formoterol has a relatively rapid onset compared with some other LABAs", "Formoterol irreversibly blocks COX-1", "Formoterol is a leukotriene inhibitor", "Formoterol is a direct thrombin inhibitor"],
+    "answerIndex": 0,
+    "explanation": "Formoterol’s faster onset allows certain ICS-formoterol strategies for symptom relief while maintaining anti-inflammatory therapy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0073",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient receives repeated systemic steroid bursts for COPD exacerbations and develops elevated glucose and mood changes. These are most consistent with:",
+    "choices": ["Systemic corticosteroid adverse effects", "Direct beta-2 receptor blockade", "Methemoglobinemia", "Cyanide toxicity"],
+    "answerIndex": 0,
+    "explanation": "Systemic steroids can cause hyperglycemia, mood changes, fluid retention, and infection risk, especially with repeated or prolonged use.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0074",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A child presents with inspiratory stridor and barking cough consistent with croup. Which medication combination is commonly used for moderate-to-severe cases?",
+    "choices": ["Dexamethasone plus nebulized epinephrine", "Albuterol plus montelukast", "Tiotropium plus roflumilast", "Omalizumab plus zileuton"],
+    "answerIndex": 0,
+    "explanation": "Croup is treated with corticosteroids (e.g., dexamethasone) and nebulized epinephrine in more severe cases for rapid airway improvement.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0075",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Which monoclonal antibody is used for RSV prophylaxis in certain high-risk infants?",
+    "choices": ["Palivizumab", "Omalizumab", "Benralizumab", "Idarucizumab"],
+    "answerIndex": 0,
+    "explanation": "Palivizumab is a monoclonal antibody used to prevent RSV infection in select high-risk infants.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0076",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "In cystic fibrosis, inhaled hypertonic saline primarily helps by:",
+    "choices": ["Improving airway hydration and mucociliary clearance", "Blocking IgE", "Inhibiting COX-2", "Directly inhibiting factor Xa"],
+    "answerIndex": 0,
+    "explanation": "Hypertonic saline draws water into airway surfaces, thinning mucus and improving clearance in CF.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0077",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient with CF (at least one F508del mutation) is started on elexacaftor/tezacaftor/ivacaftor. What is a key monitoring/counseling point?",
+    "choices": ["Potential liver enzyme elevation and CYP3A drug interactions", "Severe irreversible ototoxicity is universal", "It must be combined with warfarin to work", "It causes methemoglobinemia in all patients"],
+    "answerIndex": 0,
+    "explanation": "CFTR modulators can interact with CYP3A medications and may affect liver enzymes; monitoring and interaction checks are important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0078",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A CF patient with chronic Pseudomonas uses inhaled tobramycin. Which toxicity is classically associated with aminoglycosides (systemic exposure increases risk)?",
+    "choices": ["Ototoxicity", "Pulmonary fibrosis", "Cyanide toxicity", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Aminoglycosides can cause ototoxicity and nephrotoxicity; inhaled therapy lowers systemic exposure but toxicity remains a consideration.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0079",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Pirfenidone is used in idiopathic pulmonary fibrosis. Which adverse effect is commonly associated with it?",
+    "choices": ["Photosensitivity and GI upset", "Severe QT prolongation in all patients", "Hemorrhagic cystitis", "Red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Pirfenidone can cause photosensitivity and GI side effects; liver enzymes are often monitored based on clinical guidance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0080",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Nintedanib is used in idiopathic pulmonary fibrosis. Which adverse effect is most characteristic?",
+    "choices": ["Diarrhea", "Severe hypoglycemia", "Optic neuritis", "Agranulocytosis"],
+    "answerIndex": 0,
+    "explanation": "Nintedanib commonly causes diarrhea and can elevate liver enzymes; monitoring is recommended per prescribing guidance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0081",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "For allergic rhinitis, which therapy is often the most effective single-agent option for congestion and overall symptom control?",
+    "choices": ["Intranasal corticosteroids", "Oral antibiotics", "Opioid antitussives", "Loop diuretics"],
+    "answerIndex": 0,
+    "explanation": "Intranasal corticosteroids are highly effective for allergic rhinitis symptoms, including nasal congestion.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0082",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "Which adverse effect is most typical of first-generation antihistamines (e.g., diphenhydramine)?",
+    "choices": ["Sedation and anticholinergic effects", "Severe nephrotoxicity with hypocalcemia", "Pulmonary fibrosis", "Methemoglobinemia"],
+    "answerIndex": 0,
+    "explanation": "First-generation antihistamines cross the blood-brain barrier and cause sedation and anticholinergic effects (dry mouth, urinary retention).",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0083",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "Second-generation antihistamines (e.g., cetirizine, loratadine) are preferred for daytime allergy symptoms mainly because they:",
+    "choices": ["Cause less sedation than first-generation agents", "Irreversibly inhibit platelet COX-1", "Directly dilate coronary arteries", "Are potent antibiotics"],
+    "answerIndex": 0,
+    "explanation": "Second-generation antihistamines are less sedating due to less CNS penetration (though some can still cause mild drowsiness).",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0084",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient takes pseudoephedrine for congestion and develops palpitations and insomnia. What is the primary mechanism of pseudoephedrine?",
+    "choices": ["Sympathomimetic (alpha-adrenergic agonist effects) causing vasoconstriction", "Muscarinic receptor antagonist in airways only", "COX-2 inhibition", "Opioid receptor antagonism"],
+    "answerIndex": 0,
+    "explanation": "Pseudoephedrine is a sympathomimetic decongestant that causes vasoconstriction; it can raise BP/HR and cause insomnia/anxiety.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0085",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "Guaifenesin is commonly used for cough. It is best described as a(n):",
+    "choices": ["Expectorant that helps loosen and thin respiratory secretions", "Potent bronchodilator for acute asthma attacks", "Opioid antagonist", "Leukotriene synthesis inhibitor"],
+    "answerIndex": 0,
+    "explanation": "Guaifenesin is an expectorant intended to help loosen mucus and improve cough productivity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0086",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Inhaled N-acetylcysteine (NAC) can be used as a mucolytic. How does it reduce mucus viscosity?",
+    "choices": ["Breaks disulfide bonds in mucoproteins", "Blocks muscarinic receptors", "Stimulates beta-2 receptors", "Inhibits 5-lipoxygenase"],
+    "answerIndex": 0,
+    "explanation": "NAC breaks disulfide bonds in mucus, decreasing viscosity and aiding secretion clearance (it is also the antidote for acetaminophen toxicity).",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0087",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A premature infant develops respiratory distress syndrome due to low surfactant. Which therapy can directly address the deficiency?",
+    "choices": ["Exogenous surfactant replacement", "Montelukast", "Tiotropium", "Roflumilast"],
+    "answerIndex": 0,
+    "explanation": "Exogenous surfactant lowers alveolar surface tension and improves compliance in neonatal respiratory distress syndrome.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0088",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A premature infant has apnea of prematurity. Which medication is commonly used to stimulate respiratory drive?",
+    "choices": ["Caffeine citrate", "Omalizumab", "Zileuton", "Palivizumab"],
+    "answerIndex": 0,
+    "explanation": "Caffeine citrate (a methylxanthine) stimulates respiratory drive and is used for apnea of prematurity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0089",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient with asthma, chronic rhinosinusitis, and nasal polyps has bronchospasm after NSAIDs. What best explains this syndrome?",
+    "choices": ["COX inhibition increases leukotrienes, promoting bronchoconstriction", "Direct beta-2 blockade by NSAIDs", "Permanent surfactant inactivation", "Direct factor Xa inhibition"],
+    "answerIndex": 0,
+    "explanation": "Aspirin/NSAID-exacerbated respiratory disease involves shunting toward leukotriene production when COX is inhibited.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0090",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient with exercise-induced bronchospasm wants prevention before workouts. Which is a common effective strategy?",
+    "choices": ["Inhale a SABA shortly before exercise", "Take warfarin before exercise", "Use a COX-2 inhibitor daily", "Start a loop diuretic pre-workout"],
+    "answerIndex": 0,
+    "explanation": "A short-acting beta-2 agonist (SABA) before exercise can prevent exercise-induced bronchospasm; other options may be considered based on severity and clinician guidance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0091",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Antimuscarinic inhalers (e.g., ipratropium/tiotropium) commonly cause which adverse effect?",
+    "choices": ["Dry mouth and urinary retention", "Severe hypoglycemia", "Optic neuritis", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Antimuscarinics can cause anticholinergic effects such as dry mouth and urinary retention, especially in susceptible patients (e.g., BPH).",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0092",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "In COPD, inhaled corticosteroids are used selectively because they can increase risk of:",
+    "choices": ["Pneumonia", "Neuroleptic malignant syndrome", "Cyanide toxicity", "Red-green color blindness"],
+    "answerIndex": 0,
+    "explanation": "In COPD, ICS can increase pneumonia risk and are usually reserved for select patients (e.g., frequent exacerbations/eosinophilic inflammation) and often combined with bronchodilators.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0093",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient with asthma starts propranolol for tremor and develops wheezing. Why?",
+    "choices": ["Nonselective beta blockade can cause bronchoconstriction", "Propranolol increases surfactant breakdown", "Propranolol is a leukotriene agonist", "Propranolol causes methemoglobinemia"],
+    "answerIndex": 0,
+    "explanation": "Nonselective beta blockers can block beta-2 mediated bronchodilation and precipitate bronchospasm in asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0094",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "Nicotine replacement therapy (patch/gum/lozenge) helps smoking cessation primarily by:",
+    "choices": ["Reducing withdrawal symptoms by providing controlled nicotine dosing", "Irreversibly blocking COX-1", "Neutralizing factor Xa inhibitors", "Inhibiting 5-lipoxygenase"],
+    "answerIndex": 0,
+    "explanation": "Nicotine replacement reduces cravings and withdrawal by delivering nicotine without combustion-related toxins.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0095",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient asks about bupropion for smoking cessation. In which patient should bupropion generally be avoided?",
+    "choices": ["Patient with a seizure disorder", "Patient with seasonal allergies", "Patient with mild controlled hypertension", "Patient with osteoarthritis"],
+    "answerIndex": 0,
+    "explanation": "Bupropion lowers the seizure threshold and is generally avoided in patients with seizure disorders or other major seizure-risk conditions.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0096",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "Zafirlukast is used for asthma control. What is an important safety/interaction concern for this leukotriene receptor antagonist?",
+    "choices": ["Possible hepatotoxicity and drug interactions (e.g., affecting warfarin)", "Inactivation by pulmonary surfactant", "Guaranteed agranulocytosis", "Direct factor Xa inhibition"],
+    "answerIndex": 0,
+    "explanation": "Leukotriene pathway drugs (including some LTRAs) can have hepatic adverse effects and interactions; monitoring and interaction checks may be needed based on agent and patient factors.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0097",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient using inhaled corticosteroids develops hoarseness (dysphonia). Which action can reduce local side effects from inhaled steroids?",
+    "choices": ["Use a spacer and rinse the mouth after use", "Take the inhaler with alcohol", "Stop all controller therapy permanently", "Add pseudoephedrine daily"],
+    "answerIndex": 0,
+    "explanation": "A spacer and mouth rinsing reduce oropharyngeal deposition of inhaled steroids and can reduce dysphonia and thrush risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0098",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient with severe asthma remains uncontrolled on medium/high-dose ICS-LABA. Which add-on inhaler class is sometimes considered for further bronchodilation?",
+    "choices": ["LAMA (e.g., tiotropium)", "Loop diuretic", "Opioid antagonist", "Calcimimetic"],
+    "answerIndex": 0,
+    "explanation": "A long-acting muscarinic antagonist (LAMA) can be used as add-on therapy in select patients with uncontrolled asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0099",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A COPD patient with chronic CO2 retention is given high-flow oxygen and becomes more somnolent with rising PaCO2. What is a common management principle?",
+    "choices": ["Titrate oxygen to a target saturation rather than giving excessive oxygen", "Stop all oxygen permanently", "Give naloxone immediately to reverse oxygen", "Give aspirin to stimulate ventilation"],
+    "answerIndex": 0,
+    "explanation": "In some COPD patients, excessive oxygen can worsen hypercapnia; oxygen is titrated to target saturations with close monitoring.",
+    "reference": ""
+  },
+  {
+    "id": "DCB8-0100",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Which class of medications used for pain is most directly associated with dose-dependent respiratory depression?",
+    "choices": ["Opioids", "NSAIDs", "Acetaminophen", "Topical capsaicin"],
+    "answerIndex": 0,
+    "explanation": "Opioids depress brainstem respiratory drive (mu receptor mediated), especially at higher doses or when combined with other sedatives.",
+    "reference": ""
+  }
 ]
 
