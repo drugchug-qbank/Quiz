@@ -2146,5 +2146,1006 @@
     "explanation": "Checkpoint inhibitors can cause immune-related adverse events (e.g., colitis, hepatitis, dermatitis, endocrinopathies) due to increased immune activation.",
     "reference": ""
   }
+,
+  {
+    "id": "DCB4-0001",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A 69-year-old with known bilateral renal artery stenosis starts lisinopril. One week later, creatinine rises significantly. Which condition most increases the risk of this ACE inhibitor-related decline in GFR?",
+    "choices": ["Bilateral renal artery stenosis", "Uncomplicated GERD", "Seasonal allergic rhinitis", "Iron deficiency anemia"],
+    "answerIndex": 0,
+    "explanation": "ACE inhibitors dilate the efferent arteriole, which can drop glomerular pressure; in bilateral renal artery stenosis this can cause a marked fall in GFR and rising creatinine.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0002",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A patient develops torsades de pointes after starting a QT-prolonging antiarrhythmic. Which medication is first-line acute treatment?",
+    "choices": ["Magnesium sulfate", "Adenosine", "Calcium gluconate", "Vitamin K"],
+    "answerIndex": 0,
+    "explanation": "IV magnesium sulfate is first-line for torsades de pointes, even if the serum magnesium level is normal.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0003",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A man with HFrEF develops gynecomastia on spironolactone. Which medication provides similar mortality benefit with fewer endocrine side effects?",
+    "choices": ["Eplerenone", "Furosemide", "Hydrochlorothiazide", "Amlodipine"],
+    "answerIndex": 0,
+    "explanation": "Eplerenone is a more selective mineralocorticoid receptor antagonist than spironolactone, so it is less likely to cause gynecomastia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0004",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with chronic stable angina is started on ranolazine. Which adverse effect is most associated with ranolazine and may require ECG monitoring?",
+    "choices": ["QT prolongation", "Dry cough", "Hyperkalemia", "Bronchospasm"],
+    "answerIndex": 0,
+    "explanation": "Ranolazine can prolong the QT interval, so monitoring and interaction review are important in higher-risk patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0005",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient treated with nitroprusside for hypertensive emergency develops confusion and severe lactic acidosis. Which antidote is most appropriate for suspected cyanide toxicity?",
+    "choices": ["Hydroxocobalamin", "Naloxone", "Flumazenil", "Protamine sulfate"],
+    "answerIndex": 0,
+    "explanation": "Nitroprusside can cause cyanide toxicity (altered mental status, lactic acidosis); hydroxocobalamin binds cyanide and is an antidote option.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0006",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with type 1 diabetes takes propranolol and reports hypoglycemia episodes without the usual warning symptoms. Which symptom is most likely masked by beta blockers?",
+    "choices": ["Tachycardia", "Sweating", "Hunger", "Confusion"],
+    "answerIndex": 0,
+    "explanation": "Beta blockers can blunt adrenergic warning signs of hypoglycemia (like tachycardia and tremor); sweating may be less affected.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0007",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A patient has episodic chest pain at rest with transient ST elevation relieved by nitrates (Prinzmetal/vasospastic angina). Which medication is most appropriate for prevention?",
+    "choices": ["Amlodipine", "Propranolol", "Digoxin", "Furosemide"],
+    "answerIndex": 0,
+    "explanation": "Calcium channel blockers are first-line preventive therapy for vasospastic angina; nonselective beta blockers can worsen vasospasm.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0008",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with HFrEF cannot take ACE inhibitors due to angioedema history. Which combination can improve symptoms and outcomes in appropriate patients?",
+    "choices": ["Hydralazine + isosorbide dinitrate", "Amlodipine + hydrochlorothiazide", "Verapamil + digoxin", "Nitrofurantoin + rifampin"],
+    "answerIndex": 0,
+    "explanation": "Hydralazine plus isosorbide dinitrate is an evidence-based option in HFrEF, especially when ACEi/ARB/ARNI cannot be used.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0009",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "Which medication combination should generally be avoided due to risk of severe bradycardia and AV block?",
+    "choices": ["Verapamil + metoprolol", "Amlodipine + lisinopril", "Losartan + hydrochlorothiazide", "Atorvastatin + ezetimibe"],
+    "answerIndex": 0,
+    "explanation": "Non-dihydropyridine calcium channel blockers (verapamil/diltiazem) plus beta blockers can cause additive AV nodal suppression and bradycardia/AV block.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0010",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "Digoxin increases cardiac contractility primarily by which mechanism?",
+    "choices": ["Inhibits Na+/K+ ATPase leading to increased intracellular Ca2+", "Blocks beta-1 receptors", "Blocks L-type calcium channels", "Inhibits ACE to reduce angiotensin II"],
+    "answerIndex": 0,
+    "explanation": "Digoxin inhibits Na+/K+ ATPase, increasing intracellular Na+, which reduces Na+/Ca2+ exchange and increases intracellular Ca2+ for stronger contraction.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0011",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Easy",
+    "stem": "Which medication reverses the anticoagulant effect of unfractionated heparin?",
+    "choices": ["Protamine sulfate", "Vitamin K", "Idarucizumab", "Andexanet alfa"],
+    "answerIndex": 0,
+    "explanation": "Protamine sulfate binds and neutralizes heparin, reversing its anticoagulant effect.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0012",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Hard",
+    "stem": "A patient on warfarin has an intracranial hemorrhage and INR 4.8. What is the best immediate reversal strategy?",
+    "choices": ["4-factor PCC + IV vitamin K", "Hold warfarin and recheck INR tomorrow", "Protamine sulfate", "Idarucizumab"],
+    "answerIndex": 0,
+    "explanation": "Life-threatening warfarin bleeding is treated rapidly with 4-factor PCC plus IV vitamin K to restore vitamin K-dependent clotting factors.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0013",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "Fondaparinux prevents thrombosis primarily by which mechanism?",
+    "choices": ["Activates antithrombin to inhibit factor Xa", "Directly inhibits thrombin (IIa)", "Inhibits vitamin K epoxide reductase", "Irreversibly inhibits COX-1"],
+    "answerIndex": 0,
+    "explanation": "Fondaparinux is an indirect factor Xa inhibitor that works by enhancing antithrombin activity against Xa.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0014",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "Clopidogrel may be less effective in patients with CYP2C19 loss-of-function variants because clopidogrel is:",
+    "choices": ["A prodrug that requires CYP2C19 activation", "A direct thrombin inhibitor", "A vitamin K antagonist", "A direct factor Xa activator"],
+    "answerIndex": 0,
+    "explanation": "Clopidogrel must be metabolically activated (notably via CYP2C19); reduced activation can decrease antiplatelet effect.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0015",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Easy",
+    "stem": "Aspirin decreases platelet aggregation primarily by which mechanism?",
+    "choices": ["Irreversibly inhibits COX-1, decreasing thromboxane A2", "Reversibly blocks P2Y12 receptors", "Blocks GPIIb/IIIa receptors", "Directly inhibits factor Xa"],
+    "answerIndex": 0,
+    "explanation": "Aspirin irreversibly inhibits platelet COX-1, lowering thromboxane A2 and reducing platelet aggregation for the platelet lifespan.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0016",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Hard",
+    "stem": "Which is an absolute contraindication to IV alteplase (tPA) for acute ischemic stroke?",
+    "choices": ["History of intracranial hemorrhage", "Age older than 80 years", "Mild headache", "Serum glucose 120 mg/dL"],
+    "answerIndex": 0,
+    "explanation": "Prior intracranial hemorrhage is a major contraindication to thrombolysis because it significantly increases catastrophic bleeding risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0017",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient on apixaban has life-threatening bleeding. Which targeted reversal agent may be used in appropriate settings?",
+    "choices": ["Andexanet alfa", "Vitamin K", "Protamine sulfate", "Idarucizumab"],
+    "answerIndex": 0,
+    "explanation": "Andexanet alfa is a factor Xa decoy protein used to reverse factor Xa inhibitors (e.g., apixaban, rivaroxaban) in select cases.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0018",
+    "category": "Renal",
+    "difficulty": "Easy",
+    "stem": "Which abnormality pattern is most typical of loop diuretics like furosemide?",
+    "choices": ["Hypokalemia with metabolic alkalosis", "Hyperkalemia with metabolic acidosis", "Hypercalcemia with hypouricemia", "Hyponatremia with metabolic acidosis"],
+    "answerIndex": 0,
+    "explanation": "Loop diuretics increase distal sodium delivery, increasing potassium and hydrogen loss, leading to hypokalemic metabolic alkalosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0019",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "Which diuretic tends to increase serum calcium by increasing calcium reabsorption?",
+    "choices": ["Hydrochlorothiazide", "Furosemide", "Mannitol", "Acetazolamide"],
+    "answerIndex": 0,
+    "explanation": "Thiazides increase calcium reabsorption in the distal convoluted tubule and can cause mild hypercalcemia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0020",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "Acetazolamide is most likely to cause which acid-base disturbance?",
+    "choices": ["Metabolic acidosis", "Metabolic alkalosis", "Respiratory acidosis", "Respiratory alkalosis"],
+    "answerIndex": 0,
+    "explanation": "Carbonic anhydrase inhibition causes bicarbonate wasting in urine, producing a metabolic acidosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0021",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "Which patient is at highest risk of developing pulmonary edema after receiving mannitol?",
+    "choices": ["Patient with decompensated heart failure", "Patient with mild seasonal allergies", "Patient with hypothyroidism", "Patient with uncomplicated GERD"],
+    "answerIndex": 0,
+    "explanation": "Mannitol can acutely expand intravascular volume before diuresis, which can precipitate pulmonary edema in heart failure.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0022",
+    "category": "Renal",
+    "difficulty": "Hard",
+    "stem": "A patient with SIADH is treated with tolvaptan. Tolvaptan works primarily by:",
+    "choices": ["Blocking V2 receptors to cause aquaresis", "Blocking ENaC channels", "Inhibiting NKCC2 in the thick ascending limb", "Antagonizing aldosterone receptors"],
+    "answerIndex": 0,
+    "explanation": "Tolvaptan is a vasopressin (V2) receptor antagonist that increases free water excretion; monitoring is needed to avoid overly rapid sodium correction.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0023",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "Ototoxicity risk is increased when loop diuretics are combined with which antibiotic?",
+    "choices": ["Gentamicin", "Amoxicillin", "Doxycycline", "Metronidazole"],
+    "answerIndex": 0,
+    "explanation": "Aminoglycosides (like gentamicin) are ototoxic and nephrotoxic; combining with loop diuretics increases ototoxicity risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0024",
+    "category": "Renal",
+    "difficulty": "Hard",
+    "stem": "A patient on chronic lithium develops nephrogenic diabetes insipidus with polyuria. Which medication can help by blocking lithium entry through ENaC in the collecting duct?",
+    "choices": ["Amiloride", "Desmopressin", "Furosemide", "Hydrochlorothiazide"],
+    "answerIndex": 0,
+    "explanation": "Amiloride blocks ENaC, reducing lithium uptake into collecting duct cells and improving lithium-induced nephrogenic DI.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0025",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Vancomycin inhibits bacterial cell wall synthesis primarily by:",
+    "choices": ["Binding D-Ala-D-Ala and blocking peptidoglycan polymerization", "Inhibiting DNA gyrase", "Binding the 30S ribosome", "Inhibiting dihydrofolate reductase"],
+    "answerIndex": 0,
+    "explanation": "Vancomycin binds D-Ala-D-Ala termini, preventing proper peptidoglycan cross-linking in susceptible gram-positive bacteria.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0026",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient develops flushing and pruritus during a vancomycin infusion. What is the best next step?",
+    "choices": ["Slow the infusion and consider an antihistamine", "Permanently avoid vancomycin due to IgE anaphylaxis", "Give vitamin K immediately", "Give naloxone immediately"],
+    "answerIndex": 0,
+    "explanation": "Red man syndrome is an infusion-related histamine release reaction; slowing infusion and antihistamines typically resolve symptoms.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0027",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient on sertraline is started on linezolid and develops agitation, clonus, and hyperthermia. This occurs because linezolid:",
+    "choices": ["Has MAOI activity that increases serotonin", "Blocks dopamine D2 receptors", "Inhibits acetylcholinesterase", "Chelates calcium in the gut"],
+    "answerIndex": 0,
+    "explanation": "Linezolid has MAOI properties and can precipitate serotonin syndrome when combined with serotonergic medications.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0028",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Which lab abnormality is most associated with prolonged linezolid therapy?",
+    "choices": ["Thrombocytopenia", "Hypercalcemia", "Severe hypoglycemia", "Hypernatremia"],
+    "answerIndex": 0,
+    "explanation": "Linezolid can cause myelosuppression, especially thrombocytopenia, with prolonged use.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0029",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "An older patient with chronic kidney disease receives cefepime and develops confusion and myoclonus. What is the most likely explanation?",
+    "choices": ["Cefepime neurotoxicity due to accumulation in renal impairment", "Red man syndrome", "Neuroleptic malignant syndrome", "Acute dystonia"],
+    "answerIndex": 0,
+    "explanation": "Cefepime can cause neurotoxicity (encephalopathy, myoclonus, seizures), especially when doses are not adjusted for renal function.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0030",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A child treated with ceftriaxone develops right upper quadrant pain and ultrasound shows biliary sludge. Which antibiotic is most associated with this adverse effect?",
+    "choices": ["Ceftriaxone", "Vancomycin", "Azithromycin", "Clindamycin"],
+    "answerIndex": 0,
+    "explanation": "Ceftriaxone can precipitate in bile and cause biliary sludging (pseudolithiasis).",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0031",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient on lisinopril develops hyperkalemia after starting trimethoprim-sulfamethoxazole (TMP-SMX). Trimethoprim can cause hyperkalemia because it:",
+    "choices": ["Reduces potassium excretion by decreasing ENaC-mediated sodium uptake", "Increases aldosterone secretion", "Directly activates Na+/K+ ATPase", "Causes rapid GI potassium loss"],
+    "answerIndex": 0,
+    "explanation": "Trimethoprim can impair distal sodium reabsorption (ENaC effect), reducing potassium secretion and raising serum potassium.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0032",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Long-term trimethoprim therapy can contribute to megaloblastic anemia because trimethoprim inhibits:",
+    "choices": ["Dihydrofolate reductase", "Thymidylate synthase", "DNA gyrase", "Transpeptidase"],
+    "answerIndex": 0,
+    "explanation": "Trimethoprim inhibits dihydrofolate reductase, which can reduce folate availability and contribute to megaloblastic anemia in susceptible patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0033",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A 70-year-old on chronic prednisone develops Achilles tendon pain after starting levofloxacin. Which antibiotic is most associated with tendinopathy and tendon rupture?",
+    "choices": ["Levofloxacin", "Amoxicillin", "Doxycycline", "Clindamycin"],
+    "answerIndex": 0,
+    "explanation": "Fluoroquinolones are associated with tendinopathy and tendon rupture risk, especially in older adults and those on steroids.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0034",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "A patient develops painful swallowing after taking doxycycline at bedtime. What counseling reduces risk of pill esophagitis?",
+    "choices": ["Take with a full glass of water and remain upright for at least 30 minutes", "Take with calcium-containing antacids", "Take right before lying down", "Crush tablets and take with milk"],
+    "answerIndex": 0,
+    "explanation": "Doxycycline can cause pill esophagitis; taking with water and staying upright reduces mucosal exposure.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0035",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Which medication pairs a beta-lactam antibiotic with a beta-lactamase inhibitor to broaden coverage?",
+    "choices": ["Amoxicillin-clavulanate", "Cefazolin", "Azithromycin", "Vancomycin"],
+    "answerIndex": 0,
+    "explanation": "Clavulanate inhibits beta-lactamases, protecting the beta-lactam (amoxicillin) from enzymatic degradation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0036",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient on simvastatin develops muscle pain after starting clarithromycin. This interaction occurs because clarithromycin:",
+    "choices": ["Inhibits CYP3A4, increasing statin levels", "Induces CYP3A4, decreasing statin levels", "Chelates calcium, blocking statin absorption", "Directly blocks LDL receptors"],
+    "answerIndex": 0,
+    "explanation": "Clarithromycin inhibits CYP3A4 and can raise levels of CYP3A4-metabolized statins, increasing myopathy/rhabdomyolysis risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0037",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "Why are sulfonamides generally avoided in late pregnancy and in newborns when possible?",
+    "choices": ["They displace bilirubin from albumin, increasing kernicterus risk", "They cause optic neuritis", "They cause pulmonary fibrosis", "They cause irreversible ototoxicity"],
+    "answerIndex": 0,
+    "explanation": "Sulfonamides can displace bilirubin from albumin in neonates, increasing free bilirubin and kernicterus risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0038",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A woman on nitrofurantoin prophylaxis develops cough and dyspnea with interstitial infiltrates. Which adverse effect is most consistent with nitrofurantoin?",
+    "choices": ["Pulmonary toxicity (hypersensitivity pneumonitis/fibrosis)", "QT prolongation", "Tendon rupture", "Bone marrow aplasia"],
+    "answerIndex": 0,
+    "explanation": "Nitrofurantoin can cause pulmonary toxicity (acute hypersensitivity or chronic fibrosis), especially with prolonged exposure.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0039",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Which antibiotic is most associated with seizures, especially when dosing is not adjusted in renal impairment?",
+    "choices": ["Imipenem", "Azithromycin", "Doxycycline", "Cefazolin"],
+    "answerIndex": 0,
+    "explanation": "Imipenem is associated with seizure risk, particularly at high levels (e.g., renal impairment without adjustment).",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0040",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Which antibiotic is classically associated with C. difficile–associated pseudomembranous colitis?",
+    "choices": ["Clindamycin", "Nitrofurantoin", "Azithromycin", "Gentamicin"],
+    "answerIndex": 0,
+    "explanation": "Clindamycin is a classic trigger for C. difficile infection and pseudomembranous colitis (though many antibiotics can contribute).",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0041",
+    "category": "Antifungals",
+    "difficulty": "Easy",
+    "stem": "A patient receiving amphotericin B develops rising creatinine and low potassium. Which toxicity is most associated with amphotericin B?",
+    "choices": ["Nephrotoxicity with electrolyte wasting", "Tendon rupture", "Optic neuritis", "Severe hyperkalemia"],
+    "answerIndex": 0,
+    "explanation": "Amphotericin B is classically nephrotoxic and can cause hypokalemia and hypomagnesemia due to renal tubular damage.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0042",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "A patient on fluconazole has an elevated INR after starting therapy while taking warfarin. This is most likely because fluconazole:",
+    "choices": ["Inhibits CYP enzymes and increases warfarin effect", "Induces CYP enzymes and decreases warfarin effect", "Directly activates clotting factors", "Blocks vitamin K absorption in the gut"],
+    "answerIndex": 0,
+    "explanation": "Fluconazole can inhibit CYP metabolism of warfarin, increasing INR and bleeding risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0043",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "Terbinafine treats dermatophyte infections primarily by inhibiting:",
+    "choices": ["Squalene epoxidase", "14-alpha-demethylase", "Beta-1,3-D-glucan synthase", "Ergosterol binding to form pores"],
+    "answerIndex": 0,
+    "explanation": "Terbinafine inhibits squalene epoxidase, decreasing ergosterol and causing toxic squalene accumulation in fungi.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0044",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "Acyclovir is selectively activated in herpesvirus-infected cells because it is first phosphorylated by:",
+    "choices": ["Viral thymidine kinase", "Human CYP3A4", "Bacterial beta-lactamase", "Human RNA polymerase"],
+    "answerIndex": 0,
+    "explanation": "Herpesvirus thymidine kinase phosphorylates acyclovir, which increases selective activation in infected cells.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0045",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "A patient treated with ganciclovir for CMV retinitis develops neutropenia. Which toxicity is most characteristic of ganciclovir?",
+    "choices": ["Bone marrow suppression", "Pulmonary fibrosis", "Tendon rupture", "Red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Ganciclovir can cause significant myelosuppression, including neutropenia and thrombocytopenia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0046",
+    "category": "Antivirals",
+    "difficulty": "Hard",
+    "stem": "Foscarnet is used for resistant CMV or HSV. Which adverse effect is most associated with foscarnet?",
+    "choices": ["Nephrotoxicity with electrolyte abnormalities (e.g., hypocalcemia)", "Severe cough due to bradykinin", "Irreversible ototoxicity from hair cell loss", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Foscarnet can cause nephrotoxicity and electrolyte disturbances such as hypocalcemia, which can lead to seizures or arrhythmias.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0047",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "A patient starts efavirenz and reports vivid dreams and dizziness. Efavirenz is best classified as a:",
+    "choices": ["NNRTI", "NRTI", "Protease inhibitor", "Integrase inhibitor"],
+    "answerIndex": 0,
+    "explanation": "Efavirenz is a non-nucleoside reverse transcriptase inhibitor (NNRTI) and is known for CNS side effects such as vivid dreams.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0048",
+    "category": "Antivirals",
+    "difficulty": "Easy",
+    "stem": "Oseltamivir treats influenza by inhibiting which viral enzyme?",
+    "choices": ["Neuraminidase", "Reverse transcriptase", "DNA polymerase", "Protease"],
+    "answerIndex": 0,
+    "explanation": "Oseltamivir is a neuraminidase inhibitor that reduces release of newly formed influenza virions.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0049",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Metformin lowers blood glucose primarily by:",
+    "choices": ["Decreasing hepatic gluconeogenesis and improving insulin sensitivity", "Closing KATP channels to increase insulin secretion", "Blocking SGLT2 to reduce glucose reabsorption", "Activating PPAR-gamma to increase insulin secretion"],
+    "answerIndex": 0,
+    "explanation": "Metformin primarily reduces hepatic glucose output and increases insulin sensitivity; a key rare risk is lactic acidosis, especially in significant renal impairment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0050",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Sulfonylureas (e.g., glyburide) increase insulin secretion primarily by:",
+    "choices": ["Closing ATP-sensitive K+ channels in pancreatic beta cells", "Blocking SGLT2 in the proximal tubule", "Inhibiting DPP-4", "Activating PPAR-gamma"],
+    "answerIndex": 0,
+    "explanation": "Sulfonylureas close KATP channels, depolarizing beta cells and increasing insulin release; hypoglycemia is a major adverse effect.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0051",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient starts semaglutide and experiences nausea and weight loss. Which mechanism best explains this effect?",
+    "choices": ["GLP-1 receptor agonism that increases insulin and slows gastric emptying", "Direct stimulation of insulin release regardless of glucose", "Inhibition of intestinal alpha-glucosidase", "Activation of PPAR-alpha"],
+    "answerIndex": 0,
+    "explanation": "GLP-1 agonists increase glucose-dependent insulin secretion, reduce glucagon, and slow gastric emptying, often causing weight loss and GI side effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0052",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Sitagliptin lowers blood glucose primarily by:",
+    "choices": ["Inhibiting DPP-4 to increase endogenous incretin levels", "Closing KATP channels", "Blocking SGLT2", "Inhibiting HMG-CoA reductase"],
+    "answerIndex": 0,
+    "explanation": "DPP-4 inhibitors increase incretin levels, enhancing glucose-dependent insulin release and reducing glucagon.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0053",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "A patient taking empagliflozin develops recurrent genital yeast infections. This adverse effect is most associated with which drug class?",
+    "choices": ["SGLT2 inhibitors", "Sulfonylureas", "DPP-4 inhibitors", "Thiazolidinediones"],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors cause glycosuria, which can promote genital mycotic infections.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0054",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient taking an SGLT2 inhibitor presents with abdominal pain, tachypnea, and elevated ketones. Serum glucose is 160 mg/dL. What is the most likely diagnosis?",
+    "choices": ["Euglycemic diabetic ketoacidosis", "Hyperosmolar hyperglycemic state", "Lactic acidosis from metformin", "Serotonin syndrome"],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors can rarely cause euglycemic DKA (ketoacidosis with only mildly elevated glucose).",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0055",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes starts pioglitazone and later develops weight gain and edema. Which risk is most important to consider?",
+    "choices": ["Worsening heart failure due to fluid retention", "Severe hypoglycemia as the most common reaction", "Pulmonary fibrosis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Thiazolidinediones can cause edema and worsen heart failure; they increase insulin sensitivity but are not typically associated with severe hypoglycemia alone.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0056",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Which insulin provides long-acting basal coverage with minimal peak?",
+    "choices": ["Insulin glargine", "Insulin lispro", "Regular insulin", "NPH insulin"],
+    "answerIndex": 0,
+    "explanation": "Insulin glargine is a long-acting basal insulin with relatively flat activity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0057",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient taking methimazole develops fever and sore throat. Which serious adverse effect is most concerning?",
+    "choices": ["Agranulocytosis", "Nephrolithiasis", "Pulmonary fibrosis", "Tendon rupture"],
+    "answerIndex": 0,
+    "explanation": "Thionamides can cause agranulocytosis; fever/sore throat warrants urgent evaluation and stopping the medication until assessed.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0058",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A pregnant patient in the first trimester needs medication for hyperthyroidism. Which drug is generally preferred and also inhibits peripheral conversion of T4 to T3?",
+    "choices": ["Propylthiouracil (PTU)", "Methimazole", "Levothyroxine", "Iodine-131"],
+    "answerIndex": 0,
+    "explanation": "PTU is generally preferred early in pregnancy and also reduces peripheral conversion of T4 to T3; hepatotoxicity risk is an important caution.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0059",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient has taken high-dose prednisone for months. Why should it be tapered rather than stopped abruptly?",
+    "choices": ["To prevent adrenal crisis from HPA axis suppression", "To prevent tendon rupture", "To prevent immediate hyperkalemia from ENaC blockade", "To prevent optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Chronic glucocorticoid therapy suppresses endogenous cortisol production; abrupt stopping can cause adrenal insufficiency.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0060",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient is prescribed alendronate for osteoporosis. Which instruction reduces esophageal irritation risk?",
+    "choices": ["Take with water on an empty stomach and remain upright for 30 minutes", "Take at bedtime with minimal water", "Take with calcium-rich milk to improve absorption", "Crush the tablet and take with antacid"],
+    "answerIndex": 0,
+    "explanation": "Oral bisphosphonates can cause esophagitis; taking with water and staying upright helps reduce injury and improves consistency of absorption.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0061",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "A patient starts an SSRI and develops decreased libido and delayed orgasm. This adverse effect is most characteristic of which class?",
+    "choices": ["SSRIs", "Benzodiazepines", "Tricyclic antidepressants", "Mood stabilizers"],
+    "answerIndex": 0,
+    "explanation": "Sexual dysfunction is a common SSRI adverse effect.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0062",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Which combination most increases risk of serotonin syndrome?",
+    "choices": ["Sertraline + tramadol", "Sertraline + acetaminophen", "Bupropion + ibuprofen", "Gabapentin + famotidine"],
+    "answerIndex": 0,
+    "explanation": "Combining serotonergic agents (like SSRIs and tramadol) increases serotonin syndrome risk (agitation, clonus/hyperreflexia, autonomic instability).",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0063",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient overdoses on amitriptyline and has a widened QRS with hypotension. Which treatment is most appropriate for cardiotoxicity?",
+    "choices": ["IV sodium bicarbonate", "Naloxone", "Vitamin K", "Idarucizumab"],
+    "answerIndex": 0,
+    "explanation": "TCA toxicity causes sodium channel blockade (wide QRS); sodium bicarbonate helps narrow QRS and treat arrhythmias/hypotension.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0064",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Benzodiazepines enhance the effect of GABA-A receptors by:",
+    "choices": ["Increasing frequency of chloride channel opening", "Increasing duration of chloride channel opening", "Blocking NMDA receptors", "Inhibiting dopamine reuptake"],
+    "answerIndex": 0,
+    "explanation": "Benzodiazepines increase the frequency of GABA-A channel opening; barbiturates increase duration.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0065",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient develops acute torticollis and oculogyric crisis shortly after starting haloperidol. Which medication treats this reaction?",
+    "choices": ["Benztropine", "Naloxone", "Protamine sulfate", "Fomepizole"],
+    "answerIndex": 0,
+    "explanation": "Acute dystonia from dopamine blockade is treated with anticholinergics (benztropine) or diphenhydramine.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0066",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient on a dopamine-blocking antipsychotic develops fever, severe rigidity, confusion, and autonomic instability. Which medication is used in treatment along with supportive care?",
+    "choices": ["Dantrolene", "Flumazenil", "Vitamin K", "Deferoxamine"],
+    "answerIndex": 0,
+    "explanation": "This presentation suggests neuroleptic malignant syndrome; dantrolene (and sometimes bromocriptine) can be used depending on severity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0067",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Which antiepileptic is most strongly associated with neural tube defects when used in pregnancy?",
+    "choices": ["Valproate", "Levetiracetam", "Lamotrigine", "Gabapentin"],
+    "answerIndex": 0,
+    "explanation": "Valproate is highly teratogenic (including neural tube defects) and also carries hepatotoxicity and pancreatitis risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0068",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient on carbamazepine develops hyponatremia. Which mechanism best explains this adverse effect?",
+    "choices": ["SIADH-like effect increasing water retention", "Inhibition of aldosterone receptors", "Direct nephrotoxic tubular necrosis", "Blockade of V2 receptors"],
+    "answerIndex": 0,
+    "explanation": "Carbamazepine can cause SIADH and hyponatremia, especially in older adults or with other contributing factors.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0069",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "A patient starting levetiracetam reports new irritability and mood changes. This adverse effect is most associated with:",
+    "choices": ["Levetiracetam", "Ethosuximide", "Carbamazepine", "Valproate"],
+    "answerIndex": 0,
+    "explanation": "Levetiracetam is known for behavioral side effects such as irritability, agitation, and mood changes in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0070",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient with coronary artery disease asks for migraine therapy. Why should sumatriptan be avoided?",
+    "choices": ["It can cause vasoconstriction and precipitate ischemia", "It causes irreversible ototoxicity", "It is a strong MAOI", "It causes hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Triptans cause vasoconstriction (5-HT1B/1D agonism) and are avoided in many patients with significant cardiovascular disease.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0071",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient with Alzheimer disease starts donepezil and develops bradycardia and diarrhea. Donepezil works by:",
+    "choices": ["Inhibiting acetylcholinesterase to increase acetylcholine", "Blocking NMDA receptors", "Blocking dopamine receptors", "Inhibiting MAO-B"],
+    "answerIndex": 0,
+    "explanation": "Donepezil is an acetylcholinesterase inhibitor; cholinergic adverse effects include diarrhea, bradycardia, and syncope.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0072",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient started on lamotrigine develops fever and a painful spreading rash with mucosal involvement. What is the best action?",
+    "choices": ["Stop lamotrigine and seek urgent evaluation for SJS/TEN", "Continue lamotrigine and add an antihistamine", "Decrease dose and reassess in one month", "Switch immediately to a tricyclic antidepressant"],
+    "answerIndex": 0,
+    "explanation": "Lamotrigine can cause severe rash including Stevens-Johnson syndrome; suspected cases require immediate discontinuation and urgent evaluation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0073",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A patient uses albuterol and develops tremor and palpitations. Which electrolyte abnormality can also occur?",
+    "choices": ["Hypokalemia", "Hyperkalemia", "Hypercalcemia", "Hypernatremia"],
+    "answerIndex": 0,
+    "explanation": "Beta-2 agonists shift potassium into cells, which can lower serum potassium (hypokalemia).",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0074",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A patient using inhaled fluticasone develops oral thrush. Which counseling reduces this risk?",
+    "choices": ["Rinse mouth after use (and consider a spacer)", "Take with milk", "Take with alcohol", "Avoid sunlight"],
+    "answerIndex": 0,
+    "explanation": "Rinsing the mouth and using a spacer reduces local steroid deposition and lowers oral candidiasis risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0075",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Why should long-acting beta-2 agonists (LABAs) generally not be used as monotherapy in asthma?",
+    "choices": ["They do not treat airway inflammation and can increase severe exacerbation risk without ICS", "They cause unavoidable renal failure", "They directly destroy alveoli", "They cause agranulocytosis as a common effect"],
+    "answerIndex": 0,
+    "explanation": "LABAs provide bronchodilation but not anti-inflammatory control; inhaled corticosteroids are needed to reduce exacerbation risk in asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0076",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Montelukast is used as an asthma controller. Which counseling point is important due to a known warning?",
+    "choices": ["Possible neuropsychiatric effects (mood changes, sleep disturbance)", "Severe irreversible ototoxicity", "Common hemorrhagic cystitis", "Severe hypoglycemia in non-diabetics"],
+    "answerIndex": 0,
+    "explanation": "Montelukast has been associated with neuropsychiatric side effects in some patients; counseling and monitoring are important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0077",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A COPD patient on tiotropium develops dry mouth and urinary retention. Tiotropium is best described as a:",
+    "choices": ["Long-acting muscarinic antagonist", "Short-acting beta-2 agonist", "Leukotriene receptor antagonist", "PDE-5 inhibitor"],
+    "answerIndex": 0,
+    "explanation": "Tiotropium is a LAMA; anticholinergic effects include dry mouth and urinary retention.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0078",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient taking theophylline develops nausea and arrhythmia after starting a new medication. Which drug is most likely to raise theophylline levels by CYP inhibition?",
+    "choices": ["Cimetidine", "Albuterol", "Montelukast", "Ipratropium"],
+    "answerIndex": 0,
+    "explanation": "Theophylline has a narrow therapeutic index and is affected by CYP interactions; CYP inhibitors like cimetidine can increase levels and toxicity risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0079",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Which long-term adverse effect is most associated with chronic proton pump inhibitor (PPI) therapy?",
+    "choices": ["Hypomagnesemia and increased infection risk (e.g., C. difficile)", "Severe hyperkalemia", "Ototoxicity", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Long-term PPI use is associated with risks such as hypomagnesemia and increased susceptibility to certain infections including C. difficile.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0080",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient treated with metoclopramide develops restlessness and muscle spasms. This is most likely due to:",
+    "choices": ["Dopamine D2 receptor antagonism causing extrapyramidal effects", "Irreversible proton pump inhibition", "Direct beta-2 stimulation", "Inhibition of thymidylate synthase"],
+    "answerIndex": 0,
+    "explanation": "Metoclopramide blocks D2 receptors and can cause extrapyramidal symptoms and tardive dyskinesia risk with prolonged use.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0081",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient receiving ondansetron for nausea has a prolonged QT interval. Ondansetron primarily works by blocking:",
+    "choices": ["5-HT3 serotonin receptors", "D2 dopamine receptors", "H1 histamine receptors", "Muscarinic receptors"],
+    "answerIndex": 0,
+    "explanation": "Ondansetron is a 5-HT3 antagonist and can prolong QT in susceptible patients or with interacting drugs.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0082",
+    "category": "GI",
+    "difficulty": "Easy",
+    "stem": "Sucralfate helps treat ulcers primarily by:",
+    "choices": ["Forming a protective barrier over the ulcer base", "Irreversibly inhibiting the proton pump", "Blocking H2 receptors", "Activating pancreatic enzymes"],
+    "answerIndex": 0,
+    "explanation": "Sucralfate forms a protective coating; constipation and drug-binding interactions are common counseling points.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0083",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient with fever and bloody diarrhea wants an OTC antidiarrheal. Why should loperamide generally be avoided in this situation?",
+    "choices": ["It can slow clearance of invasive pathogens/toxins and worsen illness", "It causes immediate renal failure", "It irreversibly inhibits COX-1", "It is a strong MAOI"],
+    "answerIndex": 0,
+    "explanation": "In suspected invasive diarrhea, antimotility agents like loperamide may worsen outcomes by retaining pathogens/toxins and increasing complications.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0084",
+    "category": "Rheum/Immunology",
+    "difficulty": "Medium",
+    "stem": "Methotrexate is used in rheumatoid arthritis. Its primary mechanism is inhibition of:",
+    "choices": ["Dihydrofolate reductase", "DNA gyrase", "COX-1", "Neuraminidase"],
+    "answerIndex": 0,
+    "explanation": "Methotrexate inhibits DHFR; folate supplementation helps reduce some toxicity, and key risks include myelosuppression and mucositis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0085",
+    "category": "Rheum/Immunology",
+    "difficulty": "Medium",
+    "stem": "Before starting a TNF-alpha inhibitor (e.g., adalimumab), which screening is most important due to reactivation risk?",
+    "choices": ["Latent tuberculosis screening", "Hearing test", "Serum lipase screening for pancreatitis", "Urine drug screen"],
+    "answerIndex": 0,
+    "explanation": "TNF inhibitors increase risk of serious infections and can reactivate latent TB, so screening is required prior to therapy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0086",
+    "category": "Immunology/Transplant",
+    "difficulty": "Medium",
+    "stem": "A transplant patient on cyclosporine develops hypertension, nephrotoxicity, and gingival hyperplasia. Cyclosporine works by:",
+    "choices": ["Inhibiting calcineurin and decreasing IL-2 transcription", "Inhibiting mTOR and blocking IL-2 signaling", "Blocking CD28 costimulation", "Neutralizing TNF-alpha"],
+    "answerIndex": 0,
+    "explanation": "Cyclosporine inhibits calcineurin, reducing IL-2 transcription and T-cell activation; nephrotoxicity and gingival hyperplasia are classic adverse effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0087",
+    "category": "Immunology/Transplant",
+    "difficulty": "Hard",
+    "stem": "Tacrolimus and cyclosporine are both calcineurin inhibitors. Which adverse effect is especially associated with tacrolimus?",
+    "choices": ["New-onset diabetes and neurotoxicity (tremor)", "Hemorrhagic cystitis", "Pulmonary fibrosis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Tacrolimus can cause nephrotoxicity like cyclosporine but is particularly associated with diabetes and neurotoxicity (e.g., tremor).",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0088",
+    "category": "Immunology/Transplant",
+    "difficulty": "Medium",
+    "stem": "Mycophenolate mofetil suppresses lymphocyte proliferation primarily by inhibiting:",
+    "choices": ["IMP dehydrogenase (de novo guanine synthesis)", "Calcineurin", "mTOR", "Dihydrofolate reductase"],
+    "answerIndex": 0,
+    "explanation": "Mycophenolate inhibits IMP dehydrogenase, reducing guanine synthesis; GI upset and myelosuppression are common adverse effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0089",
+    "category": "Rheum/Immunology",
+    "difficulty": "Hard",
+    "stem": "A patient on azathioprine is started on allopurinol for gout. Why must azathioprine dose be reduced?",
+    "choices": ["Allopurinol inhibits xanthine oxidase, increasing active azathioprine/6-MP levels and myelotoxicity", "Allopurinol induces CYP3A4, lowering azathioprine levels", "Allopurinol blocks intestinal absorption of azathioprine", "Allopurinol directly inhibits platelet aggregation"],
+    "answerIndex": 0,
+    "explanation": "Xanthine oxidase metabolizes 6-MP; inhibiting it with allopurinol can dangerously increase levels and cause severe myelosuppression unless the dose is reduced.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0090",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A chemotherapy drug causes dose-dependent cardiomyopathy via free radical injury. Which drug is most likely responsible and which agent can reduce this toxicity?",
+    "choices": ["Doxorubicin; dexrazoxane", "Bleomycin; mesna", "Cyclophosphamide; leucovorin", "Vincristine; flumazenil"],
+    "answerIndex": 0,
+    "explanation": "Anthracyclines like doxorubicin can cause cardiomyopathy; dexrazoxane can reduce this risk in appropriate situations.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0091",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient taking cyclophosphamide develops hemorrhagic cystitis. Which medication helps prevent this toxicity?",
+    "choices": ["Mesna", "Dexrazoxane", "Leucovorin", "Andexanet alfa"],
+    "answerIndex": 0,
+    "explanation": "Mesna binds toxic acrolein metabolites and helps prevent cyclophosphamide-associated hemorrhagic cystitis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0092",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient receiving cisplatin develops rising creatinine and tinnitus. Which toxicity profile best matches cisplatin?",
+    "choices": ["Nephrotoxicity and ototoxicity", "Pulmonary fibrosis and skin hyperpigmentation", "Hemorrhagic cystitis", "Severe hyperprolactinemia"],
+    "answerIndex": 0,
+    "explanation": "Cisplatin is classically nephrotoxic and ototoxic; hydration and supportive strategies are used to reduce risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0093",
+    "category": "Oncology",
+    "difficulty": "Hard",
+    "stem": "A patient on bleomycin develops progressive dyspnea and dry cough. Which management principle is important because it may worsen toxicity?",
+    "choices": ["Avoid unnecessary high-concentration oxygen exposure when possible", "Give vitamin K immediately", "Switch to a beta blocker", "Give protamine sulfate"],
+    "answerIndex": 0,
+    "explanation": "Bleomycin can cause pulmonary toxicity; high oxygen exposure can worsen lung injury, so oxygen is used judiciously based on clinical need.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0094",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "A patient on vincristine develops constipation/ileus and peripheral neuropathy. These adverse effects are most characteristic of:",
+    "choices": ["Vincristine", "Bleomycin", "Doxorubicin", "Methotrexate"],
+    "answerIndex": 0,
+    "explanation": "Vincristine (microtubule inhibitor) commonly causes neuropathy and ileus/constipation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0095",
+    "category": "Oncology",
+    "difficulty": "Hard",
+    "stem": "A patient on nivolumab develops severe diarrhea and abdominal pain; evaluation suggests immune-mediated colitis. What is a common treatment approach for moderate-to-severe immune-related colitis?",
+    "choices": ["Hold therapy and treat with systemic corticosteroids", "Give protamine sulfate", "Give vitamin K", "Give flumazenil"],
+    "answerIndex": 0,
+    "explanation": "Checkpoint inhibitors can cause immune-mediated adverse events; moderate-to-severe colitis is often treated by holding the drug and using systemic corticosteroids per protocol.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0096",
+    "category": "Toxicology",
+    "difficulty": "Medium",
+    "stem": "A farm worker exposed to organophosphates presents with salivation, lacrimation, urination, diarrhea, bronchospasm, and miosis. Which treatment is most appropriate?",
+    "choices": ["Atropine + pralidoxime", "Naloxone + flumazenil", "Vitamin K + PCC", "Calcium gluconate"],
+    "answerIndex": 0,
+    "explanation": "Organophosphates inhibit acetylcholinesterase; atropine treats muscarinic symptoms and pralidoxime helps regenerate the enzyme (especially if given early).",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0097",
+    "category": "Toxicology",
+    "difficulty": "Easy",
+    "stem": "A patient overdoses on acetaminophen. Which antidote replenishes glutathione to prevent liver injury?",
+    "choices": ["N-acetylcysteine", "Deferoxamine", "Fomepizole", "Protamine sulfate"],
+    "answerIndex": 0,
+    "explanation": "N-acetylcysteine replenishes glutathione and detoxifies the reactive acetaminophen metabolite, reducing hepatotoxicity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0098",
+    "category": "Toxicology",
+    "difficulty": "Medium",
+    "stem": "A patient exposed to carbon monoxide has headache and confusion. What is the most appropriate immediate treatment?",
+    "choices": ["100% oxygen (and consider hyperbaric oxygen in severe cases)", "Vitamin K", "Naloxone", "Atropine"],
+    "answerIndex": 0,
+    "explanation": "Carbon monoxide poisoning is treated with high-flow oxygen to displace CO from hemoglobin; hyperbaric oxygen is considered in severe presentations.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0099",
+    "category": "Toxicology",
+    "difficulty": "Medium",
+    "stem": "A patient ingests antifreeze and develops an anion gap metabolic acidosis with calcium oxalate crystals in urine. Which antidote inhibits alcohol dehydrogenase?",
+    "choices": ["Fomepizole", "N-acetylcysteine", "Deferoxamine", "Flumazenil"],
+    "answerIndex": 0,
+    "explanation": "Ethylene glycol poisoning is treated with fomepizole (or ethanol) to inhibit alcohol dehydrogenase and prevent toxic metabolite formation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB4-0100",
+    "category": "Toxicology",
+    "difficulty": "Hard",
+    "stem": "A patient is overly sedated after benzodiazepine use. Flumazenil is considered. In which scenario is flumazenil most risky due to seizure precipitation?",
+    "choices": ["Chronic benzodiazepine dependence or mixed overdose with proconvulsant drugs", "Single, recent benzodiazepine exposure in a benzo-naive patient", "Mild alcohol intoxication without benzo use", "Acetaminophen overdose"],
+    "answerIndex": 0,
+    "explanation": "Flumazenil can precipitate seizures in benzodiazepine-dependent patients or in mixed overdoses (e.g., with TCAs); it must be used cautiously.",
+    "reference": ""
+  }
 ]
 
