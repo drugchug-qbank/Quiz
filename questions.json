@@ -3147,5 +3147,1006 @@
     "explanation": "Flumazenil can precipitate seizures in benzodiazepine-dependent patients or in mixed overdoses (e.g., with TCAs); it must be used cautiously.",
     "reference": ""
   }
+,
+  {
+    "id": "DCB5-0001",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with atrial fibrillation is prescribed a medication that slows AV nodal conduction by increasing vagal tone. Which medication is this?",
+    "choices": ["Digoxin", "Amlodipine", "Losartan", "Hydralazine"],
+    "answerIndex": 0,
+    "explanation": "Digoxin increases vagal tone and slows AV nodal conduction, which can help with rate control in atrial fibrillation (especially in certain HFrEF patients).",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0002",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "Which beta blocker is evidence-based to reduce mortality in HFrEF?",
+    "choices": ["Carvedilol", "Atenolol", "Propranolol", "Nadolol"],
+    "answerIndex": 0,
+    "explanation": "Carvedilol (along with metoprolol succinate and bisoprolol) has evidence for mortality benefit in HFrEF.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0003",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with atrial fibrillation is started on flecainide. Which condition is a major contraindication due to proarrhythmia risk?",
+    "choices": ["Structural heart disease (e.g., prior MI)", "Seasonal allergies", "GERD", "Hypothyroidism"],
+    "answerIndex": 0,
+    "explanation": "Class IC drugs (flecainide/propafenone) are proarrhythmic in structural heart disease and are avoided in patients with prior MI or significant cardiomyopathy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0004",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "Adenosine terminates AVNRT/PSVT primarily by which mechanism at the AV node?",
+    "choices": ["Increases potassium efflux and hyperpolarizes AV nodal tissue", "Blocks sodium channels and widens QRS", "Blocks beta-1 receptors to reduce contractility", "Inhibits ACE to reduce angiotensin II"],
+    "answerIndex": 0,
+    "explanation": "Adenosine activates A1 receptors, increasing K+ efflux and hyperpolarizing AV nodal tissue, producing a transient AV block that can terminate AVNRT.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0005",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient taking warfarin is started on amiodarone. Which change is most likely without dose adjustment?",
+    "choices": ["INR increases due to reduced warfarin metabolism", "INR decreases due to CYP induction", "No interaction expected", "Warfarin becomes ineffective due to chelation"],
+    "answerIndex": 0,
+    "explanation": "Amiodarone inhibits CYP enzymes and can increase warfarin effect, raising INR and bleeding risk unless warfarin dose is adjusted and INR monitored.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0006",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with vasospastic (Prinzmetal) angina asks if propranolol can help. Why is propranolol generally avoided in this condition?",
+    "choices": ["It may worsen coronary vasospasm due to unopposed alpha activity", "It causes irreversible platelet inhibition", "It causes direct renal afferent constriction", "It blocks LDL receptors"],
+    "answerIndex": 0,
+    "explanation": "Nonselective beta blockers can worsen vasospasm by allowing unopposed alpha-mediated vasoconstriction; calcium channel blockers and nitrates are preferred.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0007",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "Which common adverse effect is most associated with dihydropyridine calcium channel blockers like amlodipine?",
+    "choices": ["Peripheral edema", "Severe hyperkalemia", "Dry cough", "Pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Dihydropyridine CCBs primarily dilate arterioles and can cause peripheral edema, flushing, and headache.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0008",
+    "category": "Lipids",
+    "difficulty": "Medium",
+    "stem": "A patient starts cholestyramine for hyperlipidemia. Which counseling point is most accurate?",
+    "choices": ["It can cause constipation and reduce absorption of other drugs and fat-soluble vitamins", "It commonly causes tendon rupture", "It causes optic neuritis", "It is contraindicated because it prolongs QT"],
+    "answerIndex": 0,
+    "explanation": "Bile acid resins can cause constipation and bind other medications/vitamins, requiring separation of dosing and monitoring in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0009",
+    "category": "Lipids",
+    "difficulty": "Medium",
+    "stem": "A patient on high-dose atorvastatin develops muscle pain and dark urine. Which lab test helps assess for statin-associated rhabdomyolysis?",
+    "choices": ["Creatine kinase (CK)", "D-dimer", "TSH", "Amylase"],
+    "answerIndex": 0,
+    "explanation": "Statin-associated myopathy/rhabdomyolysis is assessed with CK and renal function evaluation when severe symptoms occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0010",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with HFrEF is switching from an ACE inhibitor to sacubitril/valsartan. What step reduces angioedema risk?",
+    "choices": ["Wait at least 36 hours after stopping the ACE inhibitor before starting ARNI", "Start ARNI the same day as the ACE inhibitor", "Add aspirin for 1 week first", "Use ARNI only with concurrent ACE inhibitor"],
+    "answerIndex": 0,
+    "explanation": "ARNI therapy requires an ACE inhibitor washout (commonly 36 hours) to reduce angioedema risk related to bradykinin accumulation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0011",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Easy",
+    "stem": "Which anticoagulant is a direct thrombin (factor IIa) inhibitor taken orally?",
+    "choices": ["Dabigatran", "Apixaban", "Warfarin", "Heparin"],
+    "answerIndex": 0,
+    "explanation": "Dabigatran is an oral direct thrombin inhibitor. Apixaban is a factor Xa inhibitor, and warfarin inhibits vitamin K recycling.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0012",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "Which reversal agent is specific for dabigatran?",
+    "choices": ["Idarucizumab", "Andexanet alfa", "Protamine sulfate", "Vitamin K"],
+    "answerIndex": 0,
+    "explanation": "Idarucizumab binds dabigatran and reverses its anticoagulant effect. Andexanet alfa reverses factor Xa inhibitors.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0013",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient has heparin-induced thrombocytopenia (HIT). Which anticoagulant is appropriate to use instead of heparin?",
+    "choices": ["Argatroban", "Enoxaparin", "Warfarin immediately without overlap", "Aspirin alone"],
+    "answerIndex": 0,
+    "explanation": "HIT is prothrombotic; stop all heparin and start a non-heparin anticoagulant such as argatroban or bivalirudin.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0014",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Hard",
+    "stem": "A patient on warfarin has life-threatening bleeding. Which immediate reversal strategy is most appropriate?",
+    "choices": ["4-factor PCC plus IV vitamin K", "Hold warfarin and recheck INR next week", "Protamine sulfate alone", "Idarucizumab alone"],
+    "answerIndex": 0,
+    "explanation": "For life-threatening warfarin-associated bleeding, rapid reversal is typically achieved with 4-factor PCC plus IV vitamin K.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0015",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Easy",
+    "stem": "Which medication irreversibly inhibits COX-1 in platelets, reducing thromboxane A2?",
+    "choices": ["Aspirin", "Clopidogrel", "Abciximab", "Warfarin"],
+    "answerIndex": 0,
+    "explanation": "Aspirin irreversibly inhibits platelet COX-1, decreasing thromboxane A2 and platelet aggregation for the platelet lifespan.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0016",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "A patient on an ACE inhibitor and diuretic develops acute kidney injury after starting ibuprofen. What mechanism best explains ibuprofen’s effect on GFR?",
+    "choices": ["Afferent arteriole constriction from reduced prostaglandins", "Efferent arteriole dilation from reduced angiotensin II", "Direct tubular obstruction by crystals", "Increased aldosterone secretion causing volume depletion"],
+    "answerIndex": 0,
+    "explanation": "NSAIDs decrease prostaglandin synthesis, constricting the afferent arteriole and lowering GFR—especially risky with ACE inhibitors and diuretics.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0017",
+    "category": "Renal",
+    "difficulty": "Easy",
+    "stem": "Which diuretic acts by inhibiting the Na+/K+/2Cl− cotransporter (NKCC2) in the thick ascending limb?",
+    "choices": ["Furosemide", "Hydrochlorothiazide", "Spironolactone", "Acetazolamide"],
+    "answerIndex": 0,
+    "explanation": "Loop diuretics (e.g., furosemide) inhibit NKCC2 in the thick ascending limb and are very potent diuretics.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0018",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "Which diuretic decreases urinary calcium excretion and can help prevent calcium stones in hypercalciuria?",
+    "choices": ["Hydrochlorothiazide", "Furosemide", "Mannitol", "Acetazolamide"],
+    "answerIndex": 0,
+    "explanation": "Thiazides increase calcium reabsorption in the distal tubule, reducing urinary calcium and helping prevent calcium stone formation in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0019",
+    "category": "Renal",
+    "difficulty": "Hard",
+    "stem": "A patient with glaucoma is prescribed acetazolamide. Which acid-base change is most expected?",
+    "choices": ["Metabolic acidosis", "Metabolic alkalosis", "Respiratory acidosis", "Respiratory alkalosis"],
+    "answerIndex": 0,
+    "explanation": "Carbonic anhydrase inhibitors cause bicarbonate loss in urine, producing metabolic acidosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0020",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "Spironolactone causes hyperkalemia primarily because it:",
+    "choices": ["Antagonizes aldosterone receptors in the collecting duct", "Blocks NKCC2 in the thick ascending limb", "Inhibits carbonic anhydrase", "Blocks SGLT2 transporters"],
+    "answerIndex": 0,
+    "explanation": "Spironolactone blocks aldosterone receptors, reducing sodium reabsorption and decreasing potassium secretion in the collecting duct.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0021",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Beta-lactam antibiotics kill bacteria primarily by:",
+    "choices": ["Inhibiting transpeptidase-mediated peptidoglycan cross-linking", "Inhibiting DNA gyrase", "Blocking 30S ribosomal function", "Inhibiting folate synthesis"],
+    "answerIndex": 0,
+    "explanation": "Beta-lactams bind penicillin-binding proteins (transpeptidases) and inhibit peptidoglycan cross-linking, weakening the cell wall.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0022",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient with MRSA pneumonia needs targeted therapy. Which antibiotic is effective for MRSA pneumonia and also has MAOI activity?",
+    "choices": ["Linezolid", "Daptomycin", "Aztreonam", "Gentamicin"],
+    "answerIndex": 0,
+    "explanation": "Linezolid covers MRSA and penetrates the lungs well; it also has MAOI properties and can cause serotonin syndrome with serotonergic drugs.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0023",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "A patient with MRSA bacteremia is switched to daptomycin but also has pneumonia. Why is daptomycin not used to treat pneumonia?",
+    "choices": ["It is inactivated by pulmonary surfactant", "It cannot kill gram-positive bacteria", "It causes severe hypoglycemia", "It is only active against viruses"],
+    "answerIndex": 0,
+    "explanation": "Daptomycin is inactivated by pulmonary surfactant and is not effective for pneumonia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0024",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Aminoglycosides are generally ineffective against anaerobic organisms because their uptake requires:",
+    "choices": ["Oxygen-dependent transport", "Binding to D-Ala-D-Ala", "Activation by viral thymidine kinase", "Inhibition of folate synthesis"],
+    "answerIndex": 0,
+    "explanation": "Aminoglycoside uptake is oxygen-dependent, so activity against anaerobes is poor.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0025",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient taking erythromycin develops QT prolongation. Erythromycin also increases levels of many medications because it:",
+    "choices": ["Inhibits CYP3A4", "Induces CYP3A4", "Chelates iron in the gut", "Directly blocks LDL receptors"],
+    "answerIndex": 0,
+    "explanation": "Erythromycin inhibits CYP3A4, raising levels of many drugs and increasing risk of toxicity and QT-related arrhythmias.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0026",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Tetracyclines are contraindicated in pregnancy and young children primarily because they:",
+    "choices": ["Discolor teeth and inhibit bone growth", "Cause irreversible ototoxicity", "Cause hemorrhagic cystitis", "Cause red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Tetracyclines chelate calcium and can deposit in teeth/bone, leading to tooth discoloration and impaired bone growth.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0027",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient has recurrent C. difficile infection. Which antibiotic is a narrow-spectrum option that targets C. difficile and inhibits bacterial RNA polymerase?",
+    "choices": ["Fidaxomicin", "Azithromycin", "Ceftriaxone", "Gentamicin"],
+    "answerIndex": 0,
+    "explanation": "Fidaxomicin is a narrow-spectrum agent for C. difficile that inhibits bacterial RNA polymerase and has less disruption of normal flora than many alternatives.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0028",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient develops hemolytic anemia after starting trimethoprim-sulfamethoxazole. This is most likely in a patient with:",
+    "choices": ["G6PD deficiency", "Hemophilia A", "Factor V Leiden", "Vitamin B12 deficiency"],
+    "answerIndex": 0,
+    "explanation": "Sulfonamides can trigger oxidative hemolysis in patients with G6PD deficiency.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0029",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "A patient with CKD receives cefepime without dose adjustment and develops confusion and myoclonus. What is the most likely cause?",
+    "choices": ["Cefepime neurotoxicity due to accumulation", "Red man syndrome", "Serotonin syndrome", "Neuroleptic malignant syndrome"],
+    "answerIndex": 0,
+    "explanation": "Cefepime can cause neurotoxicity (encephalopathy, myoclonus, seizures), especially when not adjusted for renal impairment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0030",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Clindamycin is most associated with which serious complication?",
+    "choices": ["C. difficile colitis", "Optic neuritis", "Tendon rupture", "Hypoglycemia"],
+    "answerIndex": 0,
+    "explanation": "Clindamycin is a classic trigger for C. difficile–associated pseudomembranous colitis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0031",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Rifampin therapy can reduce oral contraceptive effectiveness because rifampin is a strong:",
+    "choices": ["CYP450 inducer", "CYP450 inhibitor", "MAO inhibitor", "Direct thrombin inhibitor"],
+    "answerIndex": 0,
+    "explanation": "Rifampin induces CYP enzymes, lowering levels of many drugs including oral contraceptives, warfarin, and some antiretrovirals.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0032",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Isoniazid causes peripheral neuropathy primarily by depleting which vitamin?",
+    "choices": ["Vitamin B6 (pyridoxine)", "Vitamin B12", "Folate", "Vitamin C"],
+    "answerIndex": 0,
+    "explanation": "Isoniazid can cause neuropathy by depleting pyridoxine (B6); supplementation helps prevent this adverse effect.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0033",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "A patient on ethambutol reports decreased visual acuity and trouble distinguishing red from green. What is the best next step?",
+    "choices": ["Stop ethambutol and evaluate for optic neuritis", "Continue therapy; this is expected and harmless", "Add aspirin to reverse the effect", "Switch to daptomycin for TB therapy"],
+    "answerIndex": 0,
+    "explanation": "Ethambutol can cause optic neuritis with red-green color vision changes; it should be stopped and evaluated promptly.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0034",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Pyrazinamide is most associated with which adverse effect?",
+    "choices": ["Hyperuricemia", "Optic neuritis", "Severe tinnitus", "Gray baby syndrome"],
+    "answerIndex": 0,
+    "explanation": "Pyrazinamide can cause hyperuricemia and hepatotoxicity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0035",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Chloramphenicol is most concerning for which serious adverse effect?",
+    "choices": ["Aplastic anemia", "Tendon rupture", "Ototoxicity", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Chloramphenicol can cause bone marrow suppression and rare but serious aplastic anemia; it can also cause gray baby syndrome in neonates.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0036",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Linezolid can cause thrombocytopenia with prolonged therapy. Another major concern is serotonin syndrome because linezolid has:",
+    "choices": ["MAOI activity", "Strong COX-1 inhibition", "Strong CYP induction", "Direct factor Xa activation"],
+    "answerIndex": 0,
+    "explanation": "Linezolid has MAOI activity, increasing risk of serotonin syndrome when combined with SSRIs/SNRIs/tramadol and other serotonergic agents.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0037",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Nitrofurantoin is best used for uncomplicated cystitis because it:",
+    "choices": ["Concentrates in urine but has poor renal tissue penetration", "Has excellent lung penetration for pneumonia", "Is a strong CYP inhibitor", "Is active against Pseudomonas in bloodstream infections"],
+    "answerIndex": 0,
+    "explanation": "Nitrofurantoin is useful for cystitis but not pyelonephritis because it does not achieve adequate renal tissue levels.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0038",
+    "category": "Antifungals",
+    "difficulty": "Easy",
+    "stem": "Amphotericin B kills fungi primarily by:",
+    "choices": ["Binding ergosterol and forming membrane pores", "Inhibiting 14-alpha-demethylase", "Inhibiting beta-1,3-D-glucan synthesis", "Inhibiting squalene epoxidase"],
+    "answerIndex": 0,
+    "explanation": "Amphotericin B binds ergosterol and forms pores in the fungal membrane. Major toxicity is nephrotoxicity with electrolyte wasting.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0039",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "Azole antifungals (e.g., fluconazole) work primarily by inhibiting:",
+    "choices": ["14-alpha-demethylase (ergosterol synthesis)", "Ergosterol binding to form pores", "Beta-1,3-D-glucan synthase", "Microtubule polymerization"],
+    "answerIndex": 0,
+    "explanation": "Azoles inhibit fungal 14-alpha-demethylase, decreasing ergosterol synthesis; many also inhibit CYP enzymes causing drug interactions.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0040",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "Echinocandins like caspofungin inhibit:",
+    "choices": ["Beta-1,3-D-glucan synthesis in the fungal cell wall", "DNA gyrase", "Ergosterol binding to form pores", "Squalene epoxidase"],
+    "answerIndex": 0,
+    "explanation": "Echinocandins inhibit beta-1,3-D-glucan synthesis, weakening the fungal cell wall (useful for Candida and Aspergillus).",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0041",
+    "category": "Antifungals",
+    "difficulty": "Medium",
+    "stem": "Griseofulvin is used for dermatophyte infections. Which counseling point is most accurate?",
+    "choices": ["It can induce CYP enzymes and reduce oral contraceptive effectiveness", "It commonly causes nephrotoxicity and hypocalcemia", "It is the drug of choice for cryptococcal meningitis", "It is inactivated by pulmonary surfactant"],
+    "answerIndex": 0,
+    "explanation": "Griseofulvin is a CYP inducer and can reduce oral contraceptive effectiveness; it can also cause photosensitivity and headaches.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0042",
+    "category": "Antifungals",
+    "difficulty": "Easy",
+    "stem": "Terbinafine treats onychomycosis primarily by inhibiting:",
+    "choices": ["Squalene epoxidase", "14-alpha-demethylase", "Beta-1,3-D-glucan synthase", "Ergosterol binding"],
+    "answerIndex": 0,
+    "explanation": "Terbinafine inhibits squalene epoxidase, decreasing ergosterol and causing squalene accumulation; hepatotoxicity monitoring may be needed.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0043",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "Acyclovir is selectively activated in herpesvirus-infected cells because it is first phosphorylated by:",
+    "choices": ["Viral thymidine kinase", "Human CYP3A4", "Bacterial beta-lactamase", "Human RNA polymerase"],
+    "answerIndex": 0,
+    "explanation": "Herpesvirus thymidine kinase phosphorylates acyclovir, increasing selective activation in infected cells.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0044",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "Ganciclovir therapy is most commonly limited by which adverse effect?",
+    "choices": ["Bone marrow suppression (neutropenia)", "Tendon rupture", "Pulmonary fibrosis", "Severe hyperkalemia"],
+    "answerIndex": 0,
+    "explanation": "Ganciclovir can cause significant myelosuppression, including neutropenia and thrombocytopenia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0045",
+    "category": "Antivirals",
+    "difficulty": "Hard",
+    "stem": "Foscarnet is used for ganciclovir-resistant CMV. Which toxicity is most associated with foscarnet?",
+    "choices": ["Nephrotoxicity with electrolyte abnormalities (e.g., hypocalcemia)", "Severe cough from bradykinin", "Hemorrhagic cystitis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Foscarnet can cause nephrotoxicity and electrolyte disturbances such as hypocalcemia, which can precipitate seizures or arrhythmias.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0046",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "Tenofovir is most associated with which adverse effect?",
+    "choices": ["Proximal tubular toxicity (Fanconi-like syndrome) and decreased bone mineral density", "Gray baby syndrome", "Severe ototoxicity", "Pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Tenofovir can cause renal tubular dysfunction with phosphate wasting and reduced bone mineral density; renal monitoring is important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0047",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "Which NRTI is classically associated with bone marrow suppression causing anemia and neutropenia?",
+    "choices": ["Zidovudine", "Efavirenz", "Ritonavir", "Raltegravir"],
+    "answerIndex": 0,
+    "explanation": "Zidovudine (AZT) is associated with bone marrow suppression, including anemia and neutropenia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0048",
+    "category": "Antivirals",
+    "difficulty": "Hard",
+    "stem": "Before prescribing abacavir, which screening test reduces risk of a potentially life-threatening hypersensitivity reaction?",
+    "choices": ["HLA-B*57:01", "TPMT activity", "Factor V Leiden", "BRCA1/2"],
+    "answerIndex": 0,
+    "explanation": "Abacavir hypersensitivity is strongly associated with HLA-B*57:01; screening prior to initiation is recommended.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0049",
+    "category": "Antivirals",
+    "difficulty": "Easy",
+    "stem": "Oseltamivir treats influenza A and B by inhibiting:",
+    "choices": ["Neuraminidase", "Reverse transcriptase", "DNA polymerase", "Integrase"],
+    "answerIndex": 0,
+    "explanation": "Oseltamivir is a neuraminidase inhibitor that reduces viral release from infected cells.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0050",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "Ritonavir is often used as a 'booster' in HIV therapy because it:",
+    "choices": ["Strongly inhibits CYP3A4, increasing levels of other antiretrovirals", "Strongly induces CYP3A4, lowering levels of other drugs", "Directly blocks viral entry into cells", "Is a neuraminidase inhibitor"],
+    "answerIndex": 0,
+    "explanation": "Ritonavir is a potent CYP3A4 inhibitor and is used to boost levels of other protease inhibitors, increasing interaction risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0051",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "Dolutegravir is best classified as which type of antiretroviral?",
+    "choices": ["Integrase inhibitor", "Protease inhibitor", "NNRTI", "Fusion inhibitor"],
+    "answerIndex": 0,
+    "explanation": "Dolutegravir inhibits HIV integrase, blocking integration of viral DNA into the host genome.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0052",
+    "category": "Antivirals",
+    "difficulty": "Medium",
+    "stem": "Efavirenz is most associated with which adverse effect profile?",
+    "choices": ["CNS effects such as vivid dreams", "Severe crystal nephropathy", "Profound neutropenia", "Hypocalcemia and nephrotoxicity from chelation"],
+    "answerIndex": 0,
+    "explanation": "Efavirenz (an NNRTI) is known for CNS side effects including vivid dreams and dizziness.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0053",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Which insulin is rapid-acting and commonly used for mealtime coverage?",
+    "choices": ["Insulin lispro", "Insulin glargine", "NPH insulin", "Insulin detemir"],
+    "answerIndex": 0,
+    "explanation": "Lispro (also aspart and glulisine) is rapid-acting and used for mealtime insulin coverage.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0054",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with sulfonylurea overdose has recurrent hypoglycemia despite dextrose. Which medication reduces recurrent hypoglycemia by suppressing insulin release?",
+    "choices": ["Octreotide", "Naloxone", "Flumazenil", "Fomepizole"],
+    "answerIndex": 0,
+    "explanation": "Octreotide suppresses insulin secretion and is used for recurrent hypoglycemia in sulfonylurea overdose.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0055",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Metformin is avoided or dose-reduced in significant renal impairment mainly due to concern for:",
+    "choices": ["Lactic acidosis", "Tendon rupture", "Pulmonary fibrosis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Metformin carries a rare risk of lactic acidosis, with higher risk in significant renal impairment due to reduced clearance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0056",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "GLP-1 receptor agonists (e.g., semaglutide) commonly cause which effect related to the GI tract?",
+    "choices": ["Delayed gastric emptying", "Increased gastric acid secretion", "Severe constipation by mu-opioid agonism", "Irreversible proton pump inhibition"],
+    "answerIndex": 0,
+    "explanation": "GLP-1 agonists slow gastric emptying and often cause nausea/early satiety and weight loss.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0057",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient taking an SGLT2 inhibitor presents with ketoacidosis symptoms but only mildly elevated glucose. What adverse event is most likely?",
+    "choices": ["Euglycemic diabetic ketoacidosis", "Hyperosmolar hyperglycemic state", "Metformin-associated lactic acidosis", "Serotonin syndrome"],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors can rarely precipitate euglycemic DKA (ketoacidosis with only mild hyperglycemia).",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0058",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Pioglitazone is most associated with which adverse effect that can limit use in certain patients?",
+    "choices": ["Edema and heart failure worsening", "Severe hypoglycemia as the most common effect", "Optic neuritis", "Hemorrhagic cystitis in most patients"],
+    "answerIndex": 0,
+    "explanation": "Thiazolidinediones cause fluid retention and weight gain and can worsen heart failure.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0059",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "In early pregnancy, which antithyroid medication is generally preferred and also reduces peripheral T4 to T3 conversion?",
+    "choices": ["Propylthiouracil (PTU)", "Methimazole", "Levothyroxine", "Iodine-131"],
+    "answerIndex": 0,
+    "explanation": "PTU is generally preferred in the first trimester and also decreases peripheral conversion of T4 to T3; hepatotoxicity is a key risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0060",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "In thyroid storm, why is iodine typically administered after a thionamide (PTU or methimazole)?",
+    "choices": ["To prevent iodine from being used as substrate for new hormone synthesis", "To increase thyroid hormone synthesis rapidly", "To increase peripheral conversion of T4 to T3", "To block aldosterone receptors"],
+    "answerIndex": 0,
+    "explanation": "Thionamides block new hormone synthesis; giving iodine afterward helps block hormone release without providing substrate for additional synthesis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0061",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Which instruction best improves consistency of levothyroxine absorption?",
+    "choices": ["Take on an empty stomach and separate from calcium/iron by several hours", "Take with calcium supplements", "Take only at bedtime with food", "Take with antacids to prevent irritation"],
+    "answerIndex": 0,
+    "explanation": "Levothyroxine absorption is reduced by food and by binding agents (calcium/iron); separating dosing improves consistency.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0062",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A major long-term complication of chronic systemic glucocorticoid therapy that requires prevention is:",
+    "choices": ["Osteoporosis", "Optic neuritis", "Tendon rupture", "Red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Chronic glucocorticoid use increases osteoporosis/fracture risk; prevention often includes calcium/vitamin D and risk-based therapies.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0063",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient taking alendronate is counseled to remain upright after dosing mainly to reduce risk of:",
+    "choices": ["Esophagitis", "Nephrotoxicity", "Ototoxicity", "Bronchospasm"],
+    "answerIndex": 0,
+    "explanation": "Oral bisphosphonates can irritate the esophagus; taking with water and staying upright reduces esophagitis risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0064",
+    "category": "OB/Gyn",
+    "difficulty": "Easy",
+    "stem": "Which patient should avoid combined estrogen-progestin oral contraceptives due to increased thrombotic risk?",
+    "choices": ["38-year-old who smokes 1 pack/day", "22-year-old with dysmenorrhea", "28-year-old nonsmoker with no PMH", "30-year-old requesting cycle regulation"],
+    "answerIndex": 0,
+    "explanation": "Combined hormonal contraception increases thrombotic/cardiovascular risk, especially in smokers age 35 or older.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0065",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Misoprostol is used to prevent NSAID-induced ulcers. Which counseling point is most important?",
+    "choices": ["It can cause diarrhea and is contraindicated in pregnancy due to uterine contractions", "It causes red-green color blindness", "It causes tendon rupture", "It causes nephrotoxicity with hypocalcemia"],
+    "answerIndex": 0,
+    "explanation": "Misoprostol (PGE1 analog) protects gastric mucosa but can cause diarrhea and uterine contractions; it is contraindicated in pregnancy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0066",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "Benzodiazepines enhance GABA-A receptor function by:",
+    "choices": ["Increasing frequency of chloride channel opening", "Increasing duration of chloride channel opening", "Blocking NMDA receptors", "Inhibiting serotonin reuptake"],
+    "answerIndex": 0,
+    "explanation": "Benzodiazepines increase frequency of GABA-A channel opening; barbiturates increase duration.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0067",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Barbiturates enhance GABA-A receptor function by:",
+    "choices": ["Increasing duration of chloride channel opening", "Increasing frequency of chloride channel opening", "Blocking muscarinic receptors", "Inhibiting MAO-B"],
+    "answerIndex": 0,
+    "explanation": "Barbiturates increase the duration of GABA-A channel opening, raising risk of respiratory depression at high doses.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0068",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "A patient with pinpoint pupils and respiratory depression is treated with which medication for rapid reversal?",
+    "choices": ["Naloxone", "Flumazenil", "Atropine", "Deferoxamine"],
+    "answerIndex": 0,
+    "explanation": "Naloxone is a rapid opioid receptor antagonist used to reverse opioid-induced respiratory depression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0069",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Buprenorphine is used for opioid use disorder primarily because it is a:",
+    "choices": ["Partial mu-opioid agonist with a ceiling effect on respiratory depression", "Full mu-opioid agonist with no ceiling effect", "Pure antagonist at mu receptors only", "NMDA receptor antagonist"],
+    "answerIndex": 0,
+    "explanation": "Buprenorphine is a partial mu agonist used in OUD; partial agonism provides a ceiling effect for respiratory depression (though risk remains, especially with other sedatives).",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0070",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient has serotonin syndrome (agitation, hyperreflexia/clonus, diaphoresis) after combining serotonergic drugs. Which medication may be used as an antidote in addition to supportive care?",
+    "choices": ["Cyproheptadine", "Naloxone", "Protamine sulfate", "Vitamin K"],
+    "answerIndex": 0,
+    "explanation": "Cyproheptadine is a serotonin antagonist sometimes used for serotonin syndrome alongside supportive care and stopping the offending agents.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0071",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient on an antipsychotic develops high fever, severe rigidity, confusion, and autonomic instability. Which medication can help treat this condition?",
+    "choices": ["Dantrolene", "Flumazenil", "Fomepizole", "Deferoxamine"],
+    "answerIndex": 0,
+    "explanation": "This is consistent with neuroleptic malignant syndrome; treatment includes stopping the antipsychotic, supportive care, and medications like dantrolene and/or bromocriptine depending on severity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0072",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient on lithium starts hydrochlorothiazide and later develops confusion and ataxia. What is the best treatment for severe lithium toxicity?",
+    "choices": ["Hemodialysis", "Activated charcoal", "Naloxone", "Vitamin K"],
+    "answerIndex": 0,
+    "explanation": "Thiazides can increase lithium levels. Severe lithium toxicity (significant neurologic symptoms or high levels) often requires hemodialysis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0073",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Chronic phenytoin therapy is most associated with which adverse effect?",
+    "choices": ["Gingival hyperplasia", "Hemorrhagic cystitis", "Pulmonary fibrosis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Phenytoin can cause gingival hyperplasia, hirsutism, neuropathy, and osteopenia; it is also a CYP inducer.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0074",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Valproate is most associated with which serious adverse effect(s)?",
+    "choices": ["Hepatotoxicity and teratogenicity (neural tube defects)", "Ototoxicity and nephrotoxicity", "Hemorrhagic cystitis and SIADH", "Optic neuritis and red-green color blindness"],
+    "answerIndex": 0,
+    "explanation": "Valproate can cause hepatotoxicity and is highly teratogenic (neural tube defects). It can also cause pancreatitis and thrombocytopenia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0075",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Carbamazepine is often used for trigeminal neuralgia. Which adverse effect is especially important to monitor?",
+    "choices": ["Hyponatremia from SIADH", "Severe hypercalcemia", "Tendon rupture", "Gray baby syndrome"],
+    "answerIndex": 0,
+    "explanation": "Carbamazepine can cause SIADH and hyponatremia and can also cause leukopenia; monitoring is important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0076",
+    "category": "Neuro/Psych",
+    "difficulty": "Hard",
+    "stem": "A patient started on lamotrigine develops fever and a painful rash with mucosal involvement. What is the most appropriate action?",
+    "choices": ["Stop lamotrigine and urgently evaluate for SJS/TEN", "Continue and add acetaminophen", "Continue and add diphenhydramine only", "Increase lamotrigine dose to overcome tolerance"],
+    "answerIndex": 0,
+    "explanation": "Lamotrigine can cause severe rash including SJS/TEN; immediate discontinuation and urgent evaluation are required if suspected.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0077",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Donepezil is used in Alzheimer disease. Which adverse effect is most consistent with its mechanism?",
+    "choices": ["Bradycardia and diarrhea", "Severe hyperkalemia", "Pulmonary fibrosis", "Tendon rupture"],
+    "answerIndex": 0,
+    "explanation": "Donepezil inhibits acetylcholinesterase, increasing acetylcholine; cholinergic effects include diarrhea, bradycardia, and syncope.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0078",
+    "category": "Autonomic",
+    "difficulty": "Medium",
+    "stem": "A patient has anticholinergic toxicity (delirium, urinary retention, mydriasis, dry skin). Which medication can reverse central anticholinergic effects in selected cases?",
+    "choices": ["Physostigmine", "Atropine", "Pralidoxime", "Naloxone"],
+    "answerIndex": 0,
+    "explanation": "Physostigmine is an acetylcholinesterase inhibitor that crosses the BBB and can reverse central anticholinergic toxicity in carefully selected cases.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0079",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A Parkinson patient has end-of-dose wearing off on levodopa/carbidopa. Which add-on medication class reduces peripheral levodopa breakdown to extend effect?",
+    "choices": ["COMT inhibitor (e.g., entacapone)", "Beta blocker", "D2 antagonist", "Acetylcholinesterase inhibitor"],
+    "answerIndex": 0,
+    "explanation": "COMT inhibitors reduce peripheral levodopa metabolism, increasing availability and helping with wearing-off symptoms.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0080",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "Sumatriptan aborts migraines primarily by acting as a:",
+    "choices": ["5-HT1B/1D agonist causing cranial vasoconstriction", "D2 antagonist", "COX-1 inhibitor", "Leukotriene receptor antagonist"],
+    "answerIndex": 0,
+    "explanation": "Triptans are 5-HT1B/1D agonists that constrict cranial vessels and reduce neuropeptide release; they are avoided in significant cardiovascular disease.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0081",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Omalizumab is used for certain patients with allergic asthma. It targets:",
+    "choices": ["IgE", "IL-5", "TNF-alpha", "CD20"],
+    "answerIndex": 0,
+    "explanation": "Omalizumab binds IgE and reduces allergic inflammation in select patients with allergic asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0082",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Mepolizumab is used for eosinophilic asthma. It most directly targets:",
+    "choices": ["IL-5 signaling", "IgE", "H1 receptors", "Muscarinic receptors"],
+    "answerIndex": 0,
+    "explanation": "Mepolizumab targets IL-5 (or its pathway), reducing eosinophil activity in certain asthma phenotypes.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0083",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Roflumilast helps reduce COPD exacerbations in chronic bronchitis by:",
+    "choices": ["Inhibiting PDE-4 to reduce inflammation", "Activating beta-2 receptors", "Blocking leukotriene receptors", "Blocking IgE"],
+    "answerIndex": 0,
+    "explanation": "Roflumilast is a PDE-4 inhibitor with anti-inflammatory effects; GI side effects and weight loss can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0084",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "Zileuton is used in asthma management. What monitoring is important due to a key adverse effect?",
+    "choices": ["Liver enzymes", "INR", "Troponin", "Serum calcium"],
+    "answerIndex": 0,
+    "explanation": "Zileuton inhibits 5-lipoxygenase and can cause hepatotoxicity; monitoring liver enzymes is important.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0085",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "Ipratropium produces bronchodilation primarily by:",
+    "choices": ["Muscarinic receptor antagonism", "Beta-2 receptor agonism", "IL-5 blockade", "Direct histamine release"],
+    "answerIndex": 0,
+    "explanation": "Ipratropium is an inhaled antimuscarinic agent that bronchodilates; dry mouth is a common adverse effect.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0086",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Why should a LABA (e.g., salmeterol) generally not be used as monotherapy in asthma?",
+    "choices": ["It does not treat inflammation and can increase severe exacerbation risk without ICS", "It irreversibly inhibits COX-1", "It blocks viral neuraminidase", "It causes immediate agranulocytosis in most patients"],
+    "answerIndex": 0,
+    "explanation": "LABAs bronchodilate but do not address airway inflammation; inhaled corticosteroids are needed for safer asthma control.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0087",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Montelukast blocks bronchoconstriction primarily by:",
+    "choices": ["Antagonizing leukotriene receptors", "Inhibiting 5-lipoxygenase", "Blocking IgE", "Activating beta-1 receptors"],
+    "answerIndex": 0,
+    "explanation": "Montelukast is a leukotriene receptor antagonist used as an asthma controller in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0088",
+    "category": "GI",
+    "difficulty": "Easy",
+    "stem": "Proton pump inhibitors reduce gastric acid secretion by:",
+    "choices": ["Irreversibly inhibiting the H+/K+ ATPase", "Reversibly blocking H2 receptors", "Neutralizing acid directly like antacids", "Activating prostaglandin synthesis"],
+    "answerIndex": 0,
+    "explanation": "PPIs irreversibly inhibit the gastric proton pump (H+/K+ ATPase), producing potent acid suppression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0089",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Cimetidine differs from other H2 blockers because it can cause:",
+    "choices": ["CYP inhibition and antiandrogen effects", "Severe tendon rupture", "Optic neuritis", "Red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Cimetidine inhibits CYP enzymes and can cause antiandrogen effects such as gynecomastia and impotence.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0090",
+    "category": "GI",
+    "difficulty": "Easy",
+    "stem": "Ondansetron primarily treats nausea by blocking which receptor?",
+    "choices": ["5-HT3", "D2", "H1", "M1"],
+    "answerIndex": 0,
+    "explanation": "Ondansetron is a 5-HT3 antagonist used for nausea/vomiting, particularly chemotherapy-related; QT prolongation can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0091",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Lactulose improves hepatic encephalopathy primarily by:",
+    "choices": ["Trapping ammonia in the gut as ammonium and increasing excretion", "Blocking the proton pump irreversibly", "Inhibiting COX enzymes", "Blocking leukotriene receptors"],
+    "answerIndex": 0,
+    "explanation": "Lactulose acidifies the colon, converting NH3 to NH4+ and increasing fecal excretion, reducing ammonia absorption.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0092",
+    "category": "GI",
+    "difficulty": "Hard",
+    "stem": "A patient with fever and bloody diarrhea asks for loperamide. Why is loperamide generally avoided in suspected invasive diarrhea?",
+    "choices": ["It can worsen illness by slowing clearance of pathogens/toxins", "It blocks COX-1 irreversibly", "It causes renal afferent constriction", "It is a strong MAOI"],
+    "answerIndex": 0,
+    "explanation": "Antimotility agents can retain invasive pathogens/toxins and may worsen outcomes or complications in bloody/inflammatory diarrhea.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0093",
+    "category": "Rheum/Immunology",
+    "difficulty": "Medium",
+    "stem": "Before starting infliximab for inflammatory bowel disease, which screening is most important?",
+    "choices": ["Latent tuberculosis screening", "TSH screening", "Serum calcium screening", "Urine toxicology screening"],
+    "answerIndex": 0,
+    "explanation": "TNF-alpha inhibitors increase risk of serious infections and can reactivate latent TB, so TB screening is required before initiation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0094",
+    "category": "Rheum/Immunology",
+    "difficulty": "Medium",
+    "stem": "Hydroxychloroquine requires periodic monitoring primarily for:",
+    "choices": ["Retinopathy", "Pulmonary fibrosis", "Ototoxicity", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Hydroxychloroquine can cause retinal toxicity; periodic eye exams are recommended depending on risk factors and duration.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0095",
+    "category": "Rheum/Immunology",
+    "difficulty": "Hard",
+    "stem": "A patient is prescribed abatacept for rheumatoid arthritis. Abatacept works by:",
+    "choices": ["Blocking CD28 costimulation via CTLA-4 Ig", "Neutralizing TNF-alpha", "Depleting CD20 B cells", "Blocking IL-5 signaling"],
+    "answerIndex": 0,
+    "explanation": "Abatacept is a CTLA-4 Ig fusion protein that blocks CD28-mediated T-cell costimulation (binding CD80/86).",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0096",
+    "category": "Oncology",
+    "difficulty": "Medium",
+    "stem": "Paclitaxel is most associated with which toxicity?",
+    "choices": ["Peripheral neuropathy", "Hemorrhagic cystitis", "Optic neuritis", "Severe hyperkalemia"],
+    "answerIndex": 0,
+    "explanation": "Paclitaxel stabilizes microtubules and commonly causes peripheral neuropathy and myelosuppression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0097",
+    "category": "Oncology",
+    "difficulty": "Hard",
+    "stem": "Leucovorin (folinic acid) is used as rescue therapy after high-dose methotrexate to:",
+    "choices": ["Bypass DHFR inhibition by providing reduced folate", "Chelate iron and prevent oxidative injury", "Bind acrolein and prevent hemorrhagic cystitis", "Reverse factor Xa inhibitors"],
+    "answerIndex": 0,
+    "explanation": "Leucovorin provides reduced folate to bypass DHFR blockade, reducing methotrexate toxicity while preserving antitumor activity in certain regimens.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0098",
+    "category": "Anesthesia",
+    "difficulty": "Hard",
+    "stem": "A patient develops malignant hyperthermia during anesthesia (hyperthermia, rigidity, acidosis) after succinylcholine and a volatile agent. Which medication is the antidote?",
+    "choices": ["Dantrolene", "Naloxone", "Physostigmine", "Protamine sulfate"],
+    "answerIndex": 0,
+    "explanation": "Malignant hyperthermia is treated with dantrolene, which reduces calcium release from the sarcoplasmic reticulum.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0099",
+    "category": "Toxicology",
+    "difficulty": "Medium",
+    "stem": "A patient ingests methanol and develops visual symptoms and anion gap metabolic acidosis. Which antidote inhibits alcohol dehydrogenase?",
+    "choices": ["Fomepizole", "N-acetylcysteine", "Deferoxamine", "Atropine"],
+    "answerIndex": 0,
+    "explanation": "Fomepizole inhibits alcohol dehydrogenase, preventing formation of toxic metabolites in methanol (and ethylene glycol) poisoning.",
+    "reference": ""
+  },
+  {
+    "id": "DCB5-0100",
+    "category": "Toxicology",
+    "difficulty": "Hard",
+    "stem": "A patient is overly sedated after benzodiazepine use. Flumazenil is considered. In which scenario is flumazenil most risky?",
+    "choices": ["Chronic benzodiazepine dependence or mixed overdose with proconvulsant drugs (e.g., TCAs)", "Single benzodiazepine exposure in a benzo-naive patient", "Mild nausea after antibiotics", "Acetaminophen overdose with normal mental status"],
+    "answerIndex": 0,
+    "explanation": "Flumazenil can precipitate seizures in benzodiazepine-dependent patients and in mixed overdoses (notably with TCAs), so it must be used cautiously.",
+    "reference": ""
+  }
 ]
 
