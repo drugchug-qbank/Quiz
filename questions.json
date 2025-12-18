@@ -7651,5 +7651,1006 @@
     "explanation": "Opioids depress brainstem respiratory drive (mu receptor mediated), especially at higher doses or when combined with other sedatives.",
     "reference": ""
   }
+,
+  {
+    "id": "DCB9-0001",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient develops facial swelling and lip/tongue edema shortly after starting lisinopril. This adverse effect is most related to increased levels of which mediator?",
+    "choices": ["Histamine", "Bradykinin", "Serotonin", "Dopamine"],
+    "answerIndex": 1,
+    "explanation": "ACE inhibitors can cause angioedema due to increased bradykinin (ACE normally breaks down bradykinin).",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0002",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "Which antihypertensive class is contraindicated in pregnancy due to risk of fetal renal injury and oligohydramnios?",
+    "choices": ["ACE inhibitors/ARBs", "Beta blockers", "Methyldopa", "Nifedipine"],
+    "answerIndex": 0,
+    "explanation": "ACE inhibitors and ARBs are contraindicated in pregnancy due to fetal toxicity (renal abnormalities, oligohydramnios).",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0003",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with recurrent calcium kidney stones and hypercalciuria is started on a diuretic that reduces urinary calcium excretion. Which drug is most appropriate?",
+    "choices": ["Hydrochlorothiazide", "Furosemide", "Mannitol", "Acetazolamide"],
+    "answerIndex": 0,
+    "explanation": "Thiazides increase calcium reabsorption in the distal convoluted tubule, decreasing urinary calcium and helping prevent calcium stones.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0004",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient receiving high-dose IV furosemide develops ringing in the ears and hearing changes. Which adverse effect is most consistent with loop diuretics?",
+    "choices": ["Ototoxicity", "Optic neuritis", "Hemorrhagic cystitis", "Pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Loop diuretics can cause ototoxicity, especially at high doses or when combined with other ototoxins (e.g., aminoglycosides).",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0005",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A patient started on spironolactone for heart failure develops breast tenderness and gynecomastia. What best explains this adverse effect?",
+    "choices": ["Antiandrogen effects of spironolactone", "Direct stimulation of prolactin release", "Irreversible COX-1 inhibition", "Serotonin reuptake inhibition"],
+    "answerIndex": 0,
+    "explanation": "Spironolactone antagonizes androgen receptors and can cause gynecomastia and sexual side effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0006",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with HFrEF needs a medication similar to spironolactone but with less gynecomastia risk. Which drug is preferred?",
+    "choices": ["Eplerenone", "Hydrochlorothiazide", "Amlodipine", "Nitroglycerin"],
+    "answerIndex": 0,
+    "explanation": "Eplerenone is a more selective mineralocorticoid receptor antagonist and has fewer antiandrogen adverse effects than spironolactone.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0007",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with asthma has tremor and palpitations from frequent albuterol use. Which cardiovascular drug class can worsen asthma symptoms by blocking beta-2 receptors?",
+    "choices": ["Nonselective beta blockers", "ACE inhibitors", "Thiazide diuretics", "Dihydropyridine calcium channel blockers"],
+    "answerIndex": 0,
+    "explanation": "Nonselective beta blockers (e.g., propranolol) block beta-2 receptors and can precipitate bronchospasm in asthma.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0008",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with diabetes has episodes of hypoglycemia but notices fewer warning symptoms after starting metoprolol. Why?",
+    "choices": ["Beta blockers can mask adrenergic hypoglycemia symptoms", "Beta blockers increase insulin release", "Beta blockers prevent glucose absorption in the gut", "Beta blockers directly cause ketoacidosis"],
+    "answerIndex": 0,
+    "explanation": "Beta blockers can blunt adrenergic warning signs (tremor, palpitations), making hypoglycemia harder to recognize.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0009",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "Which beta blocker has both beta-blocking and alpha-1 blocking activity and is commonly used in HFrEF to improve survival?",
+    "choices": ["Carvedilol", "Atenolol", "Propranolol", "Sotalol"],
+    "answerIndex": 0,
+    "explanation": "Carvedilol blocks beta receptors and alpha-1 receptors and is an evidence-based beta blocker that improves survival in HFrEF.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0010",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on amlodipine develops ankle swelling. Which explanation is most accurate?",
+    "choices": ["Arteriolar dilation increases capillary hydrostatic pressure causing edema", "Venodilation reduces preload causing edema", "Amlodipine causes nephrotic syndrome", "Amlodipine increases aldosterone causing sodium loss"],
+    "answerIndex": 0,
+    "explanation": "Dihydropyridine CCBs dilate arterioles more than venules, raising capillary hydrostatic pressure and causing peripheral edema.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0011",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on verapamil reports constipation and has bradycardia on exam. What best explains verapamil’s primary cardiac effect?",
+    "choices": ["Blocks L-type calcium channels in the AV node, slowing conduction", "Blocks fast sodium channels in ventricles", "Activates beta-2 receptors in the heart", "Inhibits HMG-CoA reductase"],
+    "answerIndex": 0,
+    "explanation": "Non-dihydropyridine CCBs (verapamil/diltiazem) slow AV nodal conduction and can cause bradycardia; verapamil commonly causes constipation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0012",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with decompensated HFrEF is accidentally started on diltiazem and becomes more hypotensive with worsening pulmonary edema. Why is diltiazem problematic in HFrEF?",
+    "choices": ["Negative inotropy can worsen systolic heart failure", "It causes pulmonary surfactant inactivation", "It irreversibly inhibits COX-1", "It is a strong CYP inducer lowering diuretic levels"],
+    "answerIndex": 0,
+    "explanation": "Non-DHP calcium channel blockers can reduce contractility (negative inotropy) and worsen HFrEF.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0013",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient starts hydralazine for hypertension and develops tachycardia and fluid retention. Which additional therapy is often used to blunt these effects?",
+    "choices": ["A beta blocker and a diuretic", "A P2Y12 inhibitor", "A DPP-4 inhibitor", "A bisphosphonate"],
+    "answerIndex": 0,
+    "explanation": "Hydralazine can cause reflex tachycardia and fluid retention; combining with a beta blocker and diuretic helps mitigate these effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0014",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with severe refractory hypertension is started on minoxidil. Which notable adverse effect is most associated with this drug?",
+    "choices": ["Hypertrichosis", "Agranulocytosis", "Pulmonary fibrosis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Minoxidil is a potent arteriolar vasodilator that can cause hypertrichosis, reflex tachycardia, and fluid retention (often needs beta blocker + diuretic).",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0015",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient stops clonidine abruptly and develops severe headache and very high blood pressure. What is the best explanation?",
+    "choices": ["Rebound sympathetic outflow after alpha-2 agonist withdrawal", "Inhibition of prostaglandins causing afferent constriction", "Direct thrombin inhibition", "Glucagon deficiency causing catecholamine excess"],
+    "answerIndex": 0,
+    "explanation": "Clonidine decreases sympathetic outflow; abrupt withdrawal can cause rebound hypertension from sudden sympathetic activation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0016",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient on nitroprusside for hypertensive emergency develops confusion and severe metabolic acidosis. Which toxicity is most likely?",
+    "choices": ["Cyanide toxicity", "Serotonin syndrome", "Methemoglobinemia", "TCA toxicity"],
+    "answerIndex": 0,
+    "explanation": "Nitroprusside can cause cyanide toxicity, presenting with altered mental status and metabolic acidosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0017",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A patient taking long-acting nitrates for angina needs a strategy to prevent tolerance. What is best?",
+    "choices": ["Provide a daily nitrate-free interval", "Increase the dose every day", "Add a sulfonylurea", "Stop all beta blockers"],
+    "answerIndex": 0,
+    "explanation": "A nitrate-free interval (often overnight) helps prevent nitrate tolerance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0018",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with chronic angina and low resting heart rate needs an antianginal with minimal effect on HR/BP. Which medication fits best and what key ECG risk must be considered?",
+    "choices": ["Ranolazine; QT prolongation", "Metoprolol; QT prolongation", "Amlodipine; torsades prevention", "Aspirin; QT prolongation"],
+    "answerIndex": 0,
+    "explanation": "Ranolazine can reduce angina with minimal HR/BP change but can prolong the QT interval.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0019",
+    "category": "Lipids",
+    "difficulty": "Medium",
+    "stem": "A patient on atorvastatin develops muscle pain and dark urine after starting gemfibrozil. What is the most concerning complication?",
+    "choices": ["Rhabdomyolysis", "Optic neuritis", "Hemorrhagic cystitis", "Gray baby syndrome"],
+    "answerIndex": 0,
+    "explanation": "Statins plus fibrates (especially gemfibrozil) increase risk of severe myopathy/rhabdomyolysis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0020",
+    "category": "Lipids",
+    "difficulty": "Easy",
+    "stem": "A patient with very high LDL despite maximally tolerated statin is started on alirocumab. PCSK9 inhibitors lower LDL primarily by:",
+    "choices": ["Increasing LDL receptor recycling and hepatic LDL clearance", "Blocking intestinal cholesterol absorption", "Inhibiting HMG-CoA reductase", "Activating PPAR-alpha to lower triglycerides"],
+    "answerIndex": 0,
+    "explanation": "PCSK9 inhibitors prevent LDL receptor degradation, increasing receptor recycling and LDL clearance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0021",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Easy",
+    "stem": "Unfractionated heparin works primarily by:",
+    "choices": ["Activating antithrombin to inhibit thrombin and factor Xa", "Inhibiting vitamin K epoxide reductase", "Directly inhibiting factor Xa without antithrombin", "Irreversibly inhibiting P2Y12 receptors"],
+    "answerIndex": 0,
+    "explanation": "Heparin potentiates antithrombin, inhibiting thrombin (IIa) and factor Xa (and others).",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0022",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "Low-molecular-weight heparin (e.g., enoxaparin) differs from unfractionated heparin because it:",
+    "choices": ["Preferentially inhibits factor Xa and has lower HIT risk", "Is monitored with INR", "Is reversed with vitamin K", "Is a direct thrombin inhibitor"],
+    "answerIndex": 0,
+    "explanation": "LMWH primarily inhibits factor Xa and has a lower risk of HIT than unfractionated heparin; monitoring is less frequent in many settings.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0023",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Hard",
+    "stem": "A patient on heparin develops a platelet drop >50% and a new DVT. What is the best next anticoagulant choice?",
+    "choices": ["Argatroban", "Warfarin immediately as monotherapy", "Vitamin K", "Protamine sulfate then stop all anticoagulation permanently"],
+    "answerIndex": 0,
+    "explanation": "Heparin-induced thrombocytopenia is prothrombotic; stop heparin and start a non-heparin anticoagulant such as argatroban (a direct thrombin inhibitor).",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0024",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient with acute DVT is started on warfarin. Why is bridging with a fast-acting anticoagulant often needed initially?",
+    "choices": ["Warfarin initially lowers protein C/S creating a transient hypercoagulable state", "Warfarin immediately dissolves clots and must be slowed", "Warfarin only inhibits platelets and needs heparin for RBCs", "Warfarin causes immediate cyanide toxicity without bridging"],
+    "answerIndex": 0,
+    "explanation": "Warfarin decreases protein C and S early (short half-lives), potentially creating a transient hypercoagulable state before full factor II/X reduction occurs.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0025",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Easy",
+    "stem": "Warfarin’s anticoagulant effect is monitored using:",
+    "choices": ["INR (PT)", "aPTT", "Bleeding time", "D-dimer"],
+    "answerIndex": 0,
+    "explanation": "Warfarin prolongs PT/INR by inhibiting vitamin K–dependent factor activation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0026",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient on warfarin starts amiodarone and the INR rises significantly. What is the best explanation?",
+    "choices": ["Amiodarone inhibits warfarin metabolism, increasing INR", "Amiodarone induces warfarin metabolism, decreasing INR", "Amiodarone neutralizes vitamin K directly", "Amiodarone is a direct reversal agent for warfarin"],
+    "answerIndex": 0,
+    "explanation": "Amiodarone inhibits CYP metabolism of warfarin, raising warfarin levels and increasing INR/bleeding risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0027",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Easy",
+    "stem": "Which oral anticoagulant is a direct thrombin (factor IIa) inhibitor?",
+    "choices": ["Dabigatran", "Apixaban", "Rivaroxaban", "Warfarin"],
+    "answerIndex": 0,
+    "explanation": "Dabigatran directly inhibits thrombin; apixaban and rivaroxaban inhibit factor Xa; warfarin inhibits vitamin K epoxide reductase.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0028",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient on ticagrelor after stent placement complains of shortness of breath, but lungs are clear and oxygenation is normal. Which drug adverse effect is most likely?",
+    "choices": ["Ticagrelor-associated dyspnea", "Pulmonary fibrosis", "Cyanide toxicity", "Methemoglobinemia"],
+    "answerIndex": 0,
+    "explanation": "Ticagrelor can cause dyspnea in some patients; it is not a prodrug and is reversible compared with clopidogrel.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0029",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "A patient receives abciximab during PCI. Which mechanism best describes abciximab?",
+    "choices": ["Blocks platelet GPIIb/IIIa receptor to prevent fibrinogen binding", "Irreversibly blocks P2Y12 receptors", "Inhibits vitamin K epoxide reductase", "Directly inhibits thrombin"],
+    "answerIndex": 0,
+    "explanation": "GPIIb/IIIa inhibitors (e.g., abciximab) prevent fibrinogen cross-linking of platelets, strongly reducing aggregation; bleeding is a major risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0030",
+    "category": "Hematology/Anticoag",
+    "difficulty": "Medium",
+    "stem": "Alteplase increases fibrinolysis by:",
+    "choices": ["Converting plasminogen to plasmin", "Blocking thromboxane A2 synthesis", "Directly inhibiting factor Xa", "Activating antithrombin"],
+    "answerIndex": 0,
+    "explanation": "Alteplase (tPA) converts plasminogen to plasmin, which breaks down fibrin clots; bleeding is the main risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0031",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Which medication is typically first-line for type 2 diabetes due to efficacy, low hypoglycemia risk, and potential weight neutrality?",
+    "choices": ["Metformin", "Glyburide", "NPH insulin", "Pioglitazone"],
+    "answerIndex": 0,
+    "explanation": "Metformin is commonly first-line for type 2 diabetes and generally does not cause hypoglycemia when used alone.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0032",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Metformin should be used cautiously or avoided in severe kidney dysfunction primarily due to risk of:",
+    "choices": ["Lactic acidosis", "Tendon rupture", "Pulmonary fibrosis", "Ototoxicity"],
+    "answerIndex": 0,
+    "explanation": "Metformin can rarely cause lactic acidosis, with higher risk when renal clearance is significantly reduced.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0033",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Long-term metformin use can contribute to which deficiency?",
+    "choices": ["Vitamin B12", "Vitamin C", "Vitamin K", "Folate always (universal)"],
+    "answerIndex": 0,
+    "explanation": "Metformin can reduce vitamin B12 absorption over time; consider monitoring in symptomatic patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0034",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "A patient on glipizide has shakiness and sweating several hours after missing lunch. Which adverse effect is most likely?",
+    "choices": ["Hypoglycemia", "Pulmonary fibrosis", "Cyanide toxicity", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Sulfonylureas increase insulin secretion and can cause hypoglycemia, especially with missed meals or renal impairment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0035",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Which sulfonylurea is generally avoided in older adults due to higher risk of prolonged hypoglycemia?",
+    "choices": ["Glyburide", "Glipizide", "Metformin", "Sitagliptin"],
+    "answerIndex": 0,
+    "explanation": "Glyburide has active metabolites and is associated with prolonged hypoglycemia risk, especially in older adults or renal impairment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0036",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with obesity and type 2 diabetes wants a medication likely to promote weight loss and improve glycemic control. Which class fits best?",
+    "choices": ["GLP-1 receptor agonists", "Sulfonylureas", "Thiazolidinediones", "Meglitinides"],
+    "answerIndex": 0,
+    "explanation": "GLP-1 receptor agonists can promote weight loss by slowing gastric emptying and increasing satiety while improving glucose control.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0037",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "Which patient should generally avoid GLP-1 receptor agonists due to a key warning/contraindication?",
+    "choices": ["Patient with history of medullary thyroid carcinoma or MEN2", "Patient with seasonal allergic rhinitis", "Patient with mild osteoarthritis", "Patient with controlled hypothyroidism on levothyroxine"],
+    "answerIndex": 0,
+    "explanation": "GLP-1 receptor agonists have a warning/contraindication related to medullary thyroid carcinoma and MEN2.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0038",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A diabetes medication causes recurrent genital yeast infections and increased urination. Which mechanism best explains this?",
+    "choices": ["Increased urinary glucose excretion via SGLT2 blockade", "Increased insulin secretion by closing KATP channels", "Decreased carbohydrate absorption by alpha-glucosidase inhibition", "Increased insulin sensitivity via PPAR-gamma activation"],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors cause glycosuria, which predisposes to genital mycotic infections and osmotic diuresis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0039",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient on an SGLT2 inhibitor presents with nausea and high anion gap metabolic acidosis, but glucose is only 165 mg/dL. What is the most likely diagnosis?",
+    "choices": ["Euglycemic diabetic ketoacidosis", "Hyperosmolar hyperglycemic state", "Metformin-associated hypoglycemia", "Serotonin syndrome"],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors can precipitate euglycemic DKA, especially during fasting, illness, or perioperative periods.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0040",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient starts pioglitazone and develops weight gain and ankle edema. This is most consistent with:",
+    "choices": ["Thiazolidinedione adverse effects", "DPP-4 inhibitor adverse effects", "Alpha-glucosidase inhibitor adverse effects", "GLP-1 agonist adverse effects"],
+    "answerIndex": 0,
+    "explanation": "TZDs (pioglitazone) increase insulin sensitivity via PPAR-gamma but can cause weight gain, edema, and worsen heart failure.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0041",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient takes acarbose and complains of gas and diarrhea. What is acarbose’s mechanism?",
+    "choices": ["Inhibits intestinal alpha-glucosidases to reduce carbohydrate absorption", "Blocks SGLT2 to cause glycosuria", "Closes beta-cell KATP channels", "Activates PPAR-gamma"],
+    "answerIndex": 0,
+    "explanation": "Acarbose delays carbohydrate absorption, causing GI side effects from fermentation of undigested carbs.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0042",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient on acarbose plus insulin becomes hypoglycemic. Which is the best treatment choice?",
+    "choices": ["Glucose (dextrose) tablets/gel", "Sucrose (table sugar)", "High-fiber cereal only", "Stop all insulin permanently"],
+    "answerIndex": 0,
+    "explanation": "Acarbose blocks breakdown of complex carbs/disaccharides; treat hypoglycemia with glucose (dextrose), not sucrose.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0043",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Which insulin is rapid-acting and typically used for mealtime coverage?",
+    "choices": ["Insulin lispro", "Insulin glargine", "NPH insulin", "Insulin detemir only as IV infusion"],
+    "answerIndex": 0,
+    "explanation": "Lispro (and aspart/glulisine) are rapid-acting mealtime insulins.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0044",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "Which insulin is long-acting and used as basal coverage with relatively flat activity?",
+    "choices": ["Insulin glargine", "Regular insulin", "Insulin lispro", "NPH insulin"],
+    "answerIndex": 0,
+    "explanation": "Insulin glargine is a long-acting basal insulin with relatively flat activity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0045",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with severe hypoglycemia is unconscious and cannot swallow. Which medication can be given to raise blood glucose without IV access?",
+    "choices": ["Glucagon", "Metformin", "Acarbose", "Pioglitazone"],
+    "answerIndex": 0,
+    "explanation": "Glucagon stimulates hepatic glycogenolysis and gluconeogenesis; it is used for severe hypoglycemia when IV dextrose is not immediately available.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0046",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on levothyroxine is told to take it separately from calcium supplements. Why?",
+    "choices": ["Calcium can reduce levothyroxine absorption", "Calcium converts T4 to T3 too quickly", "Calcium increases levothyroxine toxicity by CYP inhibition", "Calcium blocks thyroid receptor binding permanently"],
+    "answerIndex": 0,
+    "explanation": "Calcium (and iron) can bind levothyroxine and reduce absorption; separate dosing improves consistent thyroid replacement.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0047",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on methimazole develops fever and sore throat. What serious adverse effect should be suspected?",
+    "choices": ["Agranulocytosis", "Pulmonary fibrosis", "Hemorrhagic cystitis", "Ototoxicity"],
+    "answerIndex": 0,
+    "explanation": "Thionamides (methimazole, PTU) can cause agranulocytosis; fever/sore throat warrants urgent evaluation (CBC).",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0048",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Why are chronic systemic corticosteroids tapered rather than stopped abruptly?",
+    "choices": ["To prevent adrenal crisis from HPA axis suppression", "To prevent optic neuritis", "To prevent cyanide toxicity", "To prevent irreversible platelet inhibition"],
+    "answerIndex": 0,
+    "explanation": "Long-term glucocorticoids suppress the HPA axis; abrupt cessation can cause adrenal insufficiency/adrenal crisis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0049",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with primary adrenal insufficiency needs mineralocorticoid replacement. Which drug provides this?",
+    "choices": ["Fludrocortisone", "Dexamethasone", "Methimazole", "Metformin"],
+    "answerIndex": 0,
+    "explanation": "Fludrocortisone has strong mineralocorticoid activity and is used to replace aldosterone in primary adrenal insufficiency.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0050",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Desmopressin treats central diabetes insipidus but can cause which dangerous adverse effect if water intake is not managed?",
+    "choices": ["Hyponatremia", "Hyperkalemia", "Methemoglobinemia", "Pulmonary fibrosis"],
+    "answerIndex": 0,
+    "explanation": "Desmopressin increases free water reabsorption via V2 receptors and can cause water retention and hyponatremia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0051",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient with infectious mononucleosis (EBV) is mistakenly given amoxicillin and develops a diffuse maculopapular rash. What is the best interpretation?",
+    "choices": ["A common EBV-associated rash with aminopenicillins (not necessarily true IgE allergy)", "Classic Stevens-Johnson syndrome", "C. difficile colitis", "Red man syndrome"],
+    "answerIndex": 0,
+    "explanation": "Aminopenicillins can cause a diffuse rash in EBV infection; this is not always a true IgE-mediated penicillin allergy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0052",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Which antibiotic is commonly first-line for streptococcal pharyngitis in patients without penicillin allergy?",
+    "choices": ["Penicillin V or amoxicillin", "Azithromycin", "Vancomycin", "Ciprofloxacin"],
+    "answerIndex": 0,
+    "explanation": "Penicillin-class therapy (penicillin V or amoxicillin) is common first-line for group A strep pharyngitis when no allergy is present.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0053",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A newborn with jaundice is considered for ceftriaxone. Why is ceftriaxone used cautiously/avoided in some neonates?",
+    "choices": ["It can displace bilirubin from albumin, increasing kernicterus risk", "It causes tendon rupture", "It is inactivated by surfactant", "It irreversibly blocks COX-1"],
+    "answerIndex": 0,
+    "explanation": "Ceftriaxone can displace bilirubin from albumin in neonates, potentially increasing kernicterus risk; practice depends on age and clinical context.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0054",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Which antibiotic is commonly used for uncomplicated gonorrhea (often as a single IM dose)?",
+    "choices": ["Ceftriaxone", "Amoxicillin", "Doxycycline", "Trimethoprim-sulfamethoxazole"],
+    "answerIndex": 0,
+    "explanation": "Ceftriaxone is commonly used for gonorrhea treatment based on current guidelines and local resistance patterns.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0055",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Azithromycin is often used for atypical respiratory pathogens. Which notable adverse effect should be considered?",
+    "choices": ["QT prolongation", "Severe ototoxicity in all patients", "Hemorrhagic cystitis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Macrolides (including azithromycin) can prolong the QT interval and increase arrhythmia risk in susceptible patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0056",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Doxycycline should generally be avoided in pregnancy and young children primarily due to risk of:",
+    "choices": ["Tooth discoloration and impaired bone growth", "Cyanide toxicity", "Agranulocytosis", "Severe hyperkalemia"],
+    "answerIndex": 0,
+    "explanation": "Tetracyclines can deposit in teeth and bones, causing tooth discoloration and affecting bone growth in developing patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0057",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient on TMP-SMX develops anemia and jaundice after starting therapy; they have G6PD deficiency. What is the likely mechanism?",
+    "choices": ["Oxidative hemolysis", "Direct thrombin inhibition", "Pulmonary surfactant inactivation", "COX-2 inhibition"],
+    "answerIndex": 0,
+    "explanation": "Sulfonamides can trigger oxidative hemolysis in patients with G6PD deficiency.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0058",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Nitrofurantoin is appropriate for uncomplicated cystitis but not pyelonephritis mainly because:",
+    "choices": ["It does not achieve adequate renal tissue levels", "It has no activity against any urinary pathogens", "It is inactivated by gastric acid", "It irreversibly blocks COX-1"],
+    "answerIndex": 0,
+    "explanation": "Nitrofurantoin concentrates in urine but has poor tissue penetration, so it is not used for pyelonephritis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0059",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "A patient on long-term nitrofurantoin prophylaxis develops chronic cough and dyspnea with interstitial changes on imaging. Which complication is most likely?",
+    "choices": ["Pulmonary toxicity (interstitial pneumonitis/fibrosis)", "Ototoxicity", "Optic neuritis", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Nitrofurantoin can rarely cause pulmonary toxicity, especially with prolonged use.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0060",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Fluoroquinolones are commonly avoided in pregnancy and children primarily because of concern for:",
+    "choices": ["Cartilage/tendon toxicity", "Severe neutropenia in all patients", "Cyanide toxicity", "Pulmonary surfactant inactivation"],
+    "answerIndex": 0,
+    "explanation": "Fluoroquinolones can cause tendinopathy and have concerns regarding cartilage effects in developing patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0061",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Metronidazole is commonly used to treat infections caused by:",
+    "choices": ["Anaerobes and certain protozoa", "Only aerobic gram-positive cocci", "Only atypical intracellular bacteria", "Fungal dermatophytes"],
+    "answerIndex": 0,
+    "explanation": "Metronidazole is active against anaerobes and protozoa (e.g., Trichomonas, Giardia) and is used for bacterial vaginosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0062",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "A patient develops severe diarrhea after clindamycin therapy. What complication is most concerning?",
+    "choices": ["C. difficile colitis", "Serotonin syndrome", "Methemoglobinemia", "Nephrolithiasis"],
+    "answerIndex": 0,
+    "explanation": "Clindamycin is a classic trigger for C. difficile infection and pseudomembranous colitis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0063",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Vancomycin can cause flushing and pruritus during infusion. Best management is:",
+    "choices": ["Slow infusion rate and consider antihistamine", "Permanently avoid vancomycin due to IgE allergy", "Add probenecid", "Switch to a fluoroquinolone immediately"],
+    "answerIndex": 0,
+    "explanation": "Red man syndrome is an infusion-related histamine release reaction; slowing infusion and antihistamines typically help.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0064",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "A patient on linezolid for pneumonia is also taking sertraline and develops agitation, hyperreflexia, and diarrhea. What is the likely diagnosis?",
+    "choices": ["Serotonin syndrome", "Neuroleptic malignant syndrome", "TCA toxicity", "Cholinergic crisis"],
+    "answerIndex": 0,
+    "explanation": "Linezolid has MAOI activity and can precipitate serotonin syndrome when combined with serotonergic medications like SSRIs.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0065",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Aminoglycosides are most classically associated with which toxicity?",
+    "choices": ["Nephrotoxicity and ototoxicity", "Pulmonary fibrosis", "Optic neuritis", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Aminoglycosides can cause nephrotoxicity and ototoxicity; risk rises with prolonged/high dosing.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0066",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Beta-lactam antibiotics kill bacteria primarily by:",
+    "choices": ["Inhibiting peptidoglycan cross-linking (cell wall synthesis)", "Blocking DNA gyrase", "Binding 50S to block translocation", "Inhibiting dihydrofolate reductase"],
+    "answerIndex": 0,
+    "explanation": "Beta-lactams bind PBPs (transpeptidases) and prevent peptidoglycan cross-linking, weakening the cell wall.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0067",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Which antibiotic combination includes a beta-lactam plus beta-lactamase inhibitor and provides Pseudomonas coverage?",
+    "choices": ["Piperacillin-tazobactam", "Amoxicillin-clavulanate only for strep throat", "Cefazolin alone", "Nitrofurantoin alone"],
+    "answerIndex": 0,
+    "explanation": "Piperacillin-tazobactam provides broad coverage including Pseudomonas and anaerobes in many settings.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0068",
+    "category": "Antibiotics",
+    "difficulty": "Hard",
+    "stem": "A hospitalized patient on imipenem develops a seizure. What is the best explanation?",
+    "choices": ["Carbapenems can lower seizure threshold, especially imipenem", "Carbapenems are MAO inhibitors causing serotonin syndrome", "Carbapenems are inactivated by surfactant", "Carbapenems directly cause hemolysis in all patients"],
+    "answerIndex": 0,
+    "explanation": "Imipenem is associated with seizure risk, especially in renal impairment or CNS disease; carbapenems are broad-spectrum beta-lactams.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0069",
+    "category": "Antibiotics",
+    "difficulty": "Medium",
+    "stem": "Aztreonam is most useful for patients with severe penicillin allergy because it:",
+    "choices": ["Has minimal cross-reactivity and covers gram-negative organisms including Pseudomonas", "Is the best drug for anaerobic infections", "Is first-line for MRSA pneumonia", "Is inactivated by renal enzymes"],
+    "answerIndex": 0,
+    "explanation": "Aztreonam (monobactam) covers aerobic gram-negative bacteria including Pseudomonas and has minimal penicillin cross-reactivity.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0070",
+    "category": "Antibiotics",
+    "difficulty": "Easy",
+    "stem": "Rifampin is a cornerstone TB drug and is notable for which effect?",
+    "choices": ["Strong CYP450 induction and orange body fluids", "Severe red man syndrome", "Optic neuritis", "Inactivation by pulmonary surfactant"],
+    "answerIndex": 0,
+    "explanation": "Rifampin strongly induces CYP enzymes (many drug interactions) and causes orange discoloration of body fluids.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0071",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "Which medication is the classic rescue inhaler for acute asthma symptoms?",
+    "choices": ["Albuterol", "Fluticasone", "Salmeterol", "Montelukast"],
+    "answerIndex": 0,
+    "explanation": "Albuterol is a short-acting beta-2 agonist used for rapid bronchodilation during acute bronchospasm.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0072",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "A patient using inhaled fluticasone develops oral thrush. Which counseling helps prevent this?",
+    "choices": ["Rinse mouth after inhalation and consider a spacer", "Take with alcohol", "Avoid water after dosing", "Take with grapefruit juice"],
+    "answerIndex": 0,
+    "explanation": "Rinsing the mouth and using a spacer reduce local steroid deposition and lower thrush/dysphonia risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0073",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Why should LABA therapy (e.g., salmeterol) not be used as monotherapy in asthma?",
+    "choices": ["LABA monotherapy increases risk of severe asthma exacerbations; it should be paired with an inhaled corticosteroid", "LABAs cause universal cyanide toxicity", "LABAs inactivate surfactant", "LABAs irreversibly block COX-1"],
+    "answerIndex": 0,
+    "explanation": "LABAs should be combined with inhaled corticosteroids in asthma to reduce exacerbation risk; monotherapy is not recommended.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0074",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Which COPD maintenance inhaler class commonly causes dry mouth and urinary retention?",
+    "choices": ["LAMA (e.g., tiotropium)", "SABA (e.g., albuterol)", "Inhaled corticosteroids", "Leukotriene receptor antagonists"],
+    "answerIndex": 0,
+    "explanation": "Long-acting muscarinic antagonists have anticholinergic side effects such as dry mouth and urinary retention.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0075",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Montelukast is used for asthma/allergic rhinitis. Which important warning should be discussed?",
+    "choices": ["Neuropsychiatric side effects (mood changes, suicidality)", "Severe irreversible ototoxicity", "Cyanide toxicity", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Montelukast has been associated with neuropsychiatric adverse effects; counseling is recommended.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0076",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient with asthma exacerbation is treated with systemic steroids. What is the main benefit of steroids in this setting?",
+    "choices": ["Reduce airway inflammation and relapse risk", "Provide immediate bronchodilation within seconds", "Dissolve mucus plugs by breaking disulfide bonds", "Block leukotriene receptors irreversibly"],
+    "answerIndex": 0,
+    "explanation": "Systemic steroids reduce inflammation and prevent relapse but do not provide immediate bronchodilation like SABAs.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0077",
+    "category": "Respiratory",
+    "difficulty": "Hard",
+    "stem": "A patient on theophylline develops nausea and an arrhythmia after starting cimetidine. Why?",
+    "choices": ["Cimetidine inhibits theophylline metabolism, raising levels (narrow therapeutic index)", "Cimetidine induces theophylline metabolism, lowering levels", "Cimetidine is a direct bronchodilator causing overdose", "Cimetidine blocks surfactant causing respiratory failure"],
+    "answerIndex": 0,
+    "explanation": "Theophylline has a narrow therapeutic index and is increased by CYP inhibitors like cimetidine, raising toxicity risk (arrhythmias, seizures).",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0078",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "Omalizumab is used for severe allergic asthma by targeting:",
+    "choices": ["IgE", "IL-5 receptor", "TSLP", "COX-2"],
+    "answerIndex": 0,
+    "explanation": "Omalizumab is an anti-IgE monoclonal antibody used in allergic asthma; anaphylaxis is a rare risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0079",
+    "category": "Respiratory",
+    "difficulty": "Easy",
+    "stem": "What medication is first-line for anaphylaxis with wheezing and hypotension?",
+    "choices": ["IM epinephrine", "Diphenhydramine alone", "Albuterol alone", "Oral prednisone alone"],
+    "answerIndex": 0,
+    "explanation": "Intramuscular epinephrine is first-line for anaphylaxis; adjuncts do not replace epinephrine.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0080",
+    "category": "Respiratory",
+    "difficulty": "Medium",
+    "stem": "A patient with COPD exacerbation receives nebulized albuterol and ipratropium. What is ipratropium’s mechanism?",
+    "choices": ["Muscarinic (M3) antagonism causing bronchodilation", "Beta-2 agonism increasing cAMP", "Leukotriene receptor blockade", "Inhibition of HMG-CoA reductase"],
+    "answerIndex": 0,
+    "explanation": "Ipratropium is a short-acting antimuscarinic that produces bronchodilation via muscarinic receptor blockade.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0081",
+    "category": "GI",
+    "difficulty": "Easy",
+    "stem": "Proton pump inhibitors reduce gastric acid secretion by:",
+    "choices": ["Irreversibly inhibiting the H+/K+ ATPase in parietal cells", "Blocking H1 receptors", "Activating prostaglandin receptors", "Inhibiting alpha-glucosidase"],
+    "answerIndex": 0,
+    "explanation": "PPIs irreversibly inhibit the gastric proton pump (H+/K+ ATPase), producing strong acid suppression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0082",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Long-term PPI therapy is associated with increased risk of which complication?",
+    "choices": ["C. difficile infection", "Ototoxicity", "Hemorrhagic cystitis", "Optic neuritis"],
+    "answerIndex": 0,
+    "explanation": "Chronic acid suppression can increase C. difficile risk; other concerns include hypomagnesemia and fracture risk in some settings.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0083",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Cimetidine is less commonly used than other H2 blockers mainly because it can:",
+    "choices": ["Inhibit CYP450 and cause gynecomastia", "Cause irreversible platelet inhibition", "Directly cause cyanide toxicity", "Inactivate pulmonary surfactant"],
+    "answerIndex": 0,
+    "explanation": "Cimetidine inhibits multiple CYP enzymes and has antiandrogen effects (gynecomastia), leading to interactions and adverse effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0084",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Sucralfate helps heal duodenal ulcers primarily by:",
+    "choices": ["Forming a protective barrier over ulcerated mucosa", "Irreversibly inhibiting the proton pump", "Blocking serotonin receptors in the gut", "Directly inhibiting H. pylori DNA gyrase"],
+    "answerIndex": 0,
+    "explanation": "Sucralfate polymerizes in acidic environments and forms a protective barrier over ulcers; it can impair absorption of other meds.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0085",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Ondansetron treats nausea/vomiting primarily by blocking:",
+    "choices": ["5-HT3 receptors", "D2 receptors", "H1 receptors", "Muscarinic receptors"],
+    "answerIndex": 0,
+    "explanation": "Ondansetron is a 5-HT3 antagonist commonly used for nausea; it can prolong QT in susceptible patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0086",
+    "category": "GI",
+    "difficulty": "Hard",
+    "stem": "A patient taking metoclopramide for gastroparesis develops involuntary muscle contractions and restlessness. What is the mechanism behind this adverse effect?",
+    "choices": ["D2 receptor antagonism causing extrapyramidal symptoms", "COX inhibition causing bronchospasm", "Beta-2 agonism causing tremor", "Direct thrombin inhibition causing bleeding"],
+    "answerIndex": 0,
+    "explanation": "Metoclopramide blocks D2 receptors and can cause EPS and tardive dyskinesia risk, especially with prolonged use.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0087",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Loperamide reduces diarrhea primarily by:",
+    "choices": ["Activating peripheral mu-opioid receptors to slow gut motility", "Blocking 5-HT3 receptors", "Inhibiting alpha-glucosidase", "Activating beta-2 receptors"],
+    "answerIndex": 0,
+    "explanation": "Loperamide is a peripheral opioid agonist that slows intestinal motility with minimal CNS effects at usual doses.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0088",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "A patient with cirrhosis has confusion from hepatic encephalopathy. Lactulose helps primarily by:",
+    "choices": ["Trapping ammonia in the gut and increasing excretion", "Directly inhibiting gastric proton pumps", "Blocking dopamine receptors in the CNS", "Activating LDL receptor recycling"],
+    "answerIndex": 0,
+    "explanation": "Lactulose acidifies the colon, converting NH3 to NH4+ and increasing fecal excretion of ammonia; it also acts as an osmotic laxative.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0089",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Bismuth subsalicylate can cause black tongue and black stools. It should be avoided in children with viral illness primarily due to risk of:",
+    "choices": ["Reye syndrome (salicylate exposure)", "Agranulocytosis", "Pulmonary fibrosis", "Ototoxicity"],
+    "answerIndex": 0,
+    "explanation": "Bismuth subsalicylate contains a salicylate component; salicylates are avoided in children with viral illness due to Reye syndrome risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0090",
+    "category": "GI",
+    "difficulty": "Medium",
+    "stem": "Misoprostol can prevent NSAID-induced ulcers but is contraindicated in pregnancy mainly because it:",
+    "choices": ["Causes uterine contractions", "Causes irreversible platelet inhibition", "Blocks LDL receptor recycling", "Inactivates pulmonary surfactant"],
+    "answerIndex": 0,
+    "explanation": "Misoprostol is a prostaglandin analog that protects the gastric mucosa but can cause uterine contractions and miscarriage.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0091",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "A patient taking sertraline reports decreased libido and delayed orgasm. This is a common adverse effect of:",
+    "choices": ["SSRIs", "NSAIDs", "Beta blockers only", "Loop diuretics"],
+    "answerIndex": 0,
+    "explanation": "SSRIs commonly cause sexual dysfunction, along with GI upset and possible insomnia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0092",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Duloxetine can be used for depression and neuropathic pain. It works primarily by:",
+    "choices": ["Inhibiting serotonin and norepinephrine reuptake (SNRI)", "Blocking dopamine D2 receptors", "Irreversibly inhibiting COX-1", "Blocking P2Y12 receptors"],
+    "answerIndex": 0,
+    "explanation": "Duloxetine is an SNRI used for depression/anxiety and neuropathic pain; it can raise blood pressure and cause withdrawal symptoms if stopped abruptly.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0093",
+    "category": "Neuro/Psych",
+    "difficulty": "Easy",
+    "stem": "Benzodiazepines enhance GABA-A receptor function by increasing:",
+    "choices": ["Frequency of chloride channel opening", "Duration of chloride channel opening", "Dopamine release from presynaptic terminals", "NMDA receptor activation"],
+    "answerIndex": 0,
+    "explanation": "Benzodiazepines increase the frequency of GABA-A chloride channel opening; barbiturates increase the duration.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0094",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Flumazenil reverses benzodiazepine sedation by:",
+    "choices": ["Antagonizing the benzodiazepine binding site on GABA-A receptors", "Blocking opioid receptors", "Chelating toxic metabolites", "Inhibiting CYP2E1"],
+    "answerIndex": 0,
+    "explanation": "Flumazenil competitively antagonizes the benzodiazepine site on GABA-A receptors; it can precipitate seizures in dependent patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0095",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "A patient develops acute torticollis and oculogyric crisis after haloperidol. Which medication treats this adverse effect?",
+    "choices": ["Benztropine", "Naloxone", "Vitamin K", "N-acetylcysteine"],
+    "answerIndex": 0,
+    "explanation": "Acute dystonia is an EPS from D2 blockade; treat with anticholinergics (benztropine) or diphenhydramine.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0096",
+    "category": "Neuro/Psych",
+    "difficulty": "Medium",
+    "stem": "Olanzapine is associated with which common long-term adverse effect pattern?",
+    "choices": ["Weight gain and metabolic syndrome", "Severe ototoxicity", "Pulmonary fibrosis", "Hemorrhagic cystitis"],
+    "answerIndex": 0,
+    "explanation": "Many atypical antipsychotics (especially olanzapine) can cause weight gain, hyperlipidemia, and insulin resistance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0097",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "Acetaminophen overdose causes hepatotoxicity via the toxic metabolite NAPQI. Which antidote replenishes glutathione and prevents liver injury?",
+    "choices": ["N-acetylcysteine", "Naloxone", "Protamine sulfate", "Idarucizumab"],
+    "answerIndex": 0,
+    "explanation": "N-acetylcysteine replenishes glutathione and detoxifies NAPQI, reducing hepatic injury risk after acetaminophen overdose.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0098",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Medium",
+    "stem": "A patient with chronic NSAID use develops black stools and anemia. What mechanism most contributes to NSAID-induced GI bleeding?",
+    "choices": ["Reduced prostaglandin synthesis leading to decreased mucosal protection", "Direct activation of beta-2 receptors", "Inhibition of LDL receptor recycling", "Blocking serotonin reuptake"],
+    "answerIndex": 0,
+    "explanation": "NSAIDs inhibit COX enzymes, lowering protective prostaglandins in the gastric mucosa and increasing ulcer/bleeding risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0099",
+    "category": "Pain/Anesthesia",
+    "difficulty": "Easy",
+    "stem": "A patient is found unresponsive with pinpoint pupils and slow breathing after taking unknown pills. What is the most appropriate immediate medication?",
+    "choices": ["Naloxone", "Flumazenil", "Atropine", "Vitamin K"],
+    "answerIndex": 0,
+    "explanation": "This presentation is classic for opioid toxicity; naloxone rapidly reverses opioid-induced respiratory depression.",
+    "reference": ""
+  },
+  {
+    "id": "DCB9-0100",
+    "category": "Renal",
+    "difficulty": "Medium",
+    "stem": "A patient taking ibuprofen daily develops rising creatinine. NSAIDs can reduce GFR primarily by:",
+    "choices": ["Constriction of the afferent arteriole due to decreased prostaglandins", "Dilation of the efferent arteriole due to decreased angiotensin II", "Direct obstruction of tubules by drug crystals", "Increased aldosterone causing massive sodium loss"],
+    "answerIndex": 0,
+    "explanation": "NSAIDs decrease prostaglandin synthesis, leading to afferent arteriole constriction and decreased GFR—especially risky in CKD, CHF, dehydration, or ACEi/diuretic use.",
+    "reference": ""
+  }
 ]
 
