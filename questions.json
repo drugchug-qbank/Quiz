@@ -5149,5 +5149,1506 @@
     "explanation": "Primaquine is used to eradicate liver hypnozoites in P. vivax/ovale. It can cause hemolytic anemia in G6PD deficiency, so screening is required before use.",
     "reference": ""
   }
+,
+  {
+    "id": "DCB7-0001",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A 58-year-old with an inferior MI is hypotensive with clear lungs and elevated JVP, suggesting right ventricular infarct. Which medication should be avoided because it can precipitate severe hypotension by reducing preload?",
+    "choices": [
+      "Nitroglycerin",
+      "Aspirin",
+      "Heparin",
+      "Atorvastatin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nitrates reduce preload; in right ventricular infarct the patient is preload-dependent, so nitrates can cause profound hypotension.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0002",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with chronic stable angina has bradycardia and low blood pressure, limiting beta blockers and calcium channel blockers. Which antianginal can reduce angina frequency with minimal effect on heart rate and blood pressure?",
+    "choices": [
+      "Ranolazine",
+      "Metoprolol",
+      "Diltiazem",
+      "Isosorbide mononitrate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Ranolazine (late Na+ current inhibitor) improves angina with little effect on HR/BP; it can prolong QT.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0003",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A patient taking long-acting nitrates for angina reports the medication 'stopped working' after a few weeks. What strategy helps prevent nitrate tolerance?",
+    "choices": [
+      "Provide a daily nitrate-free interval",
+      "Increase the nitrate dose continuously",
+      "Add a thiazide diuretic",
+      "Take the nitrate with grapefruit juice"
+    ],
+    "answerIndex": 0,
+    "explanation": "Continuous nitrate exposure causes tolerance; a daily nitrate-free interval (often overnight) helps preserve efficacy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0004",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with HFrEF is started on a mineralocorticoid receptor antagonist but develops painful gynecomastia. Which alternative provides similar benefit with less antiandrogen effect?",
+    "choices": [
+      "Eplerenone",
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Amlodipine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Eplerenone is a more selective mineralocorticoid receptor antagonist and causes less gynecomastia than spironolactone.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0005",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with symptomatic HFrEF cannot tolerate ACE inhibitors/ARBs due to angioedema. Which regimen is an evidence-based alternative that can improve outcomes in HFrEF?",
+    "choices": [
+      "Hydralazine plus isosorbide dinitrate",
+      "Amlodipine plus hydrochlorothiazide",
+      "Verapamil plus digoxin",
+      "Clonidine plus minoxidil"
+    ],
+    "answerIndex": 0,
+    "explanation": "Hydralazine plus isosorbide dinitrate is an evidence-based option for HFrEF when RAAS inhibitors cannot be used and also has benefit in select populations.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0006",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient in cardiogenic shock needs an IV inotrope that increases cardiac contractility primarily via beta-1 receptor stimulation. Which medication fits best?",
+    "choices": [
+      "Dobutamine",
+      "Phenylephrine",
+      "Propranolol",
+      "Verapamil"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dobutamine is a beta-1 agonist inotrope used in cardiogenic shock; it can cause tachyarrhythmias and increased myocardial oxygen demand.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0007",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A pregnant patient with chronic hypertension is started on methyldopa and later develops fatigue and a positive direct Coombs test. What adverse effect is most consistent with methyldopa?",
+    "choices": [
+      "Hemolytic anemia",
+      "Pulmonary fibrosis",
+      "Tendon rupture",
+      "Agranulocytosis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Methyldopa can cause Coombs-positive hemolytic anemia (and also sedation and hyperprolactinemia).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0008",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A 32-year-old at 30 weeks gestation presents with severe-range blood pressures. Which IV medication is commonly used for acute blood pressure control in pregnancy?",
+    "choices": [
+      "Labetalol",
+      "Lisinopril",
+      "Losartan",
+      "Aliskiren"
+    ],
+    "answerIndex": 0,
+    "explanation": "IV labetalol (and IV hydralazine or oral nifedipine) are commonly used for acute severe hypertension in pregnancy; ACEi/ARBs are contraindicated.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0009",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with bilateral renal artery stenosis starts an ACE inhibitor and creatinine rises markedly. What explains this effect?",
+    "choices": [
+      "Efferent arteriole dilation lowers glomerular filtration pressure",
+      "Afferent arteriole constriction lowers prostaglandins",
+      "Direct tubular toxicity from crystals",
+      "Increased aldosterone causing sodium loss"
+    ],
+    "answerIndex": 0,
+    "explanation": "ACE inhibitors dilate the efferent arteriole; in bilateral renal artery stenosis the kidney relies on angiotensin II to maintain GFR, so ACEi/ARBs can cause a significant creatinine rise.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0010",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with beta blocker overdose has bradycardia and hypotension. Which medication can increase heart rate and contractility by raising intracellular cAMP independent of beta receptors?",
+    "choices": [
+      "Glucagon",
+      "Vitamin K",
+      "Protamine sulfate",
+      "Naloxone"
+    ],
+    "answerIndex": 0,
+    "explanation": "Glucagon increases cAMP in cardiac tissue and is used in severe beta blocker overdose (along with supportive measures).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0011",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with verapamil overdose has profound hypotension and bradycardia. In addition to IV fluids and calcium, which therapy can improve hemodynamics by promoting myocardial glucose uptake and inotropy?",
+    "choices": [
+      "High-dose insulin with dextrose (HIE therapy)",
+      "Idarucizumab",
+      "Andexanet alfa",
+      "Fomepizole"
+    ],
+    "answerIndex": 0,
+    "explanation": "High-dose insulin euglycemia therapy (insulin + dextrose) can improve contractility in severe calcium channel blocker toxicity; close glucose and potassium monitoring are required.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0012",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with a mechanical mitral valve needs long-term anticoagulation. Which agent is recommended?",
+    "choices": [
+      "Warfarin",
+      "Apixaban",
+      "Rivaroxaban",
+      "Dabigatran"
+    ],
+    "answerIndex": 0,
+    "explanation": "Mechanical heart valves require warfarin anticoagulation; DOACs are not recommended for mechanical valves.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0013",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on apixaban has life-threatening bleeding. Which reversal agent is designed to reverse factor Xa inhibitors?",
+    "choices": [
+      "Andexanet alfa",
+      "Idarucizumab",
+      "Vitamin K",
+      "Protamine sulfate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Andexanet alfa is a reversal agent for factor Xa inhibitors (e.g., apixaban, rivaroxaban).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0014",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with a history of heparin-induced thrombocytopenia (HIT) needs parenteral anticoagulation. Which medication is a synthetic pentasaccharide that selectively inhibits factor Xa and has minimal HIT risk?",
+    "choices": [
+      "Fondaparinux",
+      "Unfractionated heparin",
+      "Enoxaparin",
+      "Warfarin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fondaparinux selectively inhibits factor Xa via antithrombin and is often used when HIT risk is a concern (institutional practices vary).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0015",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with a coronary stent is prescribed clopidogrel. Which concomitant medication may reduce clopidogrel activation and antiplatelet effect by inhibiting CYP2C19?",
+    "choices": [
+      "Omeprazole",
+      "Famotidine",
+      "Calcium carbonate",
+      "Sucralfate"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clopidogrel is a prodrug activated by CYP2C19; omeprazole can inhibit CYP2C19 and may reduce clopidogrel effectiveness.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0016",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with acute pericarditis is prescribed an add-on medication that reduces recurrence risk by inhibiting microtubule polymerization. Which drug is this?",
+    "choices": [
+      "Colchicine",
+      "Allopurinol",
+      "Methotrexate",
+      "Azathioprine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Colchicine disrupts microtubules and reduces pericarditis recurrence; diarrhea is a common adverse effect and interactions occur with strong CYP3A4/P-gp inhibitors.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0017",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on simvastatin is prescribed clarithromycin for pneumonia. What is the major concern with this combination?",
+    "choices": [
+      "Increased risk of statin myopathy/rhabdomyolysis",
+      "Severe hypoglycemia from insulin release",
+      "Immediate cyanide toxicity",
+      "Loss of warfarin effect due to CYP induction"
+    ],
+    "answerIndex": 0,
+    "explanation": "Clarithromycin inhibits CYP3A4 and can raise levels of statins metabolized by CYP3A4 (e.g., simvastatin), increasing myopathy/rhabdomyolysis risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0018",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with hyperlipidemia cannot tolerate statins due to muscle symptoms. Which oral drug lowers LDL by inhibiting ATP citrate lyase upstream of HMG-CoA reductase and may increase uric acid?",
+    "choices": [
+      "Bempedoic acid",
+      "Ezetimibe",
+      "Niacin",
+      "Gemfibrozil"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bempedoic acid inhibits ATP citrate lyase, lowering LDL. Adverse effects can include hyperuricemia/gout and (rarely) tendon issues.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0019",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A patient develops polymorphic ventricular tachycardia with prolonged QT (torsades de pointes). Which medication is first-line for acute treatment?",
+    "choices": [
+      "IV magnesium sulfate",
+      "IV calcium gluconate",
+      "Protamine sulfate",
+      "Vitamin K"
+    ],
+    "answerIndex": 0,
+    "explanation": "IV magnesium sulfate is first-line for torsades de pointes, regardless of serum magnesium level.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0020",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with HFrEF is started on sacubitril/valsartan. BNP levels rise, but symptoms improve. Which lab is preferred to monitor in patients on neprilysin inhibition?",
+    "choices": [
+      "NT-proBNP",
+      "BNP",
+      "Troponin I",
+      "D-dimer"
+    ],
+    "answerIndex": 0,
+    "explanation": "Neprilysin inhibition increases BNP levels; NT-proBNP is not degraded by neprilysin and is preferred for monitoring in patients on ARNI therapy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0021",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with AF and rapid ventricular response has decompensated HFrEF. Which IV medication can be used for rate control in this setting when beta blockers and non-DHP CCBs are poorly tolerated?",
+    "choices": [
+      "Amiodarone",
+      "Diltiazem",
+      "Verapamil",
+      "Amlodipine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Amiodarone can be used for rate control in AF in certain heart failure settings; non-DHP calcium channel blockers can worsen HFrEF due to negative inotropy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0022",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on IV heparin develops major bleeding. Which agent reverses unfractionated heparin?",
+    "choices": [
+      "Protamine sulfate",
+      "Vitamin K",
+      "Idarucizumab",
+      "Andexanet alfa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Protamine sulfate binds and neutralizes unfractionated heparin (and partially reverses LMWH).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0023",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with acute ischemic stroke presents within the thrombolysis window and is considered for alteplase. Which is an absolute contraindication?",
+    "choices": [
+      "Intracranial hemorrhage on imaging",
+      "Blood pressure 160/95 after treatment",
+      "Age over 70 years",
+      "History of diabetes"
+    ],
+    "answerIndex": 0,
+    "explanation": "Thrombolysis is contraindicated if intracranial hemorrhage is present; other contraindications depend on protocol and patient factors.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0024",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "Which medication is the usual first-line agent for chronic rate control in atrial fibrillation in a patient with normal systolic function and no decompensated heart failure?",
+    "choices": [
+      "Diltiazem",
+      "Flecainide",
+      "Nitroglycerin",
+      "Hydralazine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Non-dihydropyridine calcium channel blockers (diltiazem/verapamil) slow AV nodal conduction and are commonly used for AF rate control when systolic function is preserved.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0025",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with acute aortic dissection requires IV blood pressure control. What is the best initial pharmacologic strategy?",
+    "choices": [
+      "Start an IV beta blocker to control heart rate, then add a vasodilator if needed",
+      "Start a vasodilator first, then add a beta blocker later",
+      "Give a loop diuretic only",
+      "Give a thrombolytic immediately"
+    ],
+    "answerIndex": 0,
+    "explanation": "In aortic dissection, reduce shear stress by controlling heart rate first with an IV beta blocker; add vasodilators afterward if blood pressure remains elevated.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0026",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on diltiazem reports gingival overgrowth. Which adverse effect is associated with some calcium channel blockers?",
+    "choices": [
+      "Gingival hyperplasia",
+      "Pulmonary fibrosis",
+      "Optic neuritis",
+      "Hemorrhagic cystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Gingival hyperplasia can occur with calcium channel blockers (and also with phenytoin and cyclosporine).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0027",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with stable angina wants symptom relief. Which class works primarily by venodilation to reduce preload and myocardial oxygen demand?",
+    "choices": [
+      "Nitrates",
+      "PCSK9 inhibitors",
+      "Thiazolidinediones",
+      "DPP-4 inhibitors"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nitrates predominantly venodilate, lowering preload and oxygen demand, improving anginal symptoms.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0028",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with hypertrophic obstructive cardiomyopathy (HOCM) develops worsening syncope after starting a medication that reduces preload and afterload. Which medication is most likely responsible?",
+    "choices": [
+      "Nitroglycerin",
+      "Metoprolol",
+      "Disopyramide",
+      "Phenylephrine"
+    ],
+    "answerIndex": 0,
+    "explanation": "In HOCM, reduced preload/afterload can worsen outflow obstruction; nitrates can exacerbate symptoms by decreasing preload.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0029",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with chronic heart failure and edema is started on a loop diuretic. Which electrolyte abnormality is a common complication requiring monitoring?",
+    "choices": [
+      "Hypokalemia",
+      "Hyperkalemia",
+      "Hypercalcemia",
+      "Hypermagnesemia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Loop diuretics can cause hypokalemia (and hypomagnesemia), metabolic alkalosis, and volume depletion; electrolytes should be monitored.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0030",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with resistant hypertension is started on chlorthalidone and develops low sodium. Which mechanism best explains thiazide-associated hyponatremia?",
+    "choices": [
+      "Increased sodium loss in the distal convoluted tubule with impaired dilution",
+      "Efferent arteriole dilation with reduced filtration pressure",
+      "Blockade of ENaC in the collecting duct",
+      "Inhibition of carbonic anhydrase in the proximal tubule"
+    ],
+    "answerIndex": 0,
+    "explanation": "Thiazides block NaCl reabsorption in the distal convoluted tubule, impairing urinary dilution and increasing risk of hyponatremia, especially in older adults.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0031",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with acute decompensated heart failure has severe pulmonary edema and hypertension. Which IV vasodilator can rapidly reduce preload and afterload to improve symptoms?",
+    "choices": [
+      "Nitroglycerin",
+      "Amiodarone",
+      "Ezetimibe",
+      "Metformin"
+    ],
+    "answerIndex": 0,
+    "explanation": "IV nitroglycerin provides rapid venodilation (and some arterial dilation at higher doses), reducing preload/afterload and relieving pulmonary edema symptoms.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0032",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with chest pain after cocaine use arrives to the ED with severe hypertension and tachycardia. Which medication is generally avoided due to concern for unopposed alpha stimulation (classic teaching)?",
+    "choices": [
+      "Propranolol",
+      "Benzodiazepines",
+      "Nitroglycerin",
+      "Phentolamine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Nonselective beta blockers like propranolol are classically avoided in acute cocaine-associated chest pain due to concern for unopposed alpha-mediated vasoconstriction; management often uses benzodiazepines and vasodilators.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0033",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with myocardial infarction receives a thrombolytic but later develops gingival bleeding and oozing at IV sites. Which thrombolytic is a recombinant tissue plasminogen activator (tPA) that converts plasminogen to plasmin?",
+    "choices": [
+      "Alteplase",
+      "Abciximab",
+      "Eptifibatide",
+      "Heparin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Alteplase is tPA and promotes fibrinolysis by converting plasminogen to plasmin, increasing bleeding risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0034",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with STEMI is treated with aspirin and a P2Y12 inhibitor. Which P2Y12 agent is an IV, very short-acting inhibitor sometimes used around PCI when rapid onset/offset is desired?",
+    "choices": [
+      "Cangrelor",
+      "Clopidogrel",
+      "Prasugrel",
+      "Ticagrelor"
+    ],
+    "answerIndex": 0,
+    "explanation": "Cangrelor is an IV, reversible P2Y12 inhibitor with rapid onset/offset used in certain PCI settings.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0035",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on warfarin starts a medication and INR decreases despite adherence. Which drug is most likely responsible due to strong CYP induction?",
+    "choices": [
+      "Carbamazepine",
+      "Amiodarone",
+      "Fluconazole",
+      "Trimethoprim-sulfamethoxazole"
+    ],
+    "answerIndex": 0,
+    "explanation": "Carbamazepine induces CYP enzymes, lowering warfarin levels and decreasing INR (opposite effect of many CYP inhibitors).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0036",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with dyslipidemia has very high triglycerides and is prescribed a drug that increases lipoprotein lipase activity via PPAR-alpha activation. Which class is this?",
+    "choices": [
+      "Fibrates",
+      "Bile acid resins",
+      "PCSK9 inhibitors",
+      "Cholesterol absorption inhibitors"
+    ],
+    "answerIndex": 0,
+    "explanation": "Fibrates activate PPAR-alpha, increasing lipoprotein lipase and lowering triglycerides; myopathy risk increases when combined with some statins.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0037",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient taking a bile acid sequestrant for LDL lowering has triglycerides of 600 mg/dL. Why is this medication class generally avoided here?",
+    "choices": [
+      "It can raise triglycerides and worsen hypertriglyceridemia",
+      "It causes severe QT prolongation",
+      "It is inactivated by pulmonary surfactant",
+      "It causes cyanide toxicity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Bile acid sequestrants can increase triglycerides, so they are avoided in marked hypertriglyceridemia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0038",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "Which lipid medication most commonly causes flushing by increasing prostaglandins and can worsen hyperuricemia?",
+    "choices": [
+      "Niacin",
+      "Ezetimibe",
+      "Atorvastatin",
+      "Alirocumab"
+    ],
+    "answerIndex": 0,
+    "explanation": "Niacin can cause flushing (prostaglandin-mediated) and may increase uric acid and worsen glucose control in some patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0039",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with symptomatic sinus bradycardia from beta blocker therapy needs a temporary reversal. Which IV medication directly increases heart rate by blocking muscarinic receptors?",
+    "choices": [
+      "Atropine",
+      "Adenosine",
+      "Propranolol",
+      "Verapamil"
+    ],
+    "answerIndex": 0,
+    "explanation": "Atropine is an antimuscarinic used for symptomatic bradycardia (as part of ACLS algorithms).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0040",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with recurrent AF is started on an antiarrhythmic that blocks potassium channels and requires baseline and periodic thyroid and liver monitoring due to potential toxicity. Which drug fits best?",
+    "choices": [
+      "Amiodarone",
+      "Lidocaine",
+      "Adenosine",
+      "Procainamide"
+    ],
+    "answerIndex": 0,
+    "explanation": "Amiodarone (class III with multiple channel effects) can cause thyroid dysfunction, liver toxicity, pulmonary toxicity, and corneal deposits, requiring monitoring.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0041",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with hypertension and diabetes has microalbuminuria. Which medication class is preferred to slow progression of diabetic kidney disease and provide blood pressure control?",
+    "choices": [
+      "ACE inhibitor or ARB",
+      "Dihydropyridine calcium channel blocker alone",
+      "Alpha-1 blocker alone",
+      "Loop diuretic alone"
+    ],
+    "answerIndex": 0,
+    "explanation": "ACE inhibitors/ARBs reduce intraglomerular pressure and slow diabetic kidney disease progression while treating hypertension.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0042",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on spironolactone develops hyperkalemia. Which combination most increases the risk of dangerous hyperkalemia?",
+    "choices": [
+      "Spironolactone plus an ACE inhibitor",
+      "Spironolactone plus a loop diuretic",
+      "Spironolactone plus a thiazide diuretic",
+      "Spironolactone plus amlodipine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Combining potassium-sparing agents with ACE inhibitors/ARBs can significantly increase hyperkalemia risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0043",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with heart failure and iron deficiency is being considered for therapy. Which approach has evidence for improving symptoms in select HFrEF patients with iron deficiency?",
+    "choices": [
+      "Intravenous iron replacement",
+      "Oral calcium carbonate",
+      "High-dose vitamin K",
+      "Long-term NSAID therapy"
+    ],
+    "answerIndex": 0,
+    "explanation": "In select HFrEF patients with iron deficiency, IV iron therapy can improve symptoms and quality of life; management depends on clinical assessment and guidelines.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0044",
+    "category": "Cardiac",
+    "difficulty": "Easy",
+    "stem": "A patient asks why beta blockers help after myocardial infarction. What is the primary beneficial effect in this setting?",
+    "choices": [
+      "Reduce heart rate and myocardial oxygen demand, lowering arrhythmia risk",
+      "Increase contractility to raise cardiac output",
+      "Increase renal sodium reabsorption",
+      "Directly dissolve coronary thrombus"
+    ],
+    "answerIndex": 0,
+    "explanation": "Beta blockers reduce heart rate and oxygen demand and decrease arrhythmia risk after MI, improving outcomes in appropriate patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0045",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with atrial fibrillation is started on rivaroxaban. Which statement is true about rivaroxaban?",
+    "choices": [
+      "It directly inhibits factor Xa",
+      "It directly inhibits thrombin (factor IIa)",
+      "It inhibits vitamin K epoxide reductase",
+      "It activates antithrombin to inhibit factors IIa and Xa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Rivaroxaban (and apixaban, edoxaban) directly inhibits factor Xa.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0046",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with AF on rivaroxaban misses several doses and asks why this matters. What best explains the concern compared with warfarin?",
+    "choices": [
+      "Shorter half-life leads to faster loss of anticoagulation if doses are missed",
+      "It causes irreversible platelet inhibition for 7–10 days",
+      "It must be monitored with INR weekly",
+      "It accumulates in red blood cells for months"
+    ],
+    "answerIndex": 0,
+    "explanation": "DOACs have relatively short half-lives; missing doses can rapidly reduce anticoagulation, increasing thromboembolic risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0047",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with hypertension is prescribed a medication that can cause peripheral edema and reflex tachycardia by dilating arterioles. Which medication class fits best?",
+    "choices": [
+      "Dihydropyridine calcium channel blockers",
+      "Non-dihydropyridine calcium channel blockers",
+      "ACE inhibitors",
+      "Beta blockers"
+    ],
+    "answerIndex": 0,
+    "explanation": "Dihydropyridines (e.g., amlodipine) primarily dilate arterioles, causing edema, flushing, and headache; reflex tachycardia can occur.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0048",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient with bradycardia and constipation is started on a medication for hypertension that slows AV nodal conduction. Which drug is most likely?",
+    "choices": [
+      "Verapamil",
+      "Amlodipine",
+      "Hydrochlorothiazide",
+      "Losartan"
+    ],
+    "answerIndex": 0,
+    "explanation": "Verapamil (non-DHP CCB) slows AV nodal conduction and can cause bradycardia and constipation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0049",
+    "category": "Cardiac",
+    "difficulty": "Hard",
+    "stem": "A patient with heart failure is started on an SGLT2 inhibitor and asks why a diabetes drug helps heart failure. Which best describes the current clinical use?",
+    "choices": [
+      "SGLT2 inhibitors improve heart failure outcomes even in many patients without diabetes",
+      "They only help heart failure if A1c is above 10%",
+      "They are used only for type 1 diabetes heart failure",
+      "They directly stimulate beta-1 receptors"
+    ],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors have demonstrated heart failure benefits and are used as guideline-directed therapy for HFrEF in many patients, including some without diabetes, depending on clinical context.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0050",
+    "category": "Cardiac",
+    "difficulty": "Medium",
+    "stem": "A patient on warfarin develops purple painful toe discoloration shortly after starting therapy. What mechanism best explains this rare complication?",
+    "choices": [
+      "Transient protein C depletion causing a hypercoagulable state",
+      "Direct platelet GPIIb/IIIa blockade",
+      "Pulmonary surfactant inactivation",
+      "MAO inhibition increasing serotonin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Early warfarin therapy can transiently reduce protein C (a natural anticoagulant), creating a hypercoagulable state that can contribute to skin necrosis/purple toe syndrome; careful initiation and bridging may be required in select patients.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0051",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with diabetic ketoacidosis has a serum potassium of 2.9 mEq/L. What is the best next step before starting insulin?",
+    "choices": [
+      "Replete potassium first and delay insulin until K+ is ≥3.3 mEq/L",
+      "Start IV insulin immediately without potassium",
+      "Give sodium bicarbonate only",
+      "Start a sulfonylurea for rapid glucose lowering"
+    ],
+    "answerIndex": 0,
+    "explanation": "In DKA, total body potassium is depleted. If K+ is <3.3, potassium must be replaced before insulin to avoid life-threatening arrhythmias.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0052",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "During treatment of DKA, when plasma glucose falls to about 200 mg/dL but the anion gap remains elevated, what should be done?",
+    "choices": [
+      "Add dextrose to IV fluids and continue insulin",
+      "Stop insulin immediately",
+      "Switch to metformin",
+      "Give glucagon to raise glucose"
+    ],
+    "answerIndex": 0,
+    "explanation": "When glucose approaches ~200 mg/dL in DKA, dextrose is added so insulin can be continued to close the anion gap and clear ketones.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0053",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Which finding best distinguishes hyperosmolar hyperglycemic state (HHS) from DKA?",
+    "choices": [
+      "Marked hyperosmolarity with minimal ketones/acidosis",
+      "Severe metabolic acidosis with Kussmaul respirations",
+      "Large serum ketones with high anion gap",
+      "Rapid onset over hours in type 1 diabetes"
+    ],
+    "answerIndex": 0,
+    "explanation": "HHS typically has very high glucose and hyperosmolarity with little or no ketoacidosis; DKA has high anion gap metabolic acidosis and ketones.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0054",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "A patient with severe hypoglycemia is unconscious and cannot take oral glucose. Which medication raises blood glucose by stimulating hepatic glycogenolysis?",
+    "choices": [
+      "Glucagon",
+      "Acarbose",
+      "Sitagliptin",
+      "Pioglitazone"
+    ],
+    "answerIndex": 0,
+    "explanation": "Glucagon activates hepatic glycogenolysis and gluconeogenesis via Gs/cAMP pathways and is used for severe hypoglycemia when IV access is not immediately available.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0055",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient has recurrent hypoglycemia after taking a long-acting sulfonylurea overdose. After initial dextrose correction, which medication can reduce recurrent hypoglycemia by suppressing insulin release?",
+    "choices": [
+      "Octreotide",
+      "Glucagon",
+      "Metformin",
+      "Insulin glargine"
+    ],
+    "answerIndex": 0,
+    "explanation": "Octreotide (a somatostatin analog) suppresses insulin secretion and is used to prevent recurrent hypoglycemia after sulfonylurea overdose.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0056",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on long-term metformin develops numbness and tingling and is found to have macrocytic anemia. Which deficiency is most associated with chronic metformin therapy?",
+    "choices": [
+      "Vitamin B12 deficiency",
+      "Vitamin C deficiency",
+      "Vitamin K deficiency",
+      "Thiamine deficiency"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chronic metformin use can reduce vitamin B12 absorption, contributing to neuropathy and macrocytosis.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0057",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes is scheduled for iodinated contrast imaging and has CKD. What metformin counseling is most appropriate?",
+    "choices": [
+      "Hold metformin around the time of contrast in patients at risk for AKI and restart after renal function is stable",
+      "Double metformin dose before contrast",
+      "Switch to sulfonylurea the day of contrast only",
+      "Take metformin with alcohol to reduce nausea"
+    ],
+    "answerIndex": 0,
+    "explanation": "Metformin is held in patients at risk for contrast-associated AKI to reduce risk of metformin-associated lactic acidosis if renal function worsens.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0058",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "An older adult with CKD has recurrent hypoglycemia on glyburide. Which sulfonylurea is generally preferred in CKD due to less active metabolite accumulation?",
+    "choices": [
+      "Glipizide",
+      "Glyburide",
+      "Chlorpropamide",
+      "Tolbutamide"
+    ],
+    "answerIndex": 0,
+    "explanation": "Glipizide is often preferred in CKD because it has less risk of prolonged hypoglycemia from active metabolite accumulation than glyburide.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0059",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient taking chlorpropamide drinks alcohol and develops flushing and nausea. Which adverse effect is classically associated with this first-generation sulfonylurea?",
+    "choices": [
+      "Disulfiram-like reaction",
+      "Severe QT prolongation",
+      "Pulmonary fibrosis",
+      "Ototoxicity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Chlorpropamide can cause a disulfiram-like reaction with alcohol and can also cause SIADH/hyponatremia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0060",
+    "category": "Endocrine",
+    "difficulty": "Easy",
+    "stem": "A patient with type 2 diabetes is prescribed acarbose. Where does this medication act?",
+    "choices": [
+      "Intestinal brush border to inhibit alpha-glucosidases",
+      "Pancreatic beta-cell KATP channels",
+      "Renal SGLT2 in proximal tubule",
+      "PPAR-gamma in adipose tissue"
+    ],
+    "answerIndex": 0,
+    "explanation": "Acarbose inhibits intestinal alpha-glucosidases, delaying carbohydrate absorption and reducing postprandial glucose spikes; GI side effects are common.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0061",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on acarbose develops hypoglycemia while also taking insulin. Which carbohydrate is best to treat the hypoglycemia?",
+    "choices": [
+      "Glucose tablets (dextrose)",
+      "Sucrose (table sugar)",
+      "Acarbose itself",
+      "High-fiber cereal only"
+    ],
+    "answerIndex": 0,
+    "explanation": "Because acarbose blocks breakdown of complex carbohydrates and disaccharides, hypoglycemia should be treated with glucose (dextrose), not sucrose.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0062",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient wants an oral diabetes medication that is weight-neutral, has low hypoglycemia risk, and works by increasing endogenous incretin activity. Which class fits best?",
+    "choices": [
+      "DPP-4 inhibitors",
+      "Sulfonylureas",
+      "Thiazolidinediones",
+      "Meglitinides"
+    ],
+    "answerIndex": 0,
+    "explanation": "DPP-4 inhibitors increase incretin levels (GLP-1/GIP), enhancing glucose-dependent insulin secretion and lowering glucagon with low hypoglycemia risk and weight neutrality.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0063",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on sitagliptin develops severe upper abdominal pain radiating to the back with elevated lipase. Which adverse effect is associated with DPP-4 inhibitors and incretin therapies?",
+    "choices": [
+      "Pancreatitis",
+      "Agranulocytosis",
+      "Pulmonary fibrosis",
+      "Hemorrhagic cystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "Incretin-based therapies (including DPP-4 inhibitors) have been associated with pancreatitis; persistent severe abdominal pain warrants evaluation.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0064",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Which DPP-4 inhibitor is notable for not requiring dose adjustment in renal impairment (commonly taught)?",
+    "choices": [
+      "Linagliptin",
+      "Sitagliptin",
+      "Saxagliptin",
+      "Alogliptin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Linagliptin is primarily eliminated non-renally and is often cited as not requiring renal dose adjustment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0065",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with type 2 diabetes and established ASCVD wants a medication that lowers cardiovascular events and promotes weight loss. Which class is most appropriate?",
+    "choices": [
+      "GLP-1 receptor agonists",
+      "Alpha-glucosidase inhibitors",
+      "First-generation sulfonylureas",
+      "Bile acid sequestrants"
+    ],
+    "answerIndex": 0,
+    "explanation": "GLP-1 receptor agonists can promote weight loss and some agents reduce major cardiovascular events in patients with ASCVD.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0066",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on a GLP-1 receptor agonist reports early satiety and nausea. Which mechanism contributes to both glycemic and weight effects?",
+    "choices": [
+      "Delayed gastric emptying and increased glucose-dependent insulin secretion",
+      "Direct inhibition of renal glucose reabsorption",
+      "Opening of beta-cell KATP channels",
+      "Blockade of intestinal cholesterol absorption"
+    ],
+    "answerIndex": 0,
+    "explanation": "GLP-1 receptor agonists slow gastric emptying and increase glucose-dependent insulin release, often causing GI side effects and weight loss.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0067",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with a personal history of medullary thyroid carcinoma asks about starting a GLP-1 receptor agonist. What is the best answer?",
+    "choices": [
+      "Avoid GLP-1 receptor agonists due to contraindication/precaution in MTC or MEN2",
+      "It is the safest choice and required",
+      "Use only if combined with a sulfonylurea",
+      "It is contraindicated only in type 1 diabetes"
+    ],
+    "answerIndex": 0,
+    "explanation": "GLP-1 receptor agonists carry a boxed warning/contraindication or precaution regarding medullary thyroid carcinoma and MEN2; alternative therapy should be considered.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0068",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes starts an SGLT2 inhibitor and later has nausea and malaise with normal glucose but high anion gap metabolic acidosis. What is the likely diagnosis?",
+    "choices": [
+      "Euglycemic diabetic ketoacidosis",
+      "HHS",
+      "Lactic acidosis from metformin",
+      "Serotonin syndrome"
+    ],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors can increase risk of euglycemic DKA, especially with fasting, illness, or perioperative states; evaluation is urgent.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0069",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on an SGLT2 inhibitor is scheduled for surgery. What preventive step is commonly recommended to reduce ketoacidosis risk?",
+    "choices": [
+      "Hold the SGLT2 inhibitor before surgery per clinician guidance",
+      "Double the SGLT2 dose the day before surgery",
+      "Start a thiazide diuretic to prevent DKA",
+      "Stop basal insulin 24 hours before surgery"
+    ],
+    "answerIndex": 0,
+    "explanation": "Because of euglycemic DKA risk, SGLT2 inhibitors are commonly held before surgery/fasting per clinical guidance.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0070",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes on canagliflozin asks about a rare but serious genital infection warning. Which complication has been reported with SGLT2 inhibitors?",
+    "choices": [
+      "Necrotizing fasciitis of the perineum (Fournier gangrene)",
+      "Pulmonary fibrosis",
+      "Optic neuritis",
+      "Hemorrhagic cystitis"
+    ],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors have been associated with rare cases of necrotizing fasciitis of the perineum (Fournier gangrene) and more common genital mycotic infections.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0071",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes and chronic kidney disease asks which medication class has evidence to slow CKD progression and reduce albuminuria in many patients.",
+    "choices": [
+      "SGLT2 inhibitors",
+      "Short-acting sulfonylureas",
+      "Alpha-glucosidase inhibitors",
+      "Meglitinides"
+    ],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors have kidney-protective effects in many patients with T2D and CKD, reducing albuminuria and slowing progression depending on eGFR and clinical context.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0072",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient on pioglitazone develops worsening edema and shortness of breath. Which condition is a major reason to avoid or use caution with thiazolidinediones?",
+    "choices": [
+      "Heart failure",
+      "Migraine",
+      "Asthma",
+      "BPH"
+    ],
+    "answerIndex": 0,
+    "explanation": "Thiazolidinediones can cause fluid retention and worsen heart failure; they are avoided or used with caution in HF.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0073",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Which diabetes medication increases insulin sensitivity by activating a nuclear receptor that regulates gene transcription in adipose tissue?",
+    "choices": [
+      "Thiazolidinediones (PPAR-gamma agonists)",
+      "DPP-4 inhibitors",
+      "Alpha-glucosidase inhibitors",
+      "Amylin analogs"
+    ],
+    "answerIndex": 0,
+    "explanation": "TZDs activate PPAR-gamma, increasing insulin sensitivity but can cause weight gain, edema, and fracture risk.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0074",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with type 2 diabetes and osteoporosis risk is considering pioglitazone. What adverse effect is important to counsel about regarding bone health?",
+    "choices": [
+      "Increased fracture risk",
+      "Severe neutropenia",
+      "Permanent vision loss",
+      "Bleeding due to hypoprothrombinemia"
+    ],
+    "answerIndex": 0,
+    "explanation": "TZDs have been associated with increased fracture risk, particularly in older adults and women.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0075",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient uses a premixed insulin (70/30). What does '70/30' typically represent?",
+    "choices": [
+      "70% NPH (intermediate) and 30% regular insulin (short-acting)",
+      "70% glargine and 30% lispro",
+      "70% degludec and 30% aspart",
+      "70% insulin plus 30% metformin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Common premixed insulin 70/30 is 70% NPH and 30% regular insulin (formulations vary by product).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0076",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Which insulin has an onset of about 30–60 minutes and is commonly used IV in DKA treatment?",
+    "choices": [
+      "Regular insulin",
+      "Insulin degludec",
+      "Insulin glargine",
+      "Insulin detemir"
+    ],
+    "answerIndex": 0,
+    "explanation": "Regular insulin can be given IV and is commonly used in DKA management protocols.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0077",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient asks which basal insulin has an ultra-long duration of action (often >24 hours) and provides very flat coverage.",
+    "choices": [
+      "Insulin degludec",
+      "Insulin lispro",
+      "Regular insulin",
+      "NPH insulin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Insulin degludec is an ultra-long-acting basal insulin with a long duration and relatively flat profile.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0078",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient wonders why insulin detemir lasts longer than regular insulin. Which property contributes to detemir’s prolonged action?",
+    "choices": [
+      "Reversible binding to albumin",
+      "Irreversible binding to insulin receptor",
+      "Direct inhibition of intestinal alpha-glucosidase",
+      "Direct inhibition of factor Xa"
+    ],
+    "answerIndex": 0,
+    "explanation": "Insulin detemir has a fatty acid side chain that promotes albumin binding, prolonging its action.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0079",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient mixes insulins in one syringe. Which instruction is correct to minimize dosing errors when drawing up NPH and regular insulin?",
+    "choices": [
+      "Draw up clear (regular) before cloudy (NPH)",
+      "Draw up cloudy (NPH) before clear (regular)",
+      "Always mix glargine with NPH",
+      "Never mix regular with NPH"
+    ],
+    "answerIndex": 0,
+    "explanation": "When mixing, draw up clear insulin (regular) before cloudy (NPH) to avoid contaminating the clear vial with NPH.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0080",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "Which insulin should generally NOT be mixed in the same syringe with other insulins due to formulation/pH differences?",
+    "choices": [
+      "Insulin glargine",
+      "Regular insulin",
+      "NPH insulin",
+      "Insulin lispro"
+    ],
+    "answerIndex": 0,
+    "explanation": "Insulin glargine should not be mixed with other insulins in the same syringe because its formulation/pH can alter pharmacokinetics.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0081",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 1 diabetes has nausea and abdominal pain; beta-hydroxybutyrate is elevated. Which initial therapy is most important?",
+    "choices": [
+      "Aggressive IV fluids",
+      "Start a GLP-1 receptor agonist",
+      "Give oral acarbose",
+      "Start pioglitazone"
+    ],
+    "answerIndex": 0,
+    "explanation": "DKA treatment begins with volume resuscitation (IV fluids), then insulin and electrolyte management based on labs and clinical status.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0082",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "During DKA treatment, why is potassium supplementation often required even if initial serum potassium is normal or high?",
+    "choices": [
+      "Total body potassium is depleted and insulin will shift K+ into cells",
+      "Insulin causes potassium to leave cells",
+      "Ketones directly increase renal potassium reabsorption",
+      "Acarbose blocks potassium absorption"
+    ],
+    "answerIndex": 0,
+    "explanation": "DKA causes total body potassium depletion from osmotic diuresis; insulin treatment shifts potassium intracellularly, often lowering serum K+.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0083",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes asks about a dual GIP/GLP-1 receptor agonist that can cause significant weight loss but commonly causes GI side effects. Which medication fits best?",
+    "choices": [
+      "Tirzepatide",
+      "Linagliptin",
+      "Acarbose",
+      "Glipizide"
+    ],
+    "answerIndex": 0,
+    "explanation": "Tirzepatide is a dual GIP/GLP-1 receptor agonist used for type 2 diabetes and associated with weight loss; GI adverse effects are common.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0084",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes on insulin has frequent post-meal hyperglycemia. Which strategy best targets postprandial glucose?",
+    "choices": [
+      "Add a rapid-acting mealtime insulin bolus",
+      "Increase basal insulin only",
+      "Stop basal insulin and use metformin alone",
+      "Switch basal insulin to NPH once weekly"
+    ],
+    "answerIndex": 0,
+    "explanation": "Postprandial hyperglycemia is best addressed with mealtime rapid-acting insulin (or other postprandial-targeting therapies) rather than only increasing basal insulin.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0085",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient on basal-bolus insulin begins an intensive exercise program and has frequent hypoglycemia. What is a reasonable physiologic explanation?",
+    "choices": [
+      "Increased insulin sensitivity and increased glucose uptake during/after exercise",
+      "Exercise blocks insulin receptors causing hyperglycemia",
+      "Exercise inhibits GLUT4 translocation",
+      "Exercise increases glucagon and always causes hyperglycemia"
+    ],
+    "answerIndex": 0,
+    "explanation": "Exercise increases glucose utilization and insulin sensitivity, increasing hypoglycemia risk if insulin/food are not adjusted.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0086",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes takes repaglinide. Which counseling point is most important?",
+    "choices": [
+      "Skip the dose if a meal is skipped to reduce hypoglycemia risk",
+      "Take once weekly regardless of meals",
+      "Avoid all carbohydrates while taking it",
+      "Always take with alcohol to enhance effect"
+    ],
+    "answerIndex": 0,
+    "explanation": "Meglitinides like repaglinide are taken with meals and can cause hypoglycemia; patients should skip the dose if they skip a meal.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0087",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient wants a diabetes medication with low hypoglycemia risk that increases insulin secretion only when glucose is elevated. Which mechanism best fits incretin-based therapies?",
+    "choices": [
+      "Glucose-dependent insulin secretion",
+      "Glucose-independent insulin secretion",
+      "Direct beta-cell destruction",
+      "Direct inhibition of hepatic glycogen breakdown"
+    ],
+    "answerIndex": 0,
+    "explanation": "Incretin therapies enhance insulin secretion in a glucose-dependent manner, resulting in lower hypoglycemia risk when used without insulin/sulfonylureas.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0088",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with diabetes develops recurrent genital yeast infections and increased urination after starting a medication. Which mechanism best explains these effects?",
+    "choices": [
+      "Increased urinary glucose excretion",
+      "Increased hepatic gluconeogenesis",
+      "Decreased insulin sensitivity in muscle",
+      "Decreased intestinal carbohydrate breakdown"
+    ],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibition causes glycosuria, which predisposes to genital mycotic infections and can cause osmotic diuresis (polyuria).",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0089",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A hospitalized patient with diabetes is placed NPO (nothing by mouth). Which insulin component is generally continued to prevent ketosis (with dose adjustment as needed)?",
+    "choices": [
+      "Basal insulin",
+      "Mealtime bolus insulin",
+      "Acarbose",
+      "Repaglinide"
+    ],
+    "answerIndex": 0,
+    "explanation": "Basal insulin is generally continued (often at a reduced dose) even when NPO to prevent hyperglycemia and ketosis; bolus insulin is held if no meals are eaten.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0090",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with long-standing diabetes has autonomic neuropathy and hypoglycemia unawareness. Which medication class can further blunt warning symptoms like tremor and palpitations?",
+    "choices": [
+      "Beta blockers",
+      "ACE inhibitors",
+      "DPP-4 inhibitors",
+      "Alpha-glucosidase inhibitors"
+    ],
+    "answerIndex": 0,
+    "explanation": "Beta blockers can blunt adrenergic symptoms of hypoglycemia, making recognition more difficult, especially in patients with autonomic neuropathy.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0091",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes is started on a medication that increases urinary glucose excretion and also modestly lowers blood pressure. Which class fits best?",
+    "choices": [
+      "SGLT2 inhibitors",
+      "Sulfonylureas",
+      "Meglitinides",
+      "Alpha-glucosidase inhibitors"
+    ],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors cause glycosuria and osmotic diuresis, which can lower blood pressure and weight in addition to lowering glucose.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0092",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with diabetes and gastroparesis is considering pramlintide as an adjunct to insulin. Why is pramlintide generally avoided in gastroparesis?",
+    "choices": [
+      "It further slows gastric emptying",
+      "It directly causes renal failure",
+      "It blocks insulin receptors",
+      "It irreversibly inhibits DPP-4"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pramlintide (amylin analog) slows gastric emptying; in gastroparesis it can worsen symptoms and complicate glucose management.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0093",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes begins pramlintide with meals. Which adverse effect is most common and most likely early in therapy?",
+    "choices": [
+      "Nausea",
+      "Hearing loss",
+      "Pulmonary fibrosis",
+      "Cyanide toxicity"
+    ],
+    "answerIndex": 0,
+    "explanation": "Pramlintide commonly causes nausea, especially when starting or titrating; it can also increase hypoglycemia risk if mealtime insulin is not reduced.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0094",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes has fasting hyperglycemia but acceptable post-meal readings. Which insulin adjustment most directly targets fasting glucose?",
+    "choices": [
+      "Adjust basal insulin",
+      "Increase mealtime bolus insulin only",
+      "Stop basal insulin",
+      "Add acarbose"
+    ],
+    "answerIndex": 0,
+    "explanation": "Basal insulin primarily controls fasting and between-meal glucose; adjusting basal dosing targets fasting hyperglycemia.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0095",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with diabetes is treated for DKA. After insulin infusion starts, potassium drops quickly. What is the main mechanism for this drop?",
+    "choices": [
+      "Insulin drives potassium into cells via Na+/K+ ATPase activation",
+      "Insulin causes renal potassium retention",
+      "Insulin blocks aldosterone receptors",
+      "Insulin inhibits carbonic anhydrase"
+    ],
+    "answerIndex": 0,
+    "explanation": "Insulin shifts potassium intracellularly by stimulating Na+/K+ ATPase, lowering serum potassium and necessitating close monitoring/repletion.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0096",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with newly diagnosed type 2 diabetes and very high A1c has symptomatic hyperglycemia and weight loss. Which initial approach is often appropriate?",
+    "choices": [
+      "Start insulin to rapidly control glucose and reverse catabolism",
+      "Start acarbose alone",
+      "Start DPP-4 inhibitor monotherapy only",
+      "Avoid any therapy and recheck in 6 months"
+    ],
+    "answerIndex": 0,
+    "explanation": "Severe symptomatic hyperglycemia with catabolic features often warrants insulin initially to control glucose and symptoms, with later regimen adjustment.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0097",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes on steroids develops afternoon/evening hyperglycemia. Which strategy is commonly used to manage steroid-induced hyperglycemia?",
+    "choices": [
+      "Adjust insulin regimen (often adding or increasing insulin timed to steroid effect)",
+      "Stop all insulin immediately",
+      "Use glucagon daily",
+      "Add acarbose only and avoid insulin"
+    ],
+    "answerIndex": 0,
+    "explanation": "Steroids raise glucose (often later in the day with daytime dosing); insulin adjustments tailored to timing and severity are commonly required.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0098",
+    "category": "Endocrine",
+    "difficulty": "Hard",
+    "stem": "A patient with type 1 diabetes is started on an SGLT2 inhibitor off-label and later develops DKA despite only mildly elevated glucose. Why are SGLT2 inhibitors used cautiously/avoided in type 1 diabetes?",
+    "choices": [
+      "They can increase risk of euglycemic DKA",
+      "They cause irreversible beta-cell destruction",
+      "They directly cause severe lactic acidosis in all patients",
+      "They block insulin secretion completely"
+    ],
+    "answerIndex": 0,
+    "explanation": "SGLT2 inhibitors can increase euglycemic DKA risk, especially in type 1 diabetes, so they are generally avoided or used only under specialized guidance where approved.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0099",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes wants an oral agent that lowers LDL modestly and can also lower glucose as an adjunct. Which medication fits this niche use?",
+    "choices": [
+      "Colesevelam",
+      "Acarbose",
+      "Glipizide",
+      "Pioglitazone"
+    ],
+    "answerIndex": 0,
+    "explanation": "Colesevelam is a bile acid sequestrant that can lower LDL and has modest glucose-lowering effects; it can raise triglycerides and cause GI side effects.",
+    "reference": ""
+  },
+  {
+    "id": "DCB7-0100",
+    "category": "Endocrine",
+    "difficulty": "Medium",
+    "stem": "A patient with type 2 diabetes asks why DPP-4 inhibitors and GLP-1 receptor agonists are generally not used together. What is the best explanation?",
+    "choices": [
+      "They target the same incretin pathway, so combination adds little benefit but increases cost/side effects",
+      "They cancel each other out causing severe hypoglycemia",
+      "They both directly block SGLT2",
+      "They are required together to work"
+    ],
+    "answerIndex": 0,
+    "explanation": "Both act on the incretin pathway (GLP-1 activity); combining typically offers minimal additional glycemic benefit while increasing complexity and cost.",
+    "reference": ""
+  }
 ]
 
