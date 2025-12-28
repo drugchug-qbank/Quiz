@@ -1,0 +1,3083 @@
+[
+  {
+    "rank": 1,
+    "generic": "Metronidazole",
+    "brands": [
+      "Flagyl",
+      "Flagyl ER"
+    ],
+    "category": "Anti-infective",
+    "indication": "Antibacterial, Antiprotozoal",
+    "common_dose": "Tablet: 125/250 mg; Capsule: 140 mg/125 mg"
+  },
+  {
+    "rank": 2,
+    "generic": "Fluconazole",
+    "brands": [
+      "Diflucan"
+    ],
+    "category": "Anti-infective",
+    "indication": "Antifungal",
+    "common_dose": "Tablet: 50/100 mg; Suspension: 10 mg/mL"
+  },
+  {
+    "rank": 3,
+    "generic": "Ketoconazole",
+    "brands": [
+      "Nizoral"
+    ],
+    "category": "Anti-infective",
+    "indication": "Antifungal",
+    "common_dose": "Tablet: 200 mg; Topical Foam: 2%"
+  },
+  {
+    "rank": 4,
+    "generic": "Nystatin",
+    "brands": [
+      "Mycostatin",
+      "Nystop"
+    ],
+    "category": "Anti-infective",
+    "indication": "Antifungal",
+    "common_dose": "Tablet: 500000 units; Capsule: 500000/1000000 units"
+  },
+  {
+    "rank": 5,
+    "generic": "Terbinafine",
+    "brands": [
+      "Lamisil"
+    ],
+    "category": "Anti-infective",
+    "indication": "Antifungal",
+    "common_dose": "Tablet: 250 mg; Cream: 1%"
+  },
+  {
+    "rank": 6,
+    "generic": "Acyclovir",
+    "brands": [
+      "Zovirax"
+    ],
+    "category": "Anti-infective",
+    "indication": "Antiviral against HSV",
+    "common_dose": "Tablet: 400/800 mg; Capsule: 200 mg"
+  },
+  {
+    "rank": 7,
+    "generic": "Valacyclovir",
+    "brands": [
+      "Valtrex"
+    ],
+    "category": "Anti-infective",
+    "indication": "Antiviral against HSV",
+    "common_dose": "Tablet: 500/1000 mg"
+  },
+  {
+    "rank": 8,
+    "generic": "Cephalexin",
+    "brands": [
+      "Keflex"
+    ],
+    "category": "Anti-infective",
+    "indication": "Cephalosporin antibiotic, 1st generation",
+    "common_dose": "Tablet: 250/500 mg; Capsule: 250/333 mg"
+  },
+  {
+    "rank": 9,
+    "generic": "Cefuroxime axetil",
+    "brands": [
+      "Ceftin"
+    ],
+    "category": "Anti-infective",
+    "indication": "Cephalosporin antibiotic, 2nd generation",
+    "common_dose": "Tablet: 125/250 mg"
+  },
+  {
+    "rank": 10,
+    "generic": "Cefdinir",
+    "brands": [
+      "Omnicef"
+    ],
+    "category": "Anti-infective",
+    "indication": "Cephalosporin antibiotic, 3rd generation",
+    "common_dose": "Capsule: 300 mg; Suspension: 25 mg/mL"
+  },
+  {
+    "rank": 11,
+    "generic": "Ciprofloxacin (Cipro",
+    "brands": [
+      "XR)"
+    ],
+    "category": "Anti-infective",
+    "indication": "Fluoroquinolone antibiotic",
+    "common_dose": "Tablet: 100/250 mg; Suspension: 50 mg/mL"
+  },
+  {
+    "rank": 12,
+    "generic": "Levofloxacin",
+    "brands": [
+      "Levaquin"
+    ],
+    "category": "Anti-infective",
+    "indication": "Fluoroquinolone antibiotic",
+    "common_dose": "Tablet: 250/500 mg; Solution: 25 mg/mL"
+  },
+  {
+    "rank": 13,
+    "generic": "Moxifloxacin",
+    "brands": [
+      "Avelox"
+    ],
+    "category": "Anti-infective",
+    "indication": "Fluoroquinolone antibiotic",
+    "common_dose": "Tablet: 400 mg; Eye drops: 0.5%"
+  },
+  {
+    "rank": 14,
+    "generic": "Azithromycin",
+    "brands": [
+      "Zithromax",
+      "Zmax",
+      "Azasite"
+    ],
+    "category": "Anti-infective",
+    "indication": "Macrolide antibiotic",
+    "common_dose": "Tablet: 250/500 mg; Suspension: 20 mg/mL"
+  },
+  {
+    "rank": 15,
+    "generic": "Clarithromycin (Biaxin",
+    "brands": [
+      "XL)"
+    ],
+    "category": "Anti-infective",
+    "indication": "Macrolide antibiotic",
+    "common_dose": "Tablet: 250/500 mg; Suspension: 25 mg/mL"
+  },
+  {
+    "rank": 16,
+    "generic": "Clindamycin",
+    "brands": [
+      "Cleocin",
+      "Cleocin T",
+      "Evoclin"
+    ],
+    "category": "Anti-infective",
+    "indication": "Other antibiotic",
+    "common_dose": "Capsule: 25/75 mg; Solution: 15 mg/mL"
+  },
+  {
+    "rank": 17,
+    "generic": "Nitrofurantoin",
+    "brands": [
+      "Macrobid",
+      "Macrodantin",
+      "Furadantin"
+    ],
+    "category": "Anti-infective",
+    "indication": "Other antibiotic",
+    "common_dose": "Capsule: 25 mg/75 mg; Suspension: 5 mg/mL"
+  },
+  {
+    "rank": 18,
+    "generic": "Amoxicillin",
+    "brands": [
+      "Amoxil"
+    ],
+    "category": "Anti-infective",
+    "indication": "Penicillin antibiotic",
+    "common_dose": "Tablet: 250 mg/125 mg; Capsule: 250 mg/10 mg/12.5 mg"
+  },
+  {
+    "rank": 19,
+    "generic": "Amoxicillin + Clavulanate",
+    "brands": [
+      "Augmentin",
+      "Augmentin XR"
+    ],
+    "category": "Anti-infective",
+    "indication": "Penicillin antibiotic",
+    "common_dose": "Tablet: 250 mg/125 mg; Suspension: 25 mg/mL/6.25 mg/mL"
+  },
+  {
+    "rank": 20,
+    "generic": "Penicillin V Potassium",
+    "brands": [
+      "Veetids",
+      "Pen-Vee K"
+    ],
+    "category": "Anti-infective",
+    "indication": "Penicillin antibiotic",
+    "common_dose": "Tablet: 250/500 mg; Solution: 25 mg/mL"
+  },
+  {
+    "rank": 21,
+    "generic": "Sulfamethoxazole + Trimethoprim",
+    "brands": [
+      "Bactrim",
+      "Bactrim DS",
+      "Septra"
+    ],
+    "category": "Anti-infective",
+    "indication": "Sulfonamide antibacterial",
+    "common_dose": "Tablet: 400 mg/80 mg; Suspension: 40 mg/mL/8 mg/mL"
+  },
+  {
+    "rank": 22,
+    "generic": "Doxycycline",
+    "brands": [
+      "Vibramycin",
+      "Doryx",
+      "Adoxa"
+    ],
+    "category": "Anti-infective",
+    "indication": "Tetracycline antibiotic",
+    "common_dose": "Tablet: 20/50 mg; Capsule: 40/50 mg"
+  },
+  {
+    "rank": 23,
+    "generic": "Metronidazole",
+    "brands": [
+      "Metrogel",
+      "Metrogel- Vaginal",
+      "Metrocream"
+    ],
+    "category": "Anti-infective",
+    "indication": "Topical antibiotic",
+    "common_dose": "Tablet: 125/250 mg; Capsule: 140 mg/125 mg"
+  },
+  {
+    "rank": 24,
+    "generic": "Mupirocin",
+    "brands": [
+      "Bactroban"
+    ],
+    "category": "Anti-infective",
+    "indication": "Topical antibiotic",
+    "common_dose": "Cream: 2%; Ointment: 2%"
+  },
+  {
+    "rank": 25,
+    "generic": "Nystatin + Triamcinolone",
+    "brands": [
+      "Mycolog II"
+    ],
+    "category": "Anti-infective",
+    "indication": "Topical antifungal + steroid combination",
+    "common_dose": "Ointment: 100 units/mg mg/mg; Cream: 100000 units/mL mg/mL"
+  },
+  {
+    "rank": 26,
+    "generic": "Chlorhexidine Gluconate",
+    "brands": [
+      "Peridex",
+      "PerioGard"
+    ],
+    "category": "Antibacterial (oral rinse)",
+    "indication": "Tx for gingivitis/Periodontitis",
+    "common_dose": "Topical Solution: 0.5%; Lotion: 10 mg/mL mL/mL"
+  },
+  {
+    "rank": 27,
+    "generic": "Oseltamivir",
+    "brands": [
+      "Tamiflu"
+    ],
+    "category": "Anti-infective",
+    "indication": "antiviral against influenza",
+    "common_dose": "Capsule: 30/45 mg; Suspension: 6 mg/mL"
+  },
+  {
+    "rank": 28,
+    "generic": "Emtricitabine + Tenofovir",
+    "brands": [
+      "Truvada"
+    ],
+    "category": "Antiretroviral",
+    "indication": "Reverse transcriptase inhibitor",
+    "common_dose": "Tablet: 30 mg/120 mg/15 mg; Tablet: 50 mg/200 mg/25 mg"
+  },
+  {
+    "rank": 29,
+    "generic": "Zidovudine + Lamivudine",
+    "brands": [
+      "Combivir"
+    ],
+    "category": "Antiretroviral",
+    "indication": "Reverse transcriptase inhibitor",
+    "common_dose": "Tablet: 150 mg/300 mg; Tablet: 300 mg/150 mg"
+  },
+  {
+    "rank": 30,
+    "generic": "Enalapril",
+    "brands": [
+      "Vasotec"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ACE Inhibitor, antihypertensive",
+    "common_dose": "Tablet: 2.5 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 31,
+    "generic": "Ramipril",
+    "brands": [
+      "Altace"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ACE Inhibitor, antihypertensive",
+    "common_dose": "Capsule: 1.25/2.5 mg"
+  },
+  {
+    "rank": 32,
+    "generic": "Quinapril",
+    "brands": [
+      "Accupril",
+      "Accuretic"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ACE Inhibitor, antihypertensive; Accuretic- combo with diuretic",
+    "common_dose": "Tablet: 5 mg; Tablet: 10 mg"
+  },
+  {
+    "rank": 33,
+    "generic": "Benazepril, Ben/HCTZ",
+    "brands": [
+      "Lotensin",
+      "Lotensin HCT"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ACE Inhibitor, antihypertensive; HCT-combo with diuretic",
+    "common_dose": "Tablet: 5 mg/6.25 mg; Tablet: 10 mg/12.5 mg"
+  },
+  {
+    "rank": 34,
+    "generic": "Lisinopril, Lis/HCTZ",
+    "brands": [
+      "Zestril or Prinivil",
+      "Zestoretic"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ACE Inhibitor, antihypertensive; Zestoretic- combo with diuretic",
+    "common_dose": "Tablet: 12.5 mg/10 mg; Tablet: 12.5 mg/20 mg"
+  },
+  {
+    "rank": 35,
+    "generic": "Doxazosin Mesylate",
+    "brands": [
+      "Cardura",
+      "Cardura XL"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Alpha 1 Blocker antihypertensive, also used in BPH",
+    "common_dose": "Tablet: 1/2 mg"
+  },
+  {
+    "rank": 36,
+    "generic": "Terazosin",
+    "brands": [
+      "Hytrin"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Alpha 1 Blocker antihypertensive, also used in BPH",
+    "common_dose": "Capsule: 1/2 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 37,
+    "generic": "Clonidine",
+    "brands": [
+      "Catapres",
+      "Catapres TTS",
+      "Nexiclon XR"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Alpha II agonist, antihypertensive",
+    "common_dose": "Tablet: 0.1 mg; Solution: 0.02 mg/mL"
+  },
+  {
+    "rank": 38,
+    "generic": "Amiodarone",
+    "brands": [
+      "Cordarone"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antiarrhythmic",
+    "common_dose": "Tablet: 100/200 mg; Injection: 50 mg/mL"
+  },
+  {
+    "rank": 39,
+    "generic": "Warfarin Sodium",
+    "brands": [
+      "Coumadin"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Anticoagulant",
+    "common_dose": "Tablet: 1/2 mg"
+  },
+  {
+    "rank": 40,
+    "generic": "Fenofibrate",
+    "brands": [
+      "TRICOR",
+      "Trilipix"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic",
+    "common_dose": "Tablet: 40/48 mg; Capsule: 30/43 mg"
+  },
+  {
+    "rank": 41,
+    "generic": "Gemfibrozil",
+    "brands": [
+      "Lopid"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic",
+    "common_dose": "Tablet: 600 mg"
+  },
+  {
+    "rank": 42,
+    "generic": "Niacin",
+    "brands": [
+      "Niaspan ER"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic",
+    "common_dose": "Tablet: 0.15 mg/0.02 mg/0.06 mg; Capsule: 30 mg"
+  },
+  {
+    "rank": 43,
+    "generic": "Atorvastatin",
+    "brands": [
+      "Lipitor"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic - HMG CoA reductase inhibitor",
+    "common_dose": "Tablet: 2.5 mg/40 mg; Suspension: 4 mg/mL"
+  },
+  {
+    "rank": 44,
+    "generic": "Lovastatin",
+    "brands": [
+      "Mevacor",
+      "Altoprev ER"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic - HMG CoA reductase inhibitor",
+    "common_dose": "Tablet: 10/20 mg"
+  },
+  {
+    "rank": 45,
+    "generic": "Pravastatin",
+    "brands": [
+      "Pravachol"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic - HMG CoA reductase inhibitor",
+    "common_dose": "Tablet: 10/20 mg"
+  },
+  {
+    "rank": 46,
+    "generic": "Rosuvastatin",
+    "brands": [
+      "Crestor"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic - HMG CoA reductase inhibitor",
+    "common_dose": "Tablet: 5 mg; Capsule: 5/10 mg"
+  },
+  {
+    "rank": 47,
+    "generic": "Simvastatin/ezetimibe",
+    "brands": [
+      "Vytorin"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic - HMG CoA reductase inhibitor and cholesterol absorption inhibitor",
+    "common_dose": "Tablet: 10 mg/40 mg; Tablet: 10 mg/80 mg"
+  },
+  {
+    "rank": 48,
+    "generic": "Simvastatin",
+    "brands": [
+      "Zocor"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antihyperlipidemic - HMG reductase inhibitor",
+    "common_dose": "Tablet: 5 mg; Suspension: 4 mg/mL"
+  },
+  {
+    "rank": 49,
+    "generic": "Aspirin",
+    "brands": [
+      "Ecotrin"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Antiplatelet",
+    "common_dose": "Tablet: 81 mg/777 mg; Capsule: 25 mg/200 mg"
+  },
+  {
+    "rank": 50,
+    "generic": "Amlodipine + Valsartan",
+    "brands": [
+      "Exforge",
+      "Exforge HCT"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ARB + calcium channel blocker combo; HCT also contains diuretic",
+    "common_dose": "Tablet: 5 mg/160 mg; Tablet: 5 mg/25 mg/160 mg"
+  },
+  {
+    "rank": 51,
+    "generic": "Valsartan, Val/HCTZ",
+    "brands": [
+      "Diovan",
+      "Diovan HCT"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ARB Antihypertensive, HCT also contains diuretic",
+    "common_dose": "Tablet: 5 mg/25 mg/160 mg; Tablet: 5 mg/12.5 mg/160 mg"
+  },
+  {
+    "rank": 52,
+    "generic": "Irbesartan, Irbesartan/HCTZ",
+    "brands": [
+      "Avapro",
+      "Avalide"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ARB Antihypertensive; Avalide-combo with diuretic",
+    "common_dose": "Tablet: 12.5 mg/300 mg; Tablet: 12.5 mg/150 mg"
+  },
+  {
+    "rank": 53,
+    "generic": "Candesartan, Can/HCTZ",
+    "brands": [
+      "Atacand",
+      "Atacand HCT"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ARB Antihypertensive; HCT-combo with diuretic",
+    "common_dose": "Tablet: 16 mg/12.5 mg; Tablet: 32 mg/25 mg"
+  },
+  {
+    "rank": 54,
+    "generic": "Olmesartan",
+    "brands": [
+      "Benicar",
+      "Benicar HCT"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ARB Antihypertensive; HCT-combo with diuretic",
+    "common_dose": "Tablet: 5 mg/20 mg; Tablet: 5 mg/12.5 mg/20 mg"
+  },
+  {
+    "rank": 55,
+    "generic": "Losartan, Los/HCTZ",
+    "brands": [
+      "Cozaar",
+      "Hyzaar"
+    ],
+    "category": "Cardiovascular",
+    "indication": "ARB Antihypertensive; Hyzaar-combo with diuretic",
+    "common_dose": "Tablet: 12.5 mg/50 mg; Tablet: 12.5 mg/100 mg"
+  },
+  {
+    "rank": 56,
+    "generic": "Atenolol",
+    "brands": [
+      "Tenormin"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Beta Blocker, Beta-1 Selective",
+    "common_dose": "Tablet: 25 mg; Tablet: 50 mg/25 mg"
+  },
+  {
+    "rank": 57,
+    "generic": "Metoprolol Succinate",
+    "brands": [
+      "Toprol XL"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Beta Blocker, Beta-1 Selective",
+    "common_dose": "Tablet: 12.5 mg; Capsule: 25/50 mg"
+  },
+  {
+    "rank": 58,
+    "generic": "Metoprolol Tartrate",
+    "brands": [
+      "Lopressor"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Beta Blocker, Beta-1 selective",
+    "common_dose": "Tablet: 12.5 mg; Capsule: 25/50 mg"
+  },
+  {
+    "rank": 59,
+    "generic": "Bisoprolol, Bisoprolol + HCTZ",
+    "brands": [
+      "Zebeta",
+      "Ziac"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Beta Blocker, Beta-1 selective; Ziac is combo with diuretic",
+    "common_dose": "Tablet: 2.5 mg/6.25 mg; Tablet: 5 mg/6.25 mg"
+  },
+  {
+    "rank": 60,
+    "generic": "Atenolol/chlorthalidone",
+    "brands": [
+      "Tenoretic"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Beta Blocker, Beta-1 Selective/thiazide diuretic",
+    "common_dose": "Tablet: 50 mg/25 mg; Tablet: 100 mg/25 mg"
+  },
+  {
+    "rank": 61,
+    "generic": "Propranolol",
+    "brands": [
+      "Inderal",
+      "Inderal LA",
+      "Innopran"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Beta Blocker, nonselective",
+    "common_dose": "Tablet: 10 mg; Capsule: 60/80 mg"
+  },
+  {
+    "rank": 62,
+    "generic": "Carvedilol (Coreg",
+    "brands": [
+      "CR)"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Beta Blocker, nonselective; Alpha-1 blocker",
+    "common_dose": "Tablet: 3.125/6.25 mg; Capsule: 10/20 mg"
+  },
+  {
+    "rank": 63,
+    "generic": "Labetalol",
+    "brands": [
+      "Normodyne or Trandate"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Beta Blocker, nonselective; Alpha-1 blocker",
+    "common_dose": "Tablet: 100/200 mg; Injection: 5 mg/mL"
+  },
+  {
+    "rank": 64,
+    "generic": "Digoxin",
+    "brands": [
+      "Lanoxin or Lanoxicap"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Cardiac glycoside: + Inotropic, - chronotropic",
+    "common_dose": "Tablet: 0.0625/0.125 mg; Solution: 0.05 mg/mL"
+  },
+  {
+    "rank": 65,
+    "generic": "Amlodipine + Olmestartan",
+    "brands": [
+      "Azor",
+      "Tribenzor"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Combination of ARB + calcium channel blocker; Tribenzor also contains diuretic",
+    "common_dose": "Tablet: 2.5 mg/10 mg; Capsule: 2.5 mg/10 mg"
+  },
+  {
+    "rank": 66,
+    "generic": "Amlodipine",
+    "brands": [
+      "Norvasc"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Dihydro calcium channel blocker",
+    "common_dose": "Tablet: 2.5 mg/10 mg; Capsule: 2.5 mg/10 mg"
+  },
+  {
+    "rank": 67,
+    "generic": "Nifedipine",
+    "brands": [
+      "Procardia",
+      "Procardia XL",
+      "Adalat CC"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Dihydro calcium channel blocker",
+    "common_dose": "Tablet: 30/60 mg; Capsule: 10/20 mg"
+  },
+  {
+    "rank": 68,
+    "generic": "Amlodipine + Benazepril",
+    "brands": [
+      "Lotrel"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Dihydro calcium channel blocker + ACE inhibitor combo",
+    "common_dose": "Capsule: 2.5 mg/10 mg; Capsule: 5 mg/20 mg"
+  },
+  {
+    "rank": 69,
+    "generic": "Amlodipine + Atorvastatin",
+    "brands": [
+      "Caduet"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Dihydro calcium channel blocker + HMG-CoA reductase inhibitor combo",
+    "common_dose": "Tablet: 2.5 mg/40 mg; Tablet: 2.5 mg/10 mg"
+  },
+  {
+    "rank": 70,
+    "generic": "Dabigatran",
+    "brands": [
+      "Pradaxa"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Direct thrombin inhibitor",
+    "common_dose": "Capsule: 75/110 mg; Oral Pellet: 20/30 mg"
+  },
+  {
+    "rank": 71,
+    "generic": "Potassium Chloride",
+    "brands": [
+      "Klor-Con"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Electrolyte supplement",
+    "common_dose": "Tablet: 0.132 mEq/0.107 mEq/0.537 mEq; Capsule: 8 mEq"
+  },
+  {
+    "rank": 72,
+    "generic": "Rivaroxaban",
+    "brands": [
+      "Xarelto"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Factor Xa inhibitor",
+    "common_dose": "Tablet: 2.5/10 mg; Suspension: 1 mg/mL"
+  },
+  {
+    "rank": 73,
+    "generic": "Apixaban",
+    "brands": [
+      "Eliquis"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Factor Xa inhibitor",
+    "common_dose": "Tablet: 2.5/5 mg"
+  },
+  {
+    "rank": 74,
+    "generic": "Furosemide",
+    "brands": [
+      "Lasix"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Loop diuretic",
+    "common_dose": "Tablet: 20/40 mg; Solution: 8 mg/mL"
+  },
+  {
+    "rank": 75,
+    "generic": "Enoxaparin",
+    "brands": [
+      "Lovenox"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Low molecular weight heparin",
+    "common_dose": "Injection: 100 mg/mL; Prefilled Syringe: 0.3 mL"
+  },
+  {
+    "rank": 76,
+    "generic": "Isosorbide Mononitrate",
+    "brands": [
+      "Imdur",
+      "ISMO"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Nitroglycerin antianginal/vasodilator",
+    "common_dose": "Tablet: 10/20 mg"
+  },
+  {
+    "rank": 77,
+    "generic": "Nitroglycerin SL",
+    "brands": [
+      "Nitrostat"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Nitroglycerin antianginal/vasodilator",
+    "common_dose": "Capsule: 2.5/6.5 mg; Ointment: 2%"
+  },
+  {
+    "rank": 78,
+    "generic": "Topical Nitroglycerin",
+    "brands": [
+      "Nitro-Dur"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Nitroglycerin antianginal/vasodilator",
+    "common_dose": "Ointment: 2%"
+  },
+  {
+    "rank": 79,
+    "generic": "Diltiazem",
+    "brands": [
+      "Cardizem",
+      "Cardizem SR",
+      "Cardizem CD"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Non-dihydro Calcium Channel Blocker",
+    "common_dose": "Tablet: 30/60 mg; Capsule: 60/90 mg"
+  },
+  {
+    "rank": 80,
+    "generic": "Verapamil",
+    "brands": [
+      "Calan",
+      "Calan SR",
+      "Isoptin SR"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Non-dihydro Calcium Channel Blocker",
+    "common_dose": "Tablet: 1 mg/240 mg; Capsule: 100/120 mg"
+  },
+  {
+    "rank": 81,
+    "generic": "Clopidogrel",
+    "brands": [
+      "Plavix"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Platelet Inhibitor",
+    "common_dose": "Tablet: 75/300 mg"
+  },
+  {
+    "rank": 82,
+    "generic": "Triamterene + HCTZ",
+    "brands": [
+      "Dyazide capsules or Maxzide tablets"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Potassium-sparing + thiazide diuretic combo",
+    "common_dose": "Tablet: 25 mg/37.5 mg; Capsule: 25 mg/50 mg"
+  },
+  {
+    "rank": 83,
+    "generic": "Spironolactone, Spir/HCTZ",
+    "brands": [
+      "Aldactone",
+      "Aldactazide"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Potassium-sparing diuretic; Aldactazide also contains diuretic",
+    "common_dose": "Tablet: 25 mg"
+  },
+  {
+    "rank": 84,
+    "generic": "Indapamide",
+    "brands": [
+      "Lozol"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Thiazide diuretic",
+    "common_dose": "Tablet: 1.25/2.5 mg"
+  },
+  {
+    "rank": 85,
+    "generic": "Chlorthalidone",
+    "brands": [
+      "Thalidone",
+      "Hygroton"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Thiazide diuretic",
+    "common_dose": "Tablet: 12.5 mg; Tablet: 15 mg/0.1 mg"
+  },
+  {
+    "rank": 86,
+    "generic": "Hydrochlorothiazide (aka HCTZ)",
+    "brands": [
+      "Oretic",
+      "Microzide"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Thiazide diuretic",
+    "common_dose": "Tablet: 2.5 mg/6.25 mg; Capsule: 12.5 mg"
+  },
+  {
+    "rank": 87,
+    "generic": "Metolazone",
+    "brands": [
+      "Zaroxolyn"
+    ],
+    "category": "Cardiovascular",
+    "indication": "Thiazide diuretic",
+    "common_dose": "Tablet: 2.5/5 mg"
+  },
+  {
+    "rank": 88,
+    "generic": "Ondansetron",
+    "brands": [
+      "Zofran",
+      "Zofran ODT"
+    ],
+    "category": "CNS",
+    "indication": "5-HT3 antagonist Antiemetic",
+    "common_dose": "Tablet: 4/8 mg; Solution: 0.8 mg/mL"
+  },
+  {
+    "rank": 89,
+    "generic": "Donepezil",
+    "brands": [
+      "Aricept"
+    ],
+    "category": "CNS",
+    "indication": "Acetylcholinesterase inhibitor",
+    "common_dose": "Tablet: 5/10 mg; Capsule: 10 mg/21 mg"
+  },
+  {
+    "rank": 90,
+    "generic": "Rivastigmine",
+    "brands": [
+      "Exelon",
+      "Exelon Patch"
+    ],
+    "category": "CNS",
+    "indication": "Acetylcholinesterase Inhibitor",
+    "common_dose": "Capsule: 1.5/3 mg; Transdermal System: 0.192 mg/HR"
+  },
+  {
+    "rank": 91,
+    "generic": "Butalbital + aspirin + caffeine, available with or without codeine",
+    "brands": [
+      "Fiorinal",
+      "Fiorinal with codeine"
+    ],
+    "category": "CNS",
+    "indication": "Analgesic Combo for Tension Headaches, C-III",
+    "common_dose": "Tablet: 300 mg/50 mg; Capsule: 300 mg/50 mg/40 mg"
+  },
+  {
+    "rank": 92,
+    "generic": "Butalbital + acetaminophen + caffeine (sometimes called B-A-C), available with or without codeine",
+    "brands": [
+      "Fioricet",
+      "Fioricet with codeine"
+    ],
+    "category": "CNS",
+    "indication": "Analgesic Combo for Tension Headaches, C-III if it has codeine",
+    "common_dose": "Tablet: 300 mg/50 mg; Capsule: 300 mg/50 mg/40 mg"
+  },
+  {
+    "rank": 93,
+    "generic": "Buspirone",
+    "brands": [
+      "Buspar"
+    ],
+    "category": "CNS",
+    "indication": "Antianxiety- serotonin 5-HT1A receptor partial agonist",
+    "common_dose": "Tablet: 5/7.5 mg; Capsule: 7.5/10 mg"
+  },
+  {
+    "rank": 94,
+    "generic": "Scopolamine",
+    "brands": [
+      "Transderm-Scop"
+    ],
+    "category": "CNS",
+    "indication": "Anticholinergic",
+    "common_dose": "Tablet: 0.0194 mg/0.1037 mg/16.2 mg/0.0065 mg; Solution: 0.00388 mg/mL/0.0207 mg/mL/3.24 mg/mL/0.0013 mg/mL"
+  },
+  {
+    "rank": 95,
+    "generic": "Mirtazapine",
+    "brands": [
+      "Remeron"
+    ],
+    "category": "CNS",
+    "indication": "Antidepressant",
+    "common_dose": "Tablet: 7.5/15 mg"
+  },
+  {
+    "rank": 96,
+    "generic": "Trazodone",
+    "brands": [
+      "Desyrel"
+    ],
+    "category": "CNS",
+    "indication": "Antidepressant/Sleep Aid",
+    "common_dose": "Tablet: 50/100 mg; Solution: 10 mg/mL"
+  },
+  {
+    "rank": 97,
+    "generic": "Bupropion (Wellbutrin (SR)",
+    "brands": [
+      "XL) or Zyban"
+    ],
+    "category": "CNS",
+    "indication": "Antidepressant/smoking cessation aid",
+    "common_dose": "Tablet: 75 mg; Tablet: 90 mg/8 mg"
+  },
+  {
+    "rank": 98,
+    "generic": "Carbamazepine (Tegretol",
+    "brands": [
+      "XR)"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic",
+    "common_dose": "Tablet: 100/200 mg; Capsule: 100/200 mg"
+  },
+  {
+    "rank": 99,
+    "generic": "Lamotrigine",
+    "brands": [
+      "Lamictal"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic",
+    "common_dose": "Tablet: 25/50 mg; Suspension: 2 mg"
+  },
+  {
+    "rank": 100,
+    "generic": "Levetiracetam",
+    "brands": [
+      "Keppra"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic",
+    "common_dose": "Tablet: 250/500 mg; Suspension: 250/500 mg"
+  },
+  {
+    "rank": 101,
+    "generic": "Oxcarbazepine",
+    "brands": [
+      "Trileptal"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic",
+    "common_dose": "Tablet: 150/300 mg; Suspension: 60 mg/mL"
+  },
+  {
+    "rank": 102,
+    "generic": "Phenytoin Sodium",
+    "brands": [
+      "Dilantin Kapseals"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic",
+    "common_dose": "Capsule: 30/100 mg; Suspension: 25 mg/mL"
+  },
+  {
+    "rank": 103,
+    "generic": "Divalproex (Depakote",
+    "brands": [
+      "ER)"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic, mood stabilizer",
+    "common_dose": "Tablet: 125/250 mg; Capsule: 125 mg"
+  },
+  {
+    "rank": 104,
+    "generic": "Phenobarbital",
+    "brands": [
+      "Phenobarbital"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic/hypnotic; C-IV",
+    "common_dose": "Tablet: 0.0194 mg/0.1037 mg/16.2 mg/0.0065 mg; Solution: 0.00388 mg/mL/0.0207 mg/mL/3.24 mg/mL/0.0013 mg/mL"
+  },
+  {
+    "rank": 105,
+    "generic": "Topiramate",
+    "brands": [
+      "Topamax"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic/Migraine prophylactic",
+    "common_dose": "Tablet: 25/50 mg; Capsule: 3.75 mg/23 mg"
+  },
+  {
+    "rank": 106,
+    "generic": "Gabapentin",
+    "brands": [
+      "Neurontin"
+    ],
+    "category": "CNS",
+    "indication": "Antiepileptic/neuropathic analgesic",
+    "common_dose": "Tablet: 100/300 mg; Capsule: 100/300 mg"
+  },
+  {
+    "rank": 107,
+    "generic": "Hydroxyzine hydrochloride",
+    "brands": [
+      "Atarax"
+    ],
+    "category": "CNS",
+    "indication": "Antihistamine",
+    "common_dose": "Tablet: 10/25 mg; Solution: 2 mg/mL"
+  },
+  {
+    "rank": 108,
+    "generic": "Hydroxyzine pamoate",
+    "brands": [
+      "Vistaril"
+    ],
+    "category": "CNS",
+    "indication": "Antihistamine/antianxiety",
+    "common_dose": "Capsule: 25/50 mg"
+  },
+  {
+    "rank": 109,
+    "generic": "Eletriptan",
+    "brands": [
+      "Relpax"
+    ],
+    "category": "CNS",
+    "indication": "Antimigraine, 5-HT1 agonist",
+    "common_dose": "Tablet: 20/40 mg"
+  },
+  {
+    "rank": 110,
+    "generic": "Rizatriptan",
+    "brands": [
+      "Maxalt",
+      "Maxalt MLT"
+    ],
+    "category": "CNS",
+    "indication": "Antimigraine, 5-HT1 agonist",
+    "common_dose": "Tablet: 5 mg; Oral Film: 10 mg"
+  },
+  {
+    "rank": 111,
+    "generic": "Sumatriptan",
+    "brands": [
+      "Imitrex"
+    ],
+    "category": "CNS",
+    "indication": "Antimigraine, 5-HT1 agonist",
+    "common_dose": "Tablet: 25 mg; Nasal spray: 5 mg/ACTunitsAT"
+  },
+  {
+    "rank": 112,
+    "generic": "Benztropine",
+    "brands": [
+      "Cogentin"
+    ],
+    "category": "CNS",
+    "indication": "Antiparkinson Agent",
+    "common_dose": "Tablet: 0.5/1 mg; Injection: 2 mL"
+  },
+  {
+    "rank": 113,
+    "generic": "Levodopa/Carbidopa (Sinemet",
+    "brands": [
+      "CR)"
+    ],
+    "category": "CNS",
+    "indication": "Antiparkinson Agent",
+    "common_dose": "Tablet: 10 mg/100 mg; Capsule: 23.75 mg/95 mg"
+  },
+  {
+    "rank": 114,
+    "generic": "Pramipexole",
+    "brands": [
+      "Mirapex"
+    ],
+    "category": "CNS",
+    "indication": "Antiparkinson Agent",
+    "common_dose": "Tablet: 0.125/0.25 mg"
+  },
+  {
+    "rank": 115,
+    "generic": "Ropinirole",
+    "brands": [
+      "Requip"
+    ],
+    "category": "CNS",
+    "indication": "Antiparkinson/Restless Leg agent",
+    "common_dose": "Tablet: 0.25/0.5 mg"
+  },
+  {
+    "rank": 116,
+    "generic": "Olanzapine",
+    "brands": [
+      "Zyprexa"
+    ],
+    "category": "CNS",
+    "indication": "Antipsychotic",
+    "common_dose": "Tablet: 2.5 mg; Capsule: 25 mg/12 mg"
+  },
+  {
+    "rank": 117,
+    "generic": "Quetiapine (Seroquel",
+    "brands": [
+      "XR)"
+    ],
+    "category": "CNS",
+    "indication": "Antipsychotic",
+    "common_dose": "Tablet: 25/50 mg"
+  },
+  {
+    "rank": 118,
+    "generic": "Risperidone",
+    "brands": [
+      "Risperdal"
+    ],
+    "category": "CNS",
+    "indication": "Antipsychotic",
+    "common_dose": "Tablet: 0.25/0.5 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 119,
+    "generic": "Ziprasidone",
+    "brands": [
+      "Geodon"
+    ],
+    "category": "CNS",
+    "indication": "Antipsychotic",
+    "common_dose": "Capsule: 20/40 mg; Injection: 20 mg"
+  },
+  {
+    "rank": 120,
+    "generic": "Aripiprazole",
+    "brands": [
+      "Abilify"
+    ],
+    "category": "CNS",
+    "indication": "Antipsychotic for bipolar, schizophrenia, and major depressive disorder",
+    "common_dose": "Tablet: 2/5 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 121,
+    "generic": "Meclizine",
+    "brands": [
+      "Antivert"
+    ],
+    "category": "CNS",
+    "indication": "Antivertigo Agent",
+    "common_dose": "Tablet: 12.5/25 mg; Chewable Tablet: 25/50 mg"
+  },
+  {
+    "rank": 122,
+    "generic": "Alprazolam (Xanax",
+    "brands": [
+      "XR)"
+    ],
+    "category": "CNS",
+    "indication": "Benzodiazepine Antianxiety, C-IV",
+    "common_dose": "Tablet: 0.25/0.5 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 123,
+    "generic": "Clonazepam",
+    "brands": [
+      "Klonopin"
+    ],
+    "category": "CNS",
+    "indication": "Benzodiazepine Antianxiety; C-IV",
+    "common_dose": "Tablet: 0.125/0.25 mg"
+  },
+  {
+    "rank": 124,
+    "generic": "Diazepam",
+    "brands": [
+      "Valium"
+    ],
+    "category": "CNS",
+    "indication": "Benzodiazepine Antianxiety; C-IV",
+    "common_dose": "Tablet: 2/5 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 125,
+    "generic": "Lorazepam",
+    "brands": [
+      "Ativan"
+    ],
+    "category": "CNS",
+    "indication": "Benzodiazepine Antianxiety; C-IV",
+    "common_dose": "Tablet: 0.5/1 mg; Capsule: 1/1.5 mg"
+  },
+  {
+    "rank": 126,
+    "generic": "Temazepam",
+    "brands": [
+      "Restoril"
+    ],
+    "category": "CNS",
+    "indication": "Benzodiazepine Antianxiety; C-IV",
+    "common_dose": "Capsule: 7.5/15 mg"
+  },
+  {
+    "rank": 127,
+    "generic": "Phentermine",
+    "brands": [
+      "Adipex-P"
+    ],
+    "category": "CNS",
+    "indication": "CNS stimulant - Obesity Management; C-IV",
+    "common_dose": "Tablet: 8/37.5 mg; Capsule: 3.75 mg/23 mg"
+  },
+  {
+    "rank": 128,
+    "generic": "Methylphenidate (Concerta or Ritalin",
+    "brands": [
+      "ER) or Metadate CD"
+    ],
+    "category": "CNS",
+    "indication": "CNS Stimulant for ADD, C-II",
+    "common_dose": "Tablet: 5/8.6 mg; Capsule: 10/15 mg"
+  },
+  {
+    "rank": 129,
+    "generic": "Atomoxetine",
+    "brands": [
+      "Strattera"
+    ],
+    "category": "CNS",
+    "indication": "CNS Stimulant, used for ADD",
+    "common_dose": "Capsule: 10/18 mg"
+  },
+  {
+    "rank": 130,
+    "generic": "(Dex)/Amphetamine Mixed salts (Adderall",
+    "brands": [
+      "XR)"
+    ],
+    "category": "CNS",
+    "indication": "CNS Stimulant, used for ADD; C-II",
+    "common_dose": "Tablet: 1.25/1.875 mg; Capsule: 1.25/2.5 mg"
+  },
+  {
+    "rank": 131,
+    "generic": "Lisdexamfetamine",
+    "brands": [
+      "Vyvanse"
+    ],
+    "category": "CNS",
+    "indication": "CNS Stimulant, used for ADHD; C-II",
+    "common_dose": "Capsule: 10/20 mg; Solution: 10 mg/mL"
+  },
+  {
+    "rank": 132,
+    "generic": "Modafinil",
+    "brands": [
+      "Provigil"
+    ],
+    "category": "CNS",
+    "indication": "CNS Stimulant, used for narcolepsy; C-IV",
+    "common_dose": "Tablet: 100/200 mg"
+  },
+  {
+    "rank": 133,
+    "generic": "Dexmethylphenidate (Focalin",
+    "brands": [
+      "XR)"
+    ],
+    "category": "CNS",
+    "indication": "CNS stimulant; C-II",
+    "common_dose": "Tablet: 2.5/5 mg; Capsule: 5 mg"
+  },
+  {
+    "rank": 134,
+    "generic": "Zaleplon",
+    "brands": [
+      "Sonata"
+    ],
+    "category": "CNS",
+    "indication": "hypnotic, nonbenzodiazepine; C-IV",
+    "common_dose": "Capsule: 5/10 mg"
+  },
+  {
+    "rank": 135,
+    "generic": "Cyclobenzaprine",
+    "brands": [
+      "Flexeril"
+    ],
+    "category": "CNS",
+    "indication": "Muscle Relaxant",
+    "common_dose": "Tablet: 5/7.5 mg; Capsule: 15/30 mg"
+  },
+  {
+    "rank": 136,
+    "generic": "Metaxalone",
+    "brands": [
+      "Skelaxin"
+    ],
+    "category": "CNS",
+    "indication": "Muscle Relaxant",
+    "common_dose": "Tablet: 400/640 mg"
+  },
+  {
+    "rank": 137,
+    "generic": "Carisoprodol",
+    "brands": [
+      "Soma"
+    ],
+    "category": "CNS",
+    "indication": "Muscle Relaxant; C-IV",
+    "common_dose": "Tablet: 250 mg; Tablet: 325 mg/200 mg/16 mg"
+  },
+  {
+    "rank": 138,
+    "generic": "Fentanyl",
+    "brands": [
+      "Duragesic"
+    ],
+    "category": "CNS",
+    "indication": "Narcotic Analgesic; C-II",
+    "common_dose": "Oral Lozenge: 0.2/0.4 mg; Nasal spray: 0.1 mg/ACTunitsAT"
+  },
+  {
+    "rank": 139,
+    "generic": "Morphine Sulfate",
+    "brands": [
+      "MS Contin"
+    ],
+    "category": "CNS",
+    "indication": "Narcotic Analgesic; C-II",
+    "common_dose": "Tablet: 15/30 mg; Capsule: 10 mg"
+  },
+  {
+    "rank": 140,
+    "generic": "Oxycodone",
+    "brands": [
+      "Oxycontin"
+    ],
+    "category": "CNS",
+    "indication": "Narcotic Analgesic; C-II",
+    "common_dose": "Tablet: 5/7.5 mg; Capsule: 5/9 mg"
+  },
+  {
+    "rank": 141,
+    "generic": "Oxycodone/APAP",
+    "brands": [
+      "Percocet or Roxicet"
+    ],
+    "category": "CNS",
+    "indication": "Narcotic Analgesic; C-II",
+    "common_dose": "Tablet: 300 mg/10 mg; Solution: 60 mg/mL/2 mg/mL"
+  },
+  {
+    "rank": 142,
+    "generic": "Acetaminophen/ Codeine",
+    "brands": [
+      "Tylenol with Codeine"
+    ],
+    "category": "CNS",
+    "indication": "Narcotic Analgesic; C-III",
+    "common_dose": "Tablet: 300 mg/15 mg; Capsule: 300 mg/50 mg/40 mg/30 mg"
+  },
+  {
+    "rank": 143,
+    "generic": "Hydrocodone / chlorpheniramine Polistirex",
+    "brands": [
+      "Tussionex"
+    ],
+    "category": "CNS",
+    "indication": "Narcotic Analgesic; C-III",
+    "common_dose": "Release Suspension: 1.6 mg/mL/2 mg/mL"
+  },
+  {
+    "rank": 144,
+    "generic": "Hydrocodone/Ibuprofen",
+    "brands": [
+      "Vicoprofen"
+    ],
+    "category": "CNS",
+    "indication": "Narcotic Analgesic; C-III",
+    "common_dose": "Tablet: 2.5 mg/200 mg; Tablet: 5 mg/200 mg"
+  },
+  {
+    "rank": 145,
+    "generic": "Hydrocodone/APAP",
+    "brands": [
+      "Lortab or Vicodin or Lorcet"
+    ],
+    "category": "CNS",
+    "indication": "Narcotic/APAP Analgesic - CIII",
+    "common_dose": "Tablet: 300 mg/10 mg; Solution: 20 mg/mL/0.667 mg/mL"
+  },
+  {
+    "rank": 146,
+    "generic": "Pregabalin",
+    "brands": [
+      "Lyrica"
+    ],
+    "category": "CNS",
+    "indication": "Neuropathic Analgesic - CV",
+    "common_dose": "Tablet: 82.5/165 mg; Capsule: 25/50 mg"
+  },
+  {
+    "rank": 147,
+    "generic": "Varenicline Tartrate",
+    "brands": [
+      "Chantix"
+    ],
+    "category": "CNS",
+    "indication": "Nicotinic receptor agonist, Smoking cessation",
+    "common_dose": "Tablet: 0.5/1 mg; Nasal spray: 0.03 mg/ACTunitsAT"
+  },
+  {
+    "rank": 148,
+    "generic": "Memantine",
+    "brands": [
+      "Namenda"
+    ],
+    "category": "CNS",
+    "indication": "NMDA receptor antagonist; anti-Alzheimer's agent",
+    "common_dose": "Tablet: 5/10 mg; Capsule: 7 mg"
+  },
+  {
+    "rank": 149,
+    "generic": "Diclofenac (sodium DR / potassium IR)",
+    "brands": [
+      "Voltaren",
+      "Cataflam"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Tablet: 25 mg; Capsule: 18/25 mg"
+  },
+  {
+    "rank": 150,
+    "generic": "Etodolac (Lodine",
+    "brands": [
+      "XL)"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Tablet: 400/500 mg; Capsule: 200/300 mg"
+  },
+  {
+    "rank": 151,
+    "generic": "Indomethacin",
+    "brands": [
+      "Indocin"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Capsule: 20/25 mg; Suspension: 5 mg/mL"
+  },
+  {
+    "rank": 152,
+    "generic": "Ketorolac Tromethamine",
+    "brands": [
+      "Toradol"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Tablet: 10 mg; Nasal spray: 15.8 mg/ACTunitsAT"
+  },
+  {
+    "rank": 153,
+    "generic": "Meloxicam",
+    "brands": [
+      "Mobic"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Tablet: 7.5 mg; Capsule: 5/10 mg"
+  },
+  {
+    "rank": 154,
+    "generic": "Nabumetone",
+    "brands": [
+      "Relafen"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Tablet: 500/750 mg"
+  },
+  {
+    "rank": 155,
+    "generic": "Naproxen and Naproxen sodium",
+    "brands": [
+      "Naprosyn",
+      "Anaprox",
+      "Aleve"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Tablet: 20 mg/375 mg; Capsule: 220 mg"
+  },
+  {
+    "rank": 156,
+    "generic": "Piroxicam",
+    "brands": [
+      "Feldene"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Capsule: 10/20 mg"
+  },
+  {
+    "rank": 157,
+    "generic": "Ibuprofen",
+    "brands": [
+      "Motrin or Advil"
+    ],
+    "category": "CNS",
+    "indication": "NSAID",
+    "common_dose": "Tablet: 2 mg/200 mg/30 mg; Capsule: 25 mg/200 mg"
+  },
+  {
+    "rank": 158,
+    "generic": "Celecoxib",
+    "brands": [
+      "Celebrex"
+    ],
+    "category": "CNS",
+    "indication": "NSAID Cox - II selective",
+    "common_dose": "Tablet: 2.5 mg/200 mg; Capsule: 50/100 mg"
+  },
+  {
+    "rank": 159,
+    "generic": "Diclofenac/Misoprostol",
+    "brands": [
+      "Arthrotec"
+    ],
+    "category": "CNS",
+    "indication": "NSAID/prostaglandin combo",
+    "common_dose": "Tablet: 50 mg/0.2 mg; Tablet: 75 mg/0.2 mg"
+  },
+  {
+    "rank": 160,
+    "generic": "Tramadol",
+    "brands": [
+      "Ultram",
+      "Ultram ER"
+    ],
+    "category": "CNS",
+    "indication": "Opioid analgesic",
+    "common_dose": "Tablet: 25 mg; Capsule: 100/150 mg"
+  },
+  {
+    "rank": 161,
+    "generic": "Tramadol + acetaminophen",
+    "brands": [
+      "Ultracet"
+    ],
+    "category": "CNS",
+    "indication": "Opioid analgesic combo",
+    "common_dose": "Tablet: 325 mg/37.5 mg"
+  },
+  {
+    "rank": 162,
+    "generic": "Acetaminophen",
+    "brands": [
+      "Tylenol"
+    ],
+    "category": "CNS",
+    "indication": "Pain, antipyretic",
+    "common_dose": "Tablet: 80 mg; Capsule: 250 mg/10 mg/G/100 mg/30 mg"
+  },
+  {
+    "rank": 163,
+    "generic": "Eszopiclone",
+    "brands": [
+      "Lunesta"
+    ],
+    "category": "CNS",
+    "indication": "Sedative Hypnotic",
+    "common_dose": "Tablet: 1/2 mg"
+  },
+  {
+    "rank": 164,
+    "generic": "Zolpidem (Ambien",
+    "brands": [
+      "CR)"
+    ],
+    "category": "CNS",
+    "indication": "Sedative Hypnotic; C-IV",
+    "common_dose": "Tablet: 5/6.25 mg; Capsule: 7.5 mg"
+  },
+  {
+    "rank": 165,
+    "generic": "Desvenlafaxine",
+    "brands": [
+      "Pristiq"
+    ],
+    "category": "CNS",
+    "indication": "SNRI antidepressant",
+    "common_dose": "Tablet: 25/50 mg"
+  },
+  {
+    "rank": 166,
+    "generic": "Duloxetine",
+    "brands": [
+      "Cymbalta"
+    ],
+    "category": "CNS",
+    "indication": "SNRI Antidepressant",
+    "common_dose": "Capsule: 20/30 mg"
+  },
+  {
+    "rank": 167,
+    "generic": "Venlafaxine (Effexor",
+    "brands": [
+      "XR)"
+    ],
+    "category": "CNS",
+    "indication": "SNRI Antidepressant",
+    "common_dose": "Tablet: 25/37.5 mg; Capsule: 37.5/75 mg"
+  },
+  {
+    "rank": 168,
+    "generic": "Citalopram",
+    "brands": [
+      "Celexa"
+    ],
+    "category": "CNS",
+    "indication": "SSRI Antidepressant",
+    "common_dose": "Tablet: 10/20 mg; Capsule: 30 mg"
+  },
+  {
+    "rank": 169,
+    "generic": "Escitalopram",
+    "brands": [
+      "Lexapro"
+    ],
+    "category": "CNS",
+    "indication": "SSRI Antidepressant",
+    "common_dose": "Tablet: 5/10 mg; Capsule: 15 mg"
+  },
+  {
+    "rank": 170,
+    "generic": "Fluoxetine",
+    "brands": [
+      "Prozac or Sarafem"
+    ],
+    "category": "CNS",
+    "indication": "SSRI Antidepressant",
+    "common_dose": "Tablet: 10/20 mg; Capsule: 10 mg"
+  },
+  {
+    "rank": 171,
+    "generic": "Paroxetine (Paxil",
+    "brands": [
+      "CR)"
+    ],
+    "category": "CNS",
+    "indication": "SSRI Antidepressant",
+    "common_dose": "Tablet: 10/12.5 mg; Capsule: 7.5 mg"
+  },
+  {
+    "rank": 172,
+    "generic": "Sertraline",
+    "brands": [
+      "Zoloft"
+    ],
+    "category": "CNS",
+    "indication": "SSRI Antidepressant",
+    "common_dose": "Tablet: 25/50 mg; Capsule: 150/200 mg"
+  },
+  {
+    "rank": 173,
+    "generic": "Lidocaine",
+    "brands": [
+      "Lidoderm Patches"
+    ],
+    "category": "CNS",
+    "indication": "Topical analgesic",
+    "common_dose": "Cream: 0.1 mL/mL mg/mL; Gel: 0.0013 mg/mg/0.005 mg/mg"
+  },
+  {
+    "rank": 174,
+    "generic": "Amitriptyline",
+    "brands": [
+      "Elavil"
+    ],
+    "category": "CNS",
+    "indication": "Tricyclic Antidepressant",
+    "common_dose": "Tablet: 10 mg; Tablet: 10 mg/4 mg"
+  },
+  {
+    "rank": 175,
+    "generic": "Imipramine (Tofranil",
+    "brands": [
+      "PM)"
+    ],
+    "category": "CNS",
+    "indication": "Tricyclic Antidepressant",
+    "common_dose": "Tablet: 10/25 mg; Capsule: 75/100 mg"
+  },
+  {
+    "rank": 176,
+    "generic": "Lithium Carbonate",
+    "brands": [
+      "Eskalith or Lithobid"
+    ],
+    "category": "CNS",
+    "indication": "Mood Stabilizer",
+    "common_dose": "Tablet: 300/450 mg; Capsule: 150/300 mg"
+  },
+  {
+    "rank": 177,
+    "generic": "Adapalene",
+    "brands": [
+      "Differin"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical Acne Product",
+    "common_dose": "Gel: 0.1%; Topical Solution: 0.1%"
+  },
+  {
+    "rank": 178,
+    "generic": "Clindamycin/Benzoyl Peroxide",
+    "brands": [
+      "Benzaclin"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical Acne Product",
+    "common_dose": "Gel: 0.0015 mg/mg/0.031 mg/mg/0.012 mg/mg; Gel: 0.025 mg/mg/0.012 mg/mg"
+  },
+  {
+    "rank": 179,
+    "generic": "Erythromycin/Benzoyl Peroxide",
+    "brands": [
+      "Benzamycin"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical Acne Product",
+    "common_dose": "Gel: 0.05 mg/mg/0.03 mg/mg"
+  },
+  {
+    "rank": 180,
+    "generic": "Clobetasol",
+    "brands": [
+      "Clobex"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical Corticosteroid",
+    "common_dose": "Cream: 0.025/0.05%; Gel: 0.05%"
+  },
+  {
+    "rank": 181,
+    "generic": "Mometasone",
+    "brands": [
+      "Elocon"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical Corticosteroid",
+    "common_dose": "Cream: 0.1%; Ointment: 0.1%"
+  },
+  {
+    "rank": 182,
+    "generic": "Triamcinolone",
+    "brands": [
+      "Kenalog"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical Corticosteroid",
+    "common_dose": "Oral Paste: 0.001 mg/mg; Ointment: 0.025%"
+  },
+  {
+    "rank": 183,
+    "generic": "Pimecrolimus",
+    "brands": [
+      "Elidel"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical skin product",
+    "common_dose": "Cream: 1%"
+  },
+  {
+    "rank": 184,
+    "generic": "Clotrimazole/Betamethason e Diproprionate",
+    "brands": [
+      "Lotrisone"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical Antifungal/Corticosteroid",
+    "common_dose": "Oral Lozenge: 10 mg; Lotion: 0.5 mg/mL/10 mg/mL"
+  },
+  {
+    "rank": 185,
+    "generic": "Fluocinonide topical",
+    "brands": [
+      "Lidex",
+      "Lidex-E",
+      "Vanos"
+    ],
+    "category": "Dermatological",
+    "indication": "Topical Corticosteroid",
+    "common_dose": "Cream: 0.05/0.1%; Ointment: 0.05%"
+  },
+  {
+    "rank": 186,
+    "generic": "Finasteride",
+    "brands": [
+      "Propecia or Proscar"
+    ],
+    "category": "Endocrine",
+    "indication": "5 alpha reductase inhibitor",
+    "common_dose": "Tablet: 1/5 mg; Capsule: 5 mg"
+  },
+  {
+    "rank": 187,
+    "generic": "isotretinoin",
+    "brands": [
+      "Accutane or Claravis"
+    ],
+    "category": "Endocrine",
+    "indication": "Acne treatment",
+    "common_dose": "Capsule: 8/10 mg"
+  },
+  {
+    "rank": 188,
+    "generic": "Testosterone",
+    "brands": [
+      "AndroGel"
+    ],
+    "category": "Endocrine",
+    "indication": "Androgen; C-III",
+    "common_dose": "Capsule: 100/112.5 mg; Gel: 10 mg/ACTunitsAT"
+  },
+  {
+    "rank": 189,
+    "generic": "Metformin (Glucophage",
+    "brands": [
+      "XR)",
+      "Fortamet"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic - Biguanide",
+    "common_dose": "Tablet: 1.25 mg/250 mg; Solution: 100 mg/mL"
+  },
+  {
+    "rank": 190,
+    "generic": "Sitagliptin, Sit+Metformin (Januvia / Janumet",
+    "brands": [
+      "XR)"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic - Dipeptidyl peptidase IV inhibitor",
+    "common_dose": "Tablet: 500 mg/50 mg; Tablet: 1000 mg/50 mg"
+  },
+  {
+    "rank": 191,
+    "generic": "Saxagliptin",
+    "brands": [
+      "Onglyza"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic - Dipeptidyl peptidase IV inhibitor",
+    "common_dose": "Tablet: 2.5 mg; Tablet: 5 mg"
+  },
+  {
+    "rank": 192,
+    "generic": "Glimepiride",
+    "brands": [
+      "Amaryl"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic - Sulfonylurea",
+    "common_dose": "Tablet: 1 mg; Tablet: 2 mg/30 mg"
+  },
+  {
+    "rank": 193,
+    "generic": "Glipizide (Glucotrol",
+    "brands": [
+      "XL)"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic - Sulfonylurea",
+    "common_dose": "Tablet: 2.5 mg; Tablet: 2.5 mg/500 mg"
+  },
+  {
+    "rank": 194,
+    "generic": "Glyburide, Glyburide/Metformin",
+    "brands": [
+      "Micronase",
+      "Glucovance"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic - Sulfonylurea",
+    "common_dose": "Tablet: 1.25 mg/250 mg; Tablet: 2.5 mg/500 mg"
+  },
+  {
+    "rank": 195,
+    "generic": "Pioglitazone",
+    "brands": [
+      "Actos"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic - Thiazolidinedione",
+    "common_dose": "Tablet: 2 mg/30 mg; Tablet: 4 mg/30 mg"
+  },
+  {
+    "rank": 196,
+    "generic": "Exenatide, Exenatide weekly",
+    "brands": [
+      "Byetta",
+      "Bydureon"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic Glucagon-Like Peptide-1 Receptor Agonist",
+    "common_dose": "Injection: 2 mg; Pen Injector: 0.005 mg/ACTunitsAT"
+  },
+  {
+    "rank": 197,
+    "generic": "Liraglutide",
+    "brands": [
+      "Victoza"
+    ],
+    "category": "Endocrine",
+    "indication": "Antidiabetic Glucagon-Like Peptide-1 Receptor Agonist",
+    "common_dose": "Pen Injector: 3 mL/100 units mg/mL; Pen Injector: 3 mL/6 mg/mL"
+  },
+  {
+    "rank": 198,
+    "generic": "Alendronate",
+    "brands": [
+      "Fosamax"
+    ],
+    "category": "Endocrine",
+    "indication": "Bisphosphonate Osteoporosis Agent",
+    "common_dose": "Tablet: 5 mg; Solution: 0.933 mg/mL"
+  },
+  {
+    "rank": 199,
+    "generic": "Ibandronate",
+    "brands": [
+      "Boniva"
+    ],
+    "category": "Endocrine",
+    "indication": "Bisphosphonate Osteoporosis Agent",
+    "common_dose": "Tablet: 150 mg; Injection: 3 mL"
+  },
+  {
+    "rank": 200,
+    "generic": "Risedronate, delayed release enteric coated risedronate",
+    "brands": [
+      "Actonel",
+      "Atelvia"
+    ],
+    "category": "Endocrine",
+    "indication": "Bisphosphonate Osteoporosis Agent",
+    "common_dose": "Tablet: 35 mg"
+  },
+  {
+    "rank": 201,
+    "generic": "Estrogens (esterified) + methyltestosterone (Estratest",
+    "brands": [
+      "HS)"
+    ],
+    "category": "Endocrine",
+    "indication": "Combination Hormone",
+    "common_dose": "Tablet: 0.625 mg/1.25 mg; Tablet: 1.25 mg/2.5 mg"
+  },
+  {
+    "rank": 202,
+    "generic": "Estradiol/Norethindrone",
+    "brands": [
+      "Combipatch"
+    ],
+    "category": "Endocrine",
+    "indication": "Estrogen and Progestin Combination",
+    "common_dose": "Tablet: 0.0025 mg/0.5 mg; Capsule: 0.02 mg/1 mg"
+  },
+  {
+    "rank": 203,
+    "generic": "Conjugated Estrogens",
+    "brands": [
+      "Premarin"
+    ],
+    "category": "Endocrine",
+    "indication": "Estrogen hormone",
+    "common_dose": "Tablet: 0.3 mg; Vaginal Cream: 0.625 mg/mL"
+  },
+  {
+    "rank": 204,
+    "generic": "Estradiol",
+    "brands": [
+      "Climara",
+      "Estrace"
+    ],
+    "category": "Endocrine",
+    "indication": "Estrogen Hormone",
+    "common_dose": "Tablet: 0.0025 mg/0.5 mg; Capsule: 0.02 mg/1 mg"
+  },
+  {
+    "rank": 205,
+    "generic": "Raloxifene",
+    "brands": [
+      "Evista"
+    ],
+    "category": "Endocrine",
+    "indication": "Estrogen receptor modulator, Post-menopausal Osteoporosis",
+    "common_dose": "Tablet: 60 mg"
+  },
+  {
+    "rank": 206,
+    "generic": "Conjugated Estrogens with medroxyprogesterone",
+    "brands": [
+      "Prempro or Premphase"
+    ],
+    "category": "Endocrine",
+    "indication": "Estrogen-Progestin hormone combo",
+    "common_dose": "Tablet: 0.3 mg/1.5 mg; Tablet: 0.45 mg/1.5 mg"
+  },
+  {
+    "rank": 207,
+    "generic": "Colchicine",
+    "brands": [
+      "Colcrys"
+    ],
+    "category": "Endocrine",
+    "indication": "Gout - Inflammatory Mediator",
+    "common_dose": "Tablet: 0.5 mg; Capsule: 0.6 mg"
+  },
+  {
+    "rank": 208,
+    "generic": "Allopurinol",
+    "brands": [
+      "Zyloprim"
+    ],
+    "category": "Endocrine",
+    "indication": "Gout - Xanthine Oxidase Inhibitor",
+    "common_dose": "Tablet: 100 mg; Injection: 500 mg"
+  },
+  {
+    "rank": 209,
+    "generic": "Febuxostat",
+    "brands": [
+      "Uloric"
+    ],
+    "category": "Endocrine",
+    "indication": "Gout - Xanthine Oxidase Inhibitor",
+    "common_dose": "Tablet: 40/80 mg"
+  },
+  {
+    "rank": 210,
+    "generic": "Medroxyprogesterone Acetate",
+    "brands": [
+      "Provera"
+    ],
+    "category": "Endocrine",
+    "indication": "Hormone/Progestin",
+    "common_dose": "Tablet: 0.3 mg/1.5 mg; Injection: 1 mL"
+  },
+  {
+    "rank": 211,
+    "generic": "Insulin - regular",
+    "brands": [
+      "Humulin R"
+    ],
+    "category": "Endocrine",
+    "indication": "Insulin - Fast Acting",
+    "common_dose": "Inhaler: 4/8 units; Injection: 100 units/mL"
+  },
+  {
+    "rank": 212,
+    "generic": "Insulin - NPH",
+    "brands": [
+      "Humulin N"
+    ],
+    "category": "Endocrine",
+    "indication": "Insulin - Intermediate Acting",
+    "common_dose": "Inhaler: 4/8 units; Injection: 25 units/mL/75 units/mL"
+  },
+  {
+    "rank": 213,
+    "generic": "Insulin Detemir",
+    "brands": [
+      "Levemir"
+    ],
+    "category": "Endocrine",
+    "indication": "Insulin - Intermediate-Long acting",
+    "common_dose": "Injection: 100 units/mL; Pen Injector: 3 mL/100 units/mL"
+  },
+  {
+    "rank": 214,
+    "generic": "Insulin Glargine",
+    "brands": [
+      "Lantus"
+    ],
+    "category": "Endocrine",
+    "indication": "Insulin - Long Acting",
+    "common_dose": "Injection: 100 units/mL; Pen Injector: 1.5 mL/300 units/mL"
+  },
+  {
+    "rank": 215,
+    "generic": "Insulin Aspart",
+    "brands": [
+      "Novolog"
+    ],
+    "category": "Endocrine",
+    "indication": "Insulin - Rapid Acting",
+    "common_dose": "Injection: 70 units/mL/30 units/mL; Injection: 100 units/mL"
+  },
+  {
+    "rank": 216,
+    "generic": "Insulin Lispro",
+    "brands": [
+      "Humalog"
+    ],
+    "category": "Endocrine",
+    "indication": "Insulin - Rapid Acting",
+    "common_dose": "Injection: 25 units/mL/75 units/mL; Injection: 50 units/mL"
+  },
+  {
+    "rank": 217,
+    "generic": "Insulin Glulisine",
+    "brands": [
+      "Apidra"
+    ],
+    "category": "Endocrine",
+    "indication": "Insulin - Rapid Acting",
+    "common_dose": "Injection: 100 units/mL; Pen Injector: 3 mL/100 units/mL"
+  },
+  {
+    "rank": 218,
+    "generic": "Ethinyl Estradiol/ Drospirenone",
+    "brands": [
+      "Yasmin",
+      "Ocella",
+      "Yaz"
+    ],
+    "category": "Endocrine",
+    "indication": "Oral contraceptive",
+    "common_dose": "Tablet: 0.25 mg/0.5 mg; Tablet: 3 mg/0.03 mg"
+  },
+  {
+    "rank": 219,
+    "generic": "Ethinyl Estradiol / Desogestrel",
+    "brands": [
+      "Kariva",
+      "Ortho-Cept",
+      "Mircette"
+    ],
+    "category": "Endocrine",
+    "indication": "Oral contraceptive",
+    "common_dose": "Tablet: 0.1 mg/0.025 mg; Tablet: 0.125 mg/0.025 mg"
+  },
+  {
+    "rank": 220,
+    "generic": "Ethinyl Estradiol / Levonorgestrel",
+    "brands": [
+      "Aviane",
+      "Alesse"
+    ],
+    "category": "Endocrine",
+    "indication": "Oral contraceptive",
+    "common_dose": "Tablet: 0.02 mg/0.15 mg; Transdermal System: 0.00125 mg/HR/0.005 mg/HR"
+  },
+  {
+    "rank": 221,
+    "generic": "Norethindrone/Ethinyl Estradiol,Fe+",
+    "brands": [
+      "Loestrin FE"
+    ],
+    "category": "Endocrine",
+    "indication": "Oral contraceptive",
+    "common_dose": "Tablet: 0.0025 mg/0.5 mg; Capsule: 0.02 mg/1 mg"
+  },
+  {
+    "rank": 222,
+    "generic": "Norgestimate & Ethinyl Estradiol",
+    "brands": [
+      "TriNessa",
+      "Tri-Sprintec"
+    ],
+    "category": "Endocrine",
+    "indication": "Oral contraceptive",
+    "common_dose": "Tablet: 0.025 mg/0.215 mg; Tablet: 0.025 mg/0.18 mg"
+  },
+  {
+    "rank": 223,
+    "generic": "Norgestimate/Ethinyl Estradiol (Ortho Tri-Cyclen",
+    "brands": [
+      "Lo)"
+    ],
+    "category": "Endocrine",
+    "indication": "Oral contraceptive",
+    "common_dose": "Tablet: 0.025 mg/0.215 mg; Tablet: 0.025 mg/0.18 mg"
+  },
+  {
+    "rank": 224,
+    "generic": "Ethinyl Estradiol / Norelgestromin",
+    "brands": [
+      "Ortho Evra"
+    ],
+    "category": "Endocrine",
+    "indication": "Patch contraceptive",
+    "common_dose": "Transdermal System: 0.00146 mg/HR/0.00625 mg/HR"
+  },
+  {
+    "rank": 225,
+    "generic": "Insulin 70% NPH/ 30 % Regular",
+    "brands": [
+      "Novolin 70",
+      "30",
+      "Humulin 70"
+    ],
+    "category": "Endocrine",
+    "indication": "Pre-Mixed insulin",
+    "common_dose": "Inhaler: 4/8 units; Injection: 100 units/mL"
+  },
+  {
+    "rank": 226,
+    "generic": "Insulin 70% protamine/ 30 % rapid acting",
+    "brands": [
+      "Novalog Mix 70",
+      "30",
+      "Humalog Mix 75"
+    ],
+    "category": "Endocrine",
+    "indication": "Pre-Mixed insulin",
+    "common_dose": "Injection: 25 units/mL/75 units/mL; Pen Injector: 3 mL/25 units/mL/75 units/mL"
+  },
+  {
+    "rank": 227,
+    "generic": "Medroxyprogesterone",
+    "brands": [
+      "Depo-Provera"
+    ],
+    "category": "Endocrine",
+    "indication": "Progestin Contraceptive",
+    "common_dose": "Tablet: 0.3 mg/1.5 mg; Injection: 1 mL"
+  },
+  {
+    "rank": 228,
+    "generic": "Prednisone",
+    "brands": [
+      "Deltasone"
+    ],
+    "category": "Endocrine",
+    "indication": "Steroid Anti-inflammatory",
+    "common_dose": "Tablet: 1/2 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 229,
+    "generic": "Methylprednisolone",
+    "brands": [
+      "Medrol"
+    ],
+    "category": "Endocrine",
+    "indication": "Steroid anti-inflammatory/allergy",
+    "common_dose": "Tablet: 2/4 mg; Gel: 1%"
+  },
+  {
+    "rank": 230,
+    "generic": "Desiccated thyroid",
+    "brands": [
+      "Armour thyroid"
+    ],
+    "category": "Endocrine",
+    "indication": "Thyroid Hormone",
+    "common_dose": "Tablet: 15/16.25 mg"
+  },
+  {
+    "rank": 231,
+    "generic": "Levothyroxine",
+    "brands": [
+      "Synthroid or Levoxyl"
+    ],
+    "category": "Endocrine",
+    "indication": "Thyroid Hormone (synthetic T4)",
+    "common_dose": "Tablet: 0.0125 mg/0.0031 mg; Capsule: 0.013/0.025 mg"
+  },
+  {
+    "rank": 232,
+    "generic": "Estradiol",
+    "brands": [
+      "Vivelle-Dot",
+      "Estraderm"
+    ],
+    "category": "Endocrine",
+    "indication": "Topical estrogen patch",
+    "common_dose": "Tablet: 0.0025 mg/0.5 mg; Capsule: 0.02 mg/1 mg"
+  },
+  {
+    "rank": 233,
+    "generic": "Ethinyl Estradiol / Etonogestrel",
+    "brands": [
+      "NuvaRing"
+    ],
+    "category": "Endocrine",
+    "indication": "Vaginal contraceptive",
+    "common_dose": "Vaginal System: 0.000625 mg/HR/0.005 mg/HR"
+  },
+  {
+    "rank": 234,
+    "generic": "Estradiol",
+    "brands": [
+      "Vagifem"
+    ],
+    "category": "Endocrine",
+    "indication": "Vaginal estrogen",
+    "common_dose": "Tablet: 0.0025 mg/0.5 mg; Capsule: 0.02 mg/1 mg"
+  },
+  {
+    "rank": 235,
+    "generic": "Dicyclomine",
+    "brands": [
+      "Bentyl"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Anticholinergic for cramping/irritable bowel",
+    "common_dose": "Tablet: 20/40 mg; Capsule: 10 mg"
+  },
+  {
+    "rank": 236,
+    "generic": "Hyoscyamine",
+    "brands": [
+      "Levsin",
+      "Levbid",
+      "Levsinex"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Anticholinergic for cramping/irritable bowel",
+    "common_dose": "Tablet: 0.0194 mg/0.1037 mg/16.2 mg/0.0065 mg; Capsule: 0.0625 mg/15 mg"
+  },
+  {
+    "rank": 237,
+    "generic": "Loperamide",
+    "brands": [
+      "Imodium"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Antidiarrheal",
+    "common_dose": "Tablet: 2 mg; Capsule: 2 mg"
+  },
+  {
+    "rank": 238,
+    "generic": "Diphenoxylate/Atropine",
+    "brands": [
+      "Lomotil"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Antidiarrheal; C-V",
+    "common_dose": "Tablet: 0.025 mg/2.5 mg; Solution: 0.005 mg/mL/0.5 mg/mL"
+  },
+  {
+    "rank": 239,
+    "generic": "Promethazine",
+    "brands": [
+      "Phenergan"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Antihistamine - Nausea/Vomiting treatment",
+    "common_dose": "Tablet: 12.5/25 mg; Solution: 1 mg/mL/1.25 mg/mL"
+  },
+  {
+    "rank": 240,
+    "generic": "Lubiprostone",
+    "brands": [
+      "Amitiza"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Chloride Channel Activator",
+    "common_dose": "Capsule: 0.008/0.024 mg"
+  },
+  {
+    "rank": 241,
+    "generic": "Orlistat",
+    "brands": [
+      "Xenical"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Fat absorption inhibitor",
+    "common_dose": "Capsule: 60/120 mg"
+  },
+  {
+    "rank": 242,
+    "generic": "Famotidine",
+    "brands": [
+      "Pepcid"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "H 2 Antihistamine",
+    "common_dose": "Tablet: 10 mg; Suspension: 8 mg/mL"
+  },
+  {
+    "rank": 243,
+    "generic": "Ranitidine",
+    "brands": [
+      "Zantac"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "H 2 Antihistamine",
+    "common_dose": "Tablet: 75 mg"
+  },
+  {
+    "rank": 244,
+    "generic": "Polyethylene Glycol",
+    "brands": [
+      "Miralax",
+      "Glycolax"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Laxative",
+    "common_dose": "Solution: 900 mg/179000 mg/1120 mg/500 mg/7300 mg; Nasal Gel: 0.15 mg/mg/0.2 mg/mg"
+  },
+  {
+    "rank": 245,
+    "generic": "Metoclopramide",
+    "brands": [
+      "Reglan"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Promotility-Antiemetic",
+    "common_dose": "Tablet: 5/10 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 246,
+    "generic": "Esomeprazole",
+    "brands": [
+      "Nexium"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Proton Pump Inhibitor",
+    "common_dose": "Tablet: 20 mg/500 mg; Capsule: 20/24.65 mg"
+  },
+  {
+    "rank": 247,
+    "generic": "Lansoprazole",
+    "brands": [
+      "Prevacid"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Proton Pump Inhibitor",
+    "common_dose": "Tablet: 15/30 mg; Capsule: 15/30 mg"
+  },
+  {
+    "rank": 248,
+    "generic": "Omeprazole",
+    "brands": [
+      "Prilosec"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Proton Pump Inhibitor",
+    "common_dose": "Tablet: 20 mg; Capsule: 10 mg"
+  },
+  {
+    "rank": 249,
+    "generic": "Pantoprazole",
+    "brands": [
+      "Protonix"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Proton Pump Inhibitor",
+    "common_dose": "Tablet: 20/40 mg; Oral Granules: 40 mg"
+  },
+  {
+    "rank": 250,
+    "generic": "Rabeprazole",
+    "brands": [
+      "Aciphex"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Proton Pump Inhibitor",
+    "common_dose": "Tablet: 20 mg; Oral Granules: 5/10 mg"
+  },
+  {
+    "rank": 251,
+    "generic": "Omeprazole/sodium bicarbonate",
+    "brands": [
+      "Zegerid"
+    ],
+    "category": "Gastrointestinal",
+    "indication": "Proton Pump Inhibitor/Antacid combo",
+    "common_dose": "Capsule: 20 mg/1100 mg; Suspension: 2 mg/mL/84 mg/mL"
+  },
+  {
+    "rank": 252,
+    "generic": "Dutasteride",
+    "brands": [
+      "Avodart"
+    ],
+    "category": "Genitourinary",
+    "indication": "BPH - 5 alpha reductase inhibitor",
+    "common_dose": "Capsule: 0.5 mg; Capsule: 0.5 mg/0.4 mg"
+  },
+  {
+    "rank": 253,
+    "generic": "Tamsulosin",
+    "brands": [
+      "Flomax"
+    ],
+    "category": "Genitourinary",
+    "indication": "BPH - selective alpha blocker",
+    "common_dose": "Capsule: 0.4 mg; Capsule: 0.5 mg/0.4 mg"
+  },
+  {
+    "rank": 254,
+    "generic": "Alfuzosin",
+    "brands": [
+      "Uroxatral"
+    ],
+    "category": "Genitourinary",
+    "indication": "BPH - selective alpha blocker",
+    "common_dose": "Tablet: 10 mg"
+  },
+  {
+    "rank": 255,
+    "generic": "Vardenafil",
+    "brands": [
+      "Levitra"
+    ],
+    "category": "Genitourinary",
+    "indication": "Erectile dysfunction - vasodilator",
+    "common_dose": "Tablet: 2.5/5 mg"
+  },
+  {
+    "rank": 256,
+    "generic": "Sildenafil",
+    "brands": [
+      "Viagra"
+    ],
+    "category": "Genitourinary",
+    "indication": "Erectile dysfunction - Vasodilator",
+    "common_dose": "Tablet: 20/25 mg; Suspension: 10 mg/mL"
+  },
+  {
+    "rank": 257,
+    "generic": "Tadalafil",
+    "brands": [
+      "Cialis"
+    ],
+    "category": "Genitourinary",
+    "indication": "Erectile dysfunction - Vasodilator",
+    "common_dose": "Tablet: 2.5 mg; Capsule: 5 mg"
+  },
+  {
+    "rank": 258,
+    "generic": "Oxybutynin (Ditropan",
+    "brands": [
+      "XL)"
+    ],
+    "category": "Genitourinary",
+    "indication": "Urinary Incontinence - Anticholinergic",
+    "common_dose": "Tablet: 2.5/5 mg; Solution: 1 mg/mL"
+  },
+  {
+    "rank": 259,
+    "generic": "Tolterodine (Detrol",
+    "brands": [
+      "LA)"
+    ],
+    "category": "Genitourinary",
+    "indication": "Urinary Incontinence - Anticholinergic",
+    "common_dose": "Tablet: 1/2 mg; Capsule: 2/4 mg"
+  },
+  {
+    "rank": 260,
+    "generic": "Darifenacin",
+    "brands": [
+      "Enablex"
+    ],
+    "category": "Genitourinary",
+    "indication": "Urinary Incontinence - Anticholinergic",
+    "common_dose": "Tablet: 7.5/15 mg"
+  },
+  {
+    "rank": 261,
+    "generic": "Phenazopyridine",
+    "brands": [
+      "Pyridium"
+    ],
+    "category": "Genitourinary",
+    "indication": "Urinary Tract Analgesic",
+    "common_dose": "Tablet: 95/97.2 mg"
+  },
+  {
+    "rank": 262,
+    "generic": "cholecalciferol",
+    "brands": [
+      "Calcitriol"
+    ],
+    "category": "Nutritional",
+    "indication": "Vitamin D supplement",
+    "common_dose": "Tablet: 0.01 mg; Capsule: 0.01 mg/0.24 mg"
+  },
+  {
+    "rank": 263,
+    "generic": "Brimonidine",
+    "brands": [
+      "Alphagan P"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Agent for Glaucoma",
+    "common_dose": "Gel: 0.33%; Eye drops: 0.025%"
+  },
+  {
+    "rank": 264,
+    "generic": "Latanoprost",
+    "brands": [
+      "Xalatan"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Agent for glaucoma",
+    "common_dose": "Eye drops: 0.005%; Ophthalmic Suspension: 0.005%"
+  },
+  {
+    "rank": 265,
+    "generic": "Timolol (Timoptic",
+    "brands": [
+      "XE)"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Agent for glaucoma",
+    "common_dose": "Tablet: 5/10 mg; Eye drops: 2 mg/mL/5 mg/mL"
+  },
+  {
+    "rank": 266,
+    "generic": "Travoprost",
+    "brands": [
+      "Travatan"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Agent for glaucoma",
+    "common_dose": "Eye drops: 0.004%; Drug Implant: 0.075 mg"
+  },
+  {
+    "rank": 267,
+    "generic": "Brimonidine/Timolol",
+    "brands": [
+      "Combigan"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Alpha II agonist/beta blocker/antiglaucoma",
+    "common_dose": "Eye drops: 2 mg/mL/5 mg/mL"
+  },
+  {
+    "rank": 268,
+    "generic": "Olopatadine",
+    "brands": [
+      "Pataday or Patanol"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Antiallergy",
+    "common_dose": "Nasal spray: 0.025 mg/ACTunitsAT/0.665 mg/ACTunitsAT; Eye drops: 0.1/0.2 %"
+  },
+  {
+    "rank": 269,
+    "generic": "Tobramycin/Dexamethason e",
+    "brands": [
+      "Tobradex"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Antibiotic/anti-inflammatory",
+    "common_dose": "Nebulizer solution: 60 mg/mL; Inhaler: 28 mg"
+  },
+  {
+    "rank": 270,
+    "generic": "Moxifloxacin",
+    "brands": [
+      "Vigamox"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Antibiotic/Ophthalmic",
+    "common_dose": "Tablet: 400 mg; Eye drops: 0.5%"
+  },
+  {
+    "rank": 271,
+    "generic": "Cyclosporine",
+    "brands": [
+      "Restasis"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Calcineurin inhibitor",
+    "common_dose": "Capsule: 25/50 mg; Solution: 100 mg/mL"
+  },
+  {
+    "rank": 272,
+    "generic": "Dorzolamide/Timolol",
+    "brands": [
+      "Cosopt"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Carbonic anhydrase inhibitor/beta blocker/antiglaucoma",
+    "common_dose": "Eye drops: 20 mg/mL/5 mg/mL"
+  },
+  {
+    "rank": 273,
+    "generic": "Gatifloxacin",
+    "brands": [
+      "Zymar"
+    ],
+    "category": "Ophthalmic",
+    "indication": "Fluoroquinolone",
+    "common_dose": "Eye drops: 0.3/0.5%"
+  },
+  {
+    "rank": 274,
+    "generic": "Bimatoprost",
+    "brands": [
+      "Lumigan"
+    ],
+    "category": "Ophthalmic",
+    "indication": "prostaglandin analog for glaucoma treatment",
+    "common_dose": "Topical Solution: 0.03%; Eye drops: 0.01/0.03%"
+  },
+  {
+    "rank": 275,
+    "generic": "Neomycin/polymyxin/hydro cortisone",
+    "brands": [
+      "Cortisporin Otic"
+    ],
+    "category": "Otic",
+    "indication": "Otic Antibiotic",
+    "common_dose": "Ointment: 0.4 units/mg/0.0035 mg/mg/10 units/mg/0.01 mg/mg; Cream: 0.5 units/mL/40 mg/mL/0.0035 mg/mL/10 units/mL"
+  },
+  {
+    "rank": 276,
+    "generic": "Ciprofloxacin/Dexamethaso ne, Ciprofloxacin/Hydrocortison e",
+    "brands": [
+      "Ciprodex",
+      "Cipro HC"
+    ],
+    "category": "Otic",
+    "indication": "Otic Antibiotic/Corticosteroid",
+    "common_dose": "Tablet: 100/250 mg; Suspension: 50 mg/mL"
+  },
+  {
+    "rank": 277,
+    "generic": "Azelastine",
+    "brands": [
+      "Astelin"
+    ],
+    "category": "Respiratory",
+    "indication": "Allergic Rhinitis - Topical H1 antagonist",
+    "common_dose": "Nasal spray: 0.137 mg/ACTunitsAT; Eye drops: 0.05%"
+  },
+  {
+    "rank": 278,
+    "generic": "Budesonide Nasal Spray",
+    "brands": [
+      "Rhinocort Aqua"
+    ],
+    "category": "Respiratory",
+    "indication": "Allergic rhinitis -Nasal Steroid",
+    "common_dose": "Tablet: 9 mg; Capsule: 3/4 mg"
+  },
+  {
+    "rank": 279,
+    "generic": "Fluticasone",
+    "brands": [
+      "Flonase"
+    ],
+    "category": "Respiratory",
+    "indication": "Allergic rhinitis -Nasal Steroid",
+    "common_dose": "Ointment: 0.005%; Cream: 0.05%"
+  },
+  {
+    "rank": 280,
+    "generic": "Mometasone",
+    "brands": [
+      "Nasonex"
+    ],
+    "category": "Respiratory",
+    "indication": "Allergic rhinitis -Nasal Steroid",
+    "common_dose": "Cream: 0.1%; Ointment: 0.1%"
+  },
+  {
+    "rank": 281,
+    "generic": "Montelukast",
+    "brands": [
+      "Singulair"
+    ],
+    "category": "Respiratory",
+    "indication": "Anti -asthmatic - Leukotriene inhibitor",
+    "common_dose": "Tablet: 10 mg; Oral Granules: 4 mg"
+  },
+  {
+    "rank": 282,
+    "generic": "Albuterol",
+    "brands": [
+      "Proair HFA or Ventolin HFA or Proventil HFA"
+    ],
+    "category": "Respiratory",
+    "indication": "Anti- asthmatic - short-acting beta-2 agonist",
+    "common_dose": "Tablet: 2/4 mg; Solution: 0.4 mg/mL"
+  },
+  {
+    "rank": 283,
+    "generic": "levalbuterol (Xopenex",
+    "brands": [
+      "HFA)"
+    ],
+    "category": "Respiratory",
+    "indication": "Anti-asthmatic - short-acting beta-2 agonist",
+    "common_dose": "Nebulizer solution: 0.103 mg/mL; Inhaler: 0.045 mg/ACTunitsAT"
+  },
+  {
+    "rank": 284,
+    "generic": "Budesonide Inhalation Suspension",
+    "brands": [
+      "Pulmicort Respules",
+      "Flexhaler"
+    ],
+    "category": "Respiratory",
+    "indication": "Anti-asthmatic - Steroid",
+    "common_dose": "Tablet: 9 mg; Capsule: 3/4 mg"
+  },
+  {
+    "rank": 285,
+    "generic": "Fluticasone",
+    "brands": [
+      "Flovent"
+    ],
+    "category": "Respiratory",
+    "indication": "Anti-asthmatic - Steroid",
+    "common_dose": "Ointment: 0.005%; Cream: 0.05%"
+  },
+  {
+    "rank": 286,
+    "generic": "Fluticasone/Salmeterol",
+    "brands": [
+      "Advair"
+    ],
+    "category": "Respiratory",
+    "indication": "Antiasthmatic - Steroid/LA B2 agonist Antiasthmatic - Controller",
+    "common_dose": "Inhaler: 0.045 mg/ACTunitsAT/0.021 mg/ACTunitsAT; Inhaler: 0.055 mg/ACTunitsAT/0.014 mg/ACTunitsAT"
+  },
+  {
+    "rank": 287,
+    "generic": "Albuterol/Ipratropium",
+    "brands": [
+      "Respimat or Duoneb"
+    ],
+    "category": "Respiratory",
+    "indication": "Antiasthmatic/COPD Combo Bronchodilator/Anticholinergic",
+    "common_dose": "Inhalation Spray: 0.1 mg/ACTunitsAT/0.02 mg/ACTunitsAT; Nebulizer solution: 0.833 mg/mL/0.167 mg/mL"
+  },
+  {
+    "rank": 288,
+    "generic": "Tiotropium",
+    "brands": [
+      "Spiriva HandiHaler"
+    ],
+    "category": "Respiratory",
+    "indication": "Anticholinergic bronchodilator for COPD",
+    "common_dose": "Inhalation Spray: 0.00125 mg/ACTunitsAT; Inhaler: 0.018 mg"
+  },
+  {
+    "rank": 289,
+    "generic": "Ipratropium Bromide",
+    "brands": [
+      "Atrovent"
+    ],
+    "category": "Respiratory",
+    "indication": "Anticholinergic antibrochospasm and antisecretory",
+    "common_dose": "Nebulizer solution: 0.2 mg/mL; Inhalation Spray: 0.1 mg/ACTunitsAT/0.02 mg/ACTunitsAT"
+  },
+  {
+    "rank": 290,
+    "generic": "Cetirizine",
+    "brands": [
+      "Zyrtec"
+    ],
+    "category": "Respiratory",
+    "indication": "Antihistamine, 2nd generation H1",
+    "common_dose": "Tablet: 5 mg/120 mg; Capsule: 10 mg"
+  },
+  {
+    "rank": 291,
+    "generic": "Desloratadine",
+    "brands": [
+      "Clarinex"
+    ],
+    "category": "Respiratory",
+    "indication": "Antihistamine, 2nd generation H1",
+    "common_dose": "Tablet: 2.5 mg; Solution: 0.5 mg/mL"
+  },
+  {
+    "rank": 292,
+    "generic": "Loratadine",
+    "brands": [
+      "Claritin"
+    ],
+    "category": "Respiratory",
+    "indication": "Antihistamine, 2nd generation H1",
+    "common_dose": "Tablet: 5 mg/120 mg; Capsule: 10 mg"
+  },
+  {
+    "rank": 293,
+    "generic": "Fexofenadine (PSE) (Allegra",
+    "brands": [
+      "D)"
+    ],
+    "category": "Respiratory",
+    "indication": "Antihistamine, 2nd generation H1 (+Decongestant)",
+    "common_dose": "Tablet: 30 mg; Suspension: 6 mg/mL"
+  },
+  {
+    "rank": 294,
+    "generic": "Guaifenesin (Mucinex",
+    "brands": [
+      "D",
+      "DM)"
+    ],
+    "category": "Respiratory",
+    "indication": "Expectorant (+/- decongestant, antitussive)",
+    "common_dose": "Tablet: 2 mg/G/100 mg/5 mg; Capsule: 9 mg/G/200 mg"
+  },
+  {
+    "rank": 295,
+    "generic": "Guaifenesin & Codeine",
+    "brands": [
+      "Cheratussin AC"
+    ],
+    "category": "Respiratory",
+    "indication": "Expectorant/Antitussive combo - CV",
+    "common_dose": "Tablet: 10 mg/G/400 mg/20 mg; Capsule: 9 mg/G/200 mg"
+  },
+  {
+    "rank": 296,
+    "generic": "herpes zoster vaccine",
+    "brands": [
+      "Zostavax"
+    ],
+    "category": "Vaccine",
+    "indication": "Herpes Zoster (shingles virus) Vaccine",
+    "common_dose": "Tablet: 32000 units; Suspension: 667000 units/mL"
+  },
+  {
+    "rank": 297,
+    "generic": "Human papillomavirus vaccine",
+    "brands": [
+      "Gardasil",
+      "Cervarix"
+    ],
+    "category": "Vaccine",
+    "indication": "Human papillomavirus vaccine (HPV)",
+    "common_dose": "Injection: 0.5 mL; Prefilled Syringe: 0.5 mL"
+  },
+  {
+    "rank": 298,
+    "generic": "Influenza virus vaccine",
+    "brands": [
+      "Afluria",
+      "Fluvirin",
+      "Fluzone"
+    ],
+    "category": "Vaccine",
+    "indication": "Influenza Virus Vaccine",
+    "common_dose": "Nasal spray: 158000000 units/mL; Injection: 0.015 mg/mL"
+  },
+  {
+    "rank": 299,
+    "generic": "pneumococcal polysaccharide vaccine",
+    "brands": [
+      "Pneumovax"
+    ],
+    "category": "Vaccine",
+    "indication": "Streptococcus Pneumoniae Bacterial Vaccine",
+    "common_dose": "Tablet: 1 mg/6 mg/22 mg/0.025 mg; Capsule: 1 mg/150 mg/0.025 mg"
+  },
+  {
+    "rank": 300,
+    "generic": "Tetanus, Diphtheria, Pertussis Vaccine",
+    "brands": [
+      "Tdap"
+    ],
+    "category": "Vaccine",
+    "indication": "Tetanus, Diphtheria, Pertussis",
+    "common_dose": "Injection: 0.5 mL; Prefilled Syringe: 0.5 mL"
+  }
+]
